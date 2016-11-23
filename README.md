@@ -17,4 +17,4 @@ TODO
 
 ## Errata
 
-Empty :)
+* During the preparation of the experimental result table it has been noticed that there was a bad entry for the second integer program for full coverage in grid graphs. It wasn't able to solve the largest entry. This does not change the results because the second formulations was anyway the weakest one.
