@@ -1,0 +1,2892 @@
+# instance   solver  ObjVal  Time(ms)    Creation(ms)    InitialIP(ms)   Calculations(ms)    CPLEX-Separations(ms)   Separation-Iterations   Cuts-added
+fc_1000_dense_0.gg	F1-CC	180.0	3225	13	3212	0	0	1	0
+fc_1000_dense_0.gg	F1-CC	180.0	3299	16	3283	0	0	1	0
+fc_1000_dense_0.gg	F1-T-B	OutOfTime
+fc_1000_dense_0.gg	F1-CC	180.0	3166	16	3150	0	0	1	0
+fc_1000_dense_0.gg	F1-T-B	OutOfTime
+fc_1000_dense_0.gg	F1-T-A	OutOfTime
+fc_1000_dense_1.gg	F1-CC	146.0	660	13	647	0	0	1	0
+fc_1000_dense_1.gg	F1-T-B	146.0	1286	14	729	6	537	2	2
+fc_1000_dense_1.gg	F1-T-A	146.0	1224	13	667	8	536	2	2
+fc_1000_dense_2.gg	F1-CC	136.0	739	13	726	0	0	1	0
+fc_1000_dense_2.gg	F1-T-B	136.0	1044	13	757	6	268	2	3
+fc_1000_dense_2.gg	F1-T-A	136.0	1032	13	726	7	286	2	3
+fc_1000_dense_3.gg	F1-CC	160.0	2620	13	2607	0	0	1	0
+fc_1000_dense_3.gg	F1-T-B	162.0	74900	13	2529	10	72348	3	8
+fc_1000_dense_3.gg	F1-T-A	162.0	5912	13	2576	8	3315	2	7
+fc_1000_dense_4.gg	F1-CC	140.0	542	13	529	0	0	1	0
+fc_1000_dense_4.gg	F1-T-B	140.0	612	13	493	6	100	2	2
+fc_1000_dense_4.gg	F1-T-A	140.0	612	13	493	8	98	2	2
+fc_1000_sparse_0.gg	F1-CC	OutOfTime
+fc_1000_sparse_0.gg	F1-T-B	OutOfTime
+fc_1000_sparse_0.gg	F1-T-A	OutOfTime
+fc_1000_sparse_1.gg	F1-CC	OutOfTime
+fc_1000_sparse_1.gg	F1-T-B	OutOfTime
+fc_1000_sparse_1.gg	F1-T-A	OutOfTime
+fc_1000_sparse_2.gg	F1-CC	OutOfTime
+fc_1000_sparse_2.gg	F1-T-B	OutOfTime
+fc_1000_sparse_2.gg	F1-T-A	OutOfTime
+fc_1000_sparse_3.gg	F1-CC	OutOfTime
+fc_1000_sparse_3.gg	F1-T-B	OutOfTime
+fc_1000_sparse_3.gg	F1-T-A	OutOfTime
+fc_1000_sparse_4.gg	F1-CC	OutOfTime
+fc_1000_sparse_4.gg	F1-T-B	OutOfTime
+fc_1000_sparse_4.gg	F1-T-A	OutOfTime
+fc_100_dense_0.gg	F1-CC	38.0	41	7	34	0	0	1	0
+fc_100_dense_0.gg	F1-T-B	38.0	53	3	27	0	23	2	2
+fc_100_dense_0.gg	F1-T-A	38.0	53	3	27	0	23	2	2
+fc_100_dense_1.gg	F1-CC	34.0	100	7	93	0	0	1	0
+fc_100_dense_1.gg	F1-T-B	34.0	64	3	61	0	0	1	0
+fc_100_dense_1.gg	F1-T-A	34.0	62	3	59	0	0	1	0
+fc_100_dense_3.gg	F1-CC	30.0	53	3	50	0	0	1	0
+fc_100_dense_3.gg	F1-T-B	30.0	228	3	50	0	175	4	9
+fc_100_dense_3.gg	F1-T-A	30.0	290	7	75	0	208	4	9
+fc_100_sparse_0.gg	F1-CC	60.0	43	7	36	0	0	1	0
+fc_100_sparse_0.gg	F1-T-B	60.0	96	3	20	0	73	4	9
+fc_100_sparse_0.gg	F1-T-A	60.0	57	3	18	0	36	3	8
+fc_100_sparse_1.gg	F1-CC	56.0	49	7	42	0	0	1	0
+fc_100_sparse_1.gg	F1-T-B	56.0	60	3	23	0	34	3	7
+fc_100_sparse_1.gg	F1-T-A	56.0	37	3	23	0	11	2	6
+fc_100_sparse_3.gg	F1-CC	40.0	114	3	111	0	0	1	0
+fc_100_sparse_3.gg	F1-T-B	40.0	183	3	123	0	57	2	2
+fc_100_sparse_3.gg	F1-T-A	40.0	201	3	145	0	53	2	4
+fc_200_dense_0.gg	F1-CC	46.0	59	4	55	0	0	1	0
+fc_200_dense_0.gg	F1-T-B	OutOfTime
+fc_200_dense_0.gg	F1-T-A	46.0	224	4	56	1	163	3	7
+fc_200_dense_1.gg	F1-CC	36.0	27	4	23	0	0	1	0
+fc_200_dense_1.gg	F1-T-B	36.0	24	4	20	0	0	1	0
+fc_200_dense_1.gg	F1-T-A	36.0	27	4	23	0	0	1	0
+fc_200_dense_2.gg	F1-CC	38.0	63	4	59	0	0	1	0
+fc_200_dense_2.gg	F1-T-B	38.0	63	4	59	0	0	1	0
+fc_200_dense_2.gg	F1-T-A	38.0	91	10	81	0	0	1	0
+fc_200_dense_3.gg	F1-CC	42.0	71	4	67	0	0	1	0
+fc_200_dense_3.gg	F1-T-B	42.0	95	4	67	0	24	2	2
+fc_200_dense_3.gg	F1-T-A	42.0	104	4	67	1	32	2	4
+fc_200_sparse_0.gg	F1-CC	90.0	113	4	109	0	0	1	0
+fc_200_sparse_0.gg	F1-T-B	90.0	302	4	110	0	188	2	5
+fc_200_sparse_0.gg	F1-T-A	90.0	322	4	118	0	200	2	5
+fc_200_sparse_2.gg	F1-CC	92.0	136	4	132	0	0	1	0
+fc_200_sparse_2.gg	F1-T-B	OutOfTime
+fc_200_sparse_2.gg	F1-T-A	OutOfTime
+fc_200_sparse_3.gg	F1-CC	72.0	154	9	145	0	0	1	0
+fc_200_sparse_3.gg	F1-T-B	74.0	618	4	119	0	495	2	2
+fc_200_sparse_3.gg	F1-T-A	74.0	626	4	137	0	485	2	2
+fc_300_dense_0.gg	F1-CC	78.0	1094	5	1089	0	0	1	0
+fc_300_dense_0.gg	F1-T-B	78.0	3594	5	1092	2	2495	3	5
+fc_300_dense_0.gg	F1-T-A	78.0	2101	5	1088	1	1007	2	5
+fc_300_dense_1.gg	F1-CC	50.0	284	5	279	0	0	1	0
+fc_300_dense_1.gg	F1-T-B	50.0	283	5	278	0	0	1	0
+fc_300_dense_1.gg	F1-T-A	50.0	277	5	272	0	0	1	0
+fc_300_dense_2.gg	F1-CC	52.0	200	12	188	0	0	1	0
+fc_300_dense_2.gg	F1-T-B	52.0	186	5	181	0	0	1	0
+fc_300_dense_2.gg	F1-T-A	52.0	130	5	125	0	0	1	0
+fc_300_dense_3.gg	F1-CC	52.0	104	5	99	0	0	1	0
+fc_300_dense_3.gg	F1-T-B	52.0	108	5	103	0	0	1	0
+fc_300_dense_3.gg	F1-T-A	52.0	105	5	100	0	0	1	0
+fc_300_dense_4.gg	F1-CC	48.0	102	5	97	0	0	1	0
+fc_300_dense_4.gg	F1-T-B	48.0	102	5	97	0	0	1	0
+fc_300_dense_4.gg	F1-T-A	48.0	102	5	97	0	0	1	0
+fc_300_sparse_0.gg	F1-CC	144.0	18453	11	18442	0	0	1	0
+fc_300_sparse_0.gg	F1-T-B	OutOfTime
+fc_300_sparse_0.gg	F1-T-A	OutOfTime
+fc_300_sparse_1.gg	F1-CC	110.0	393	5	388	0	0	1	0
+fc_300_sparse_1.gg	F1-T-B	110.0	627	5	381	3	238	4	14
+fc_300_sparse_1.gg	F1-T-A	110.0	451	5	363	2	81	3	15
+fc_300_sparse_2.gg	F1-CC	102.0	67	5	62	0	0	1	0
+fc_300_sparse_2.gg	F1-T-B	102.0	442	6	65	3	368	4	9
+fc_300_sparse_2.gg	F1-T-A	102.0	1076	5	56	7	1008	8	22
+fc_300_sparse_3.gg	F1-CC	124.0	248	5	243	0	0	1	0
+fc_300_sparse_3.gg	F1-T-B	126.0	1211	5	251	2	953	3	5
+fc_300_sparse_3.gg	F1-T-A	126.0	1223	5	240	2	976	3	7
+fc_300_sparse_4.gg	F1-CC	132.0	1426	5	1421	0	0	1	0
+fc_300_sparse_4.gg	F1-T-B	134.0	7012	5	1486	2	5519	3	8
+fc_300_sparse_4.gg	F1-T-A	134.0	68020	5	1451	2	66562	3	9
+fc_400_dense_0.gg	F1-CC	64.0	209	7	202	0	0	1	0
+fc_400_dense_0.gg	F1-T-B	64.0	348	6	169	2	171	3	4
+fc_400_dense_0.gg	F1-T-A	64.0	359	7	185	4	163	3	6
+fc_400_dense_1.gg	F1-CC	58.0	166	6	160	0	0	1	0
+fc_400_dense_1.gg	F1-T-B	58.0	472	6	161	1	304	2	2
+fc_400_dense_1.gg	F1-T-A	58.0	407	6	122	2	277	2	2
+fc_400_dense_2.gg	F1-CC	62.0	191	15	176	0	0	1	0
+fc_400_dense_2.gg	F1-T-B	62.0	684	6	120	3	555	4	7
+fc_400_dense_2.gg	F1-T-A	62.0	589	14	103	4	468	4	7
+fc_400_dense_3.gg	F1-CC	76.0	6352	6	6346	0	0	1	0
+fc_400_dense_3.gg	F1-T-B	76.0	32785	6	6293	3	26483	4	9
+fc_400_dense_3.gg	F1-T-A	76.0	41328	6	6282	5	35035	4	11
+fc_400_dense_4.gg	F1-CC	54.0	323	6	317	0	0	1	0
+fc_400_dense_4.gg	F1-T-B	54.0	306	6	268	1	31	2	2
+fc_400_dense_4.gg	F1-T-A	54.0	362	6	323	2	31	2	2
+fc_400_sparse_0.gg	F1-CC	196.0	2871	13	2858	0	0	1	0
+fc_400_sparse_0.gg	F1-T-B	OutOfTime
+fc_400_sparse_0.gg	F1-T-A	OutOfTime
+fc_400_sparse_1.gg	F1-CC	158.0	234	7	227	0	0	1	0
+fc_400_sparse_1.gg	F1-T-B	158.0	710	6	231	3	470	4	17
+fc_400_sparse_1.gg	F1-T-A	158.0	1115	6	226	9	874	6	26
+fc_400_sparse_2.gg	F1-CC	186.0	1685	6	1679	0	0	1	0
+fc_400_sparse_2.gg	F1-T-B	186.0	25768	6	1658	7	24097	8	29
+fc_400_sparse_2.gg	F1-T-A	186.0	8746	6	1677	9	7054	5	26
+fc_400_sparse_3.gg	F1-CC	138.0	478	6	472	0	0	1	0
+fc_400_sparse_3.gg	F1-T-B	140.0	4941	6	410	10	4515	11	38
+fc_400_sparse_3.gg	F1-T-A	140.0	5924	6	412	12	5494	8	40
+fc_400_sparse_4.gg	F1-CC	150.0	308	6	302	0	0	1	0
+fc_400_sparse_4.gg	F1-T-B	150.0	1245	6	346	3	890	4	14
+fc_400_sparse_4.gg	F1-T-A	OutOfTime
+fc_500_dense_0.gg	F1-CC	84.0	3048	7	3041	0	0	1	0
+fc_500_dense_0.gg	F1-T-B	84.0	10127	8	3017	9	7093	5	9
+fc_500_dense_0.gg	F1-T-A	84.0	10067	7	2996	9	7055	5	9
+fc_500_dense_1.gg	F1-CC	OutOfTime
+fc_500_dense_1.gg	F1-T-B	OutOfTime
+fc_500_dense_1.gg	F1-T-A	OutOfTime
+fc_500_dense_2.gg	F1-CC	92.0	489	17	472	0	0	1	0
+fc_500_dense_2.gg	F1-T-B	92.0	456	7	448	1	0	1	0
+fc_500_dense_2.gg	F1-T-A	92.0	554	7	546	1	0	1	0
+fc_500_dense_3.gg	F1-CC	74.0	362	7	355	0	0	1	0
+fc_500_dense_3.gg	F1-T-B	74.0	574	7	353	5	209	3	7
+fc_500_dense_3.gg	F1-T-A	74.0	566	7	325	5	229	3	7
+fc_500_dense_4.gg	F1-CC	84.0	113	7	106	0	0	1	0
+fc_500_dense_4.gg	F1-T-B	84.0	201	7	101	3	90	2	2
+fc_500_dense_4.gg	F1-T-A	84.0	202	7	101	3	91	2	2
+fc_500_sparse_0.gg	F1-CC	246.0	1145	15	1130	0	0	1	0
+fc_500_sparse_0.gg	F1-T-B	248.0	854384	6	1103	46	853229	46	204
+fc_500_sparse_0.gg	F1-T-A	248.0	35328	6	1166	17	34139	9	70
+fc_500_sparse_1.gg	F1-CC	OutOfTime
+fc_500_sparse_1.gg	F1-T-B	OutOfTime
+fc_500_sparse_1.gg	F1-T-A	OutOfTime
+fc_500_sparse_2.gg	F1-CC	202.0	8493	15	8478	0	0	1	0
+fc_500_sparse_2.gg	F1-T-B	OutOfTime
+fc_500_sparse_2.gg	F1-T-A	206.0	39841	7	8361	5	31468	3	19
+fc_500_sparse_3.gg	F1-CC	258.0	12675	6	12669	0	0	1	0
+fc_500_sparse_3.gg	F1-T-B	258.0	50652	6	12621	4	38021	5	22
+fc_500_sparse_3.gg	F1-T-A	258.0	44425	6	12672	9	31738	5	27
+fc_500_sparse_4.gg	F1-CC	214.0	1598	7	1591	0	0	1	0
+fc_500_sparse_4.gg	F1-T-B	216.0	36537	6	1589	6	34936	7	29
+fc_500_sparse_4.gg	F1-T-A	216.0	19448	6	1606	9	17827	5	26
+fc_600_dense_0.gg	F1-CC	104.0	96823	20	96803	0	0	1	0
+fc_600_dense_0.gg	F1-T-B	104.0	397014	8	96231	5	300770	3	4
+fc_600_dense_0.gg	F1-T-A	104.0	403266	8	96775	5	306478	3	4
+fc_600_dense_1.gg	F1-CC	OutOfTime
+fc_600_dense_1.gg	F1-T-B	OutOfTime
+fc_600_dense_1.gg	F1-T-A	OutOfTime
+fc_600_dense_2.gg	F1-CC	90.0	4896	20	4876	0	0	1	0
+fc_600_dense_2.gg	F1-T-B	90.0	6089	9	4894	3	1183	2	2
+fc_600_dense_2.gg	F1-T-A	90.0	6084	9	4860	3	1212	2	2
+fc_600_dense_3.gg	F1-CC	86.0	6511	8	6503	0	0	1	0
+fc_600_dense_3.gg	F1-T-B	86.0	6467	9	6457	1	0	1	0
+fc_600_dense_3.gg	F1-T-A	86.0	6382	9	6372	1	0	1	0
+fc_600_dense_4.gg	F1-CC	92.0	1803	9	1794	0	0	1	0
+fc_600_dense_4.gg	F1-T-B	92.0	2445	9	1627	3	806	2	2
+fc_600_dense_4.gg	F1-T-A	92.0	2507	9	1655	3	840	2	2
+fc_600_sparse_0.gg	F1-CC	252.0	13460	8	13452	0	0	1	0
+fc_600_sparse_0.gg	F1-T-B	OutOfTime
+fc_600_sparse_0.gg	F1-T-A	OutOfTime
+fc_600_sparse_1.gg	F1-CC	246.0	9393	8	9385	0	0	1	0
+fc_600_sparse_1.gg	F1-T-B	248.0	39936	8	9350	27	30551	14	57
+fc_600_sparse_1.gg	F1-T-A	248.0	28682	8	9406	22	19246	10	55
+fc_600_sparse_2.gg	F1-CC	276.0	44393	17	44376	0	0	1	0
+fc_600_sparse_2.gg	F1-T-B	276.0	66386	7	44303	25	22051	13	56
+fc_600_sparse_2.gg	F1-T-A	276.0	49192	7	44788	10	4387	4	30
+fc_600_sparse_3.gg	F1-CC	272.0	16327	7	16320	0	0	1	0
+fc_600_sparse_3.gg	F1-T-B	OutOfTime
+fc_600_sparse_3.gg	F1-T-A	OutOfTime
+fc_600_sparse_4.gg	F1-CC	282.0	1619	9	1610	0	0	1	0
+fc_600_sparse_4.gg	F1-T-B	282.0	17044	7	1525	17	15495	9	48
+fc_600_sparse_4.gg	F1-T-A	OutOfTime
+fc_700_dense_0.gg	F1-CC	84.0	1750	13	1737	0	0	1	0
+fc_700_dense_0.gg	F1-T-B	84.0	1632	10	1621	1	0	1	0
+fc_700_dense_0.gg	F1-T-A	84.0	1641	10	1630	1	0	1	0
+fc_700_dense_1.gg	F1-CC	88.0	1939	11	1928	0	0	1	0
+fc_700_dense_1.gg	F1-T-B	88.0	3560	10	1912	3	1635	2	2
+fc_700_dense_1.gg	F1-T-A	88.0	3467	10	1805	5	1647	2	2
+fc_700_dense_2.gg	F1-CC	102.0	1823	23	1800	0	0	1	0
+fc_700_dense_2.gg	F1-T-B	102.0	5196	10	2009	3	3174	2	2
+fc_700_dense_2.gg	F1-T-A	102.0	5155	10	1799	5	3341	2	2
+fc_700_dense_3.gg	F1-CC	98.0	984	10	974	0	0	1	0
+fc_700_dense_3.gg	F1-T-B	OutOfTime
+fc_700_dense_3.gg	F1-T-A	OutOfTime
+fc_700_dense_4.gg	F1-CC	88.0	217181	10	217171	0	0	1	0
+fc_700_dense_4.gg	F1-T-B	88.0	216780	10	216204	3	563	2	2
+fc_700_dense_4.gg	F1-T-A	88.0	217756	10	217228	4	514	2	2
+fc_700_sparse_0.gg	F1-CC	OutOfTime
+fc_700_sparse_0.gg	F1-T-B	OutOfTime
+fc_700_sparse_0.gg	F1-T-A	OutOfTime
+fc_700_sparse_1.gg	F1-CC	OutOfTime
+fc_700_sparse_1.gg	F1-T-B	OutOfTime
+fc_700_sparse_1.gg	F1-T-A	OutOfTime
+fc_700_sparse_2.gg	F1-CC	342.0	30865	19	30846	0	0	1	0
+fc_700_sparse_2.gg	F1-T-B	OutOfTime
+fc_700_sparse_2.gg	F1-T-A	OutOfTime
+fc_700_sparse_3.gg	F1-CC	OutOfTime
+fc_700_sparse_3.gg	F1-T-B	OutOfTime
+fc_700_sparse_3.gg	F1-T-A	OutOfTime
+fc_700_sparse_4.gg	F1-CC	OutOfTime
+fc_700_sparse_4.gg	F1-T-B	OutOfTime
+fc_700_sparse_4.gg	F1-T-A	OutOfTime
+fc_800_dense_0.gg	F1-CC	OutOfTime
+fc_800_dense_0.gg	F1-T-B	OutOfTime
+fc_800_dense_0.gg	F1-T-A	OutOfTime
+fc_800_dense_1.gg	F1-CC	120.0	837	26	811	0	0	1	0
+fc_800_dense_1.gg	F1-T-B	120.0	1006	11	684	4	307	2	4
+fc_800_dense_1.gg	F1-T-A	120.0	1159	17	835	6	301	2	4
+fc_800_dense_2.gg	F1-CC	OutOfTime
+fc_800_dense_2.gg	F1-T-B	OutOfTime
+fc_800_dense_2.gg	F1-T-A	OutOfTime
+fc_800_dense_3.gg	F1-CC	104.0	73205	11	73194	0	0	1	0
+fc_800_dense_3.gg	F1-T-B	104.0	89727	11	73226	4	16486	2	2
+fc_800_dense_3.gg	F1-T-A	104.0	89916	11	72769	6	17130	2	4
+fc_800_dense_4.gg	F1-CC	OutOfTime
+fc_800_dense_4.gg	F1-T-B	OutOfTime
+fc_800_dense_4.gg	F1-T-A	OutOfTime
+fc_800_sparse_0.gg	F1-CC	360.0	22708	10	22698	0	0	1	0
+fc_800_sparse_0.gg	F1-T-B	OutOfTime
+fc_800_sparse_0.gg	F1-T-A	OutOfTime
+fc_800_sparse_1.gg	F1-CC	348.0	174924	22	174902	0	0	1	0
+fc_800_sparse_1.gg	F1-T-B	348.0	586255	10	174654	29	411562	14	78
+fc_800_sparse_1.gg	F1-T-A	OutOfTime
+fc_800_sparse_2.gg	F1-CC	OutOfTime
+fc_800_sparse_2.gg	F1-T-B	OutOfTime
+fc_800_sparse_2.gg	F1-T-A	OutOfTime
+fc_800_sparse_3.gg	F1-CC	OutOfTime
+fc_800_sparse_3.gg	F1-T-B	OutOfTime
+fc_800_sparse_3.gg	F1-T-A	OutOfTime
+fc_800_sparse_4.gg	F1-CC	OutOfTime
+fc_800_sparse_4.gg	F1-T-B	OutOfTime
+fc_800_sparse_4.gg	F1-T-A	OutOfTime
+fc_900_dense_0.gg	F1-CC	152.0	764	28	736	0	0	1	0
+fc_900_dense_0.gg	F1-T-B	152.0	1611	12	581	8	1010	3	7
+fc_900_dense_0.gg	F1-T-A	152.0	2367	12	557	15	1783	4	12
+fc_900_dense_1.gg	F1-CC	126.0	1105	20	1085	0	0	1	0
+fc_900_dense_1.gg	F1-T-B	126.0	899	12	885	2	0	1	0
+fc_900_dense_1.gg	F1-T-A	126.0	891	12	877	2	0	1	0
+fc_900_dense_2.gg	F1-CC	116.0	2582	13	2569	0	0	1	0
+fc_900_dense_2.gg	F1-T-B	116.0	6629	12	2577	7	4033	3	7
+fc_900_dense_2.gg	F1-T-A	116.0	6658	12	2570	10	4066	3	7
+fc_900_dense_3.gg	F1-CC	124.0	3750	12	3738	0	0	1	0
+fc_900_dense_3.gg	F1-T-B	OutOfTime
+fc_900_dense_3.gg	F1-T-A	OutOfTime
+fc_900_dense_4.gg	F1-CC	98.0	187	13	174	0	0	1	0
+fc_900_dense_4.gg	F1-T-B	98.0	293	12	132	5	144	2	4
+fc_900_dense_4.gg	F1-T-A	98.0	264	12	132	7	113	2	7
+fc_900_sparse_0.gg	F1-CC	OutOfTime
+fc_900_sparse_0.gg	F1-T-B	OutOfTime
+fc_900_sparse_0.gg	F1-T-A	OutOfTime
+fc_900_sparse_1.gg	F1-CC	OutOfTime
+fc_900_sparse_1.gg	F1-T-B	OutOfTime
+fc_900_sparse_1.gg	F1-T-A	OutOfTime
+fc_900_sparse_2.gg	F1-CC	OutOfTime
+fc_900_sparse_2.gg	F1-T-B	OutOfTime
+fc_900_sparse_2.gg	F1-T-A	OutOfTime
+fc_900_sparse_3.gg	F1-CC	400.0	19799	11	19788	0	0	1	0
+fc_900_sparse_3.gg	F1-T-B	400.0	425204	24	19917	40	405223	14	73
+fc_900_sparse_3.gg	F1-T-A	OutOfTime
+fc_900_sparse_4.gg	F1-CC	370.0	207046	11	207035	0	0	1	0
+fc_900_sparse_4.gg	F1-T-B	OutOfTime
+fc_900_sparse_4.gg	F1-T-A	OutOfTime
+fc_1100_dense_0.gg	F1-CC	124.0	55705	34	55671	0	0	1	0
+fc_1100_dense_0.gg	F1-T-B	124.0	129236	14	55813	6	73403	2	2
+fc_1100_dense_0.gg	F1-T-A	124.0	129781	15	55733	8	74025	2	2
+fc_1100_dense_1.gg	F1-CC	172.0	3755	21	3734	0	0	1	0
+fc_1100_dense_1.gg	F1-T-B	172.0	112841	14	3732	6	109089	2	3
+fc_1100_dense_1.gg	F1-T-A	172.0	113281	14	3774	8	109485	2	3
+fc_1100_dense_2.gg	F1-CC	144.0	1195	34	1161	0	0	1	0
+fc_1100_dense_2.gg	F1-T-B	144.0	3322	14	1097	22	2189	6	11
+fc_1100_dense_2.gg	F1-T-A	144.0	3339	14	1107	28	2190	6	11
+fc_1100_dense_3.gg	F1-CC	OutOfTime
+fc_1100_dense_3.gg	F1-T-B	OutOfTime
+fc_1100_dense_3.gg	F1-T-A	OutOfTime
+fc_1100_dense_4.gg	F1-CC	128.0	317	14	303	0	0	1	0
+fc_1100_dense_4.gg	F1-T-B	128.0	1004	14	343	11	636	3	5
+fc_1100_dense_4.gg	F1-T-A	128.0	969	14	314	13	628	3	5
+fc_1100_sparse_0.gg	F1-CC	442.0	73104	12	73092	0	0	1	0
+fc_1100_sparse_0.gg	F1-T-B	OutOfTime
+fc_1100_sparse_0.gg	F1-T-A	OutOfTime
+fc_1100_sparse_1.gg	F1-CC	526.0	6203	28	6175	0	0	1	0
+fc_1100_sparse_1.gg	F1-T-B	OutOfTime
+fc_1100_sparse_1.gg	F1-T-A	OutOfTime
+fc_1100_sparse_2.gg	F1-CC	OutOfTime
+fc_1100_sparse_2.gg	F1-CC	OutOfTime
+fc_1100_sparse_2.gg	F1-T-B	OutOfTime
+fc_1100_sparse_2.gg	F1-T-A	OutOfTime
+fc_1100_sparse_3.gg	F1-CC	OutOfTime
+fc_1100_sparse_3.gg	F1-T-B	OutOfTime
+fc_1100_sparse_3.gg	F1-T-A	OutOfTime
+fc_1100_sparse_4.gg	F1-CC	OutOfTime
+fc_1100_sparse_4.gg	F1-T-B	OutOfTime
+fc_1100_sparse_4.gg	F1-T-A	OutOfTime
+fc_1200_dense_0.gg	F1-CC	OutOfTime
+fc_1200_dense_0.gg	F1-T-B	OutOfTime
+fc_1200_dense_0.gg	F1-T-A	OutOfTime
+fc_1200_dense_1.gg	F1-CC	OutOfTime
+fc_1200_dense_1.gg	F1-T-B	OutOfTime
+fc_1200_dense_1.gg	F1-T-A	OutOfTime
+fc_1200_dense_2.gg	F1-CC	186.0	13179	34	13145	0	0	1	0
+fc_1200_dense_2.gg	F1-T-B	186.0	41792	16	12469	15	29292	4	9
+fc_1200_dense_2.gg	F1-T-A	186.0	46515	16	12496	22	33981	4	16
+fc_1200_dense_3.gg	F1-CC	OutOfTime
+fc_1200_dense_3.gg	F1-T-B	OutOfTime
+fc_1200_dense_3.gg	F1-T-A	OutOfTime
+fc_1200_dense_4.gg	F1-CC	142.0	31620	16	31604	0	0	1	0
+fc_1200_dense_4.gg	F1-T-B	142.0	109906	16	31610	11	78269	3	7
+fc_1200_dense_4.gg	F1-T-A	142.0	109924	16	31530	13	78365	3	7
+fc_1200_sparse_0.gg	F1-CC	OutOfTime
+fc_1200_sparse_0.gg	F1-T-B	OutOfTime
+fc_1200_sparse_0.gg	F1-T-A	OutOfTime
+fc_1200_sparse_1.gg	F1-CC	OutOfTime
+fc_1200_sparse_1.gg	F1-T-B	OutOfTime
+fc_1200_sparse_1.gg	F1-T-A	OutOfTime
+fc_1200_sparse_2.gg	F1-CC	OutOfTime
+fc_1200_sparse_2.gg	F1-T-B	OutOfTime
+fc_1200_sparse_2.gg	F1-T-A	OutOfTime
+fc_1200_sparse_3.gg	F1-CC	OutOfTime
+fc_1200_sparse_3.gg	F1-T-B	OutOfTime
+fc_1200_sparse_3.gg	F1-T-A	OutOfTime
+fc_1200_sparse_4.gg	F1-CC	OutOfTime
+fc_1200_sparse_4.gg	F1-T-B	OutOfTime
+fc_1200_sparse_4.gg	F1-T-A	OutOfTime
+fc_1300_dense_0.gg	F1-CC	184.0	3476	38	3438	0	0	1	0
+fc_1300_dense_0.gg	F1-T-B	184.0	3419	17	3400	2	0	1	0
+fc_1300_dense_0.gg	F1-T-A	184.0	3412	17	3392	3	0	1	0
+fc_1300_dense_1.gg	F1-CC	OutOfTime
+fc_1300_dense_1.gg	F1-T-B	OutOfTime
+fc_1300_dense_1.gg	F1-T-A	OutOfTime
+fc_1300_dense_2.gg	F1-CC	OutOfTime
+fc_1300_dense_2.gg	F1-T-B	OutOfTime
+fc_1300_dense_2.gg	F1-T-A	OutOfTime
+fc_1300_dense_3.gg	F1-CC	OutOfTime
+fc_1300_dense_3.gg	F1-T-B	OutOfTime
+fc_1300_dense_3.gg	F1-T-A	OutOfTime
+fc_1300_dense_4.gg	F1-CC	OutOfTime
+fc_1300_dense_4.gg	F1-T-B	OutOfTime
+fc_1300_dense_4.gg	F1-T-A	OutOfTime
+fc_1300_sparse_0.gg	F1-CC	OutOfTime
+fc_1300_sparse_0.gg	F1-T-B	OutOfTime
+fc_1300_sparse_0.gg	F1-T-A	OutOfTime
+fc_1300_sparse_1.gg	F1-CC	OutOfTime
+fc_1300_sparse_1.gg	F1-T-B	OutOfTime
+fc_1300_sparse_1.gg	F1-T-A	OutOfTime
+fc_1300_sparse_2.gg	F1-CC	OutOfTime
+fc_1300_sparse_2.gg	F1-T-B	OutOfTime
+fc_1300_sparse_2.gg	F1-T-A	OutOfTime
+fc_1300_sparse_3.gg	F1-CC	OutOfTime
+fc_1300_sparse_3.gg	F1-T-B	OutOfTime
+fc_1300_sparse_3.gg	F1-T-A	OutOfTime
+fc_1300_sparse_4.gg	F1-CC	OutOfTime
+fc_1300_sparse_4.gg	F1-T-B	OutOfTime
+fc_1300_sparse_4.gg	F1-T-A	OutOfTime
+fc_1400_dense_0.gg	F1-CC	202.0	2304	40	2264	0	0	1	0
+fc_1400_dense_0.gg	F1-T-B	202.0	2879	19	2292	9	559	2	2
+fc_1400_dense_0.gg	F1-T-A	202.0	2729	18	2301	11	399	2	2
+fc_1400_dense_1.gg	F1-CC	OutOfTime
+fc_1400_dense_1.gg	F1-T-B	OutOfTime
+fc_1400_dense_1.gg	F1-T-A	OutOfTime
+fc_1400_dense_2.gg	F1-CC	OutOfTime
+fc_1400_dense_2.gg	F1-T-B	OutOfTime
+fc_1400_dense_2.gg	F1-T-A	OutOfTime
+fc_1400_dense_3.gg	F1-CC	172.0	1614	19	1595	0	0	1	0
+fc_1400_dense_3.gg	F1-T-B	174.0	3117	19	1617	9	1472	2	4
+fc_1400_dense_3.gg	F1-T-A	174.0	3060	18	1587	11	1444	2	4
+fc_1400_dense_4.gg	F1-CC	218.0	22395	18	22377	0	0	1	0
+fc_1400_dense_4.gg	F1-T-B	218.0	22428	18	22407	3	0	1	0
+fc_1400_dense_4.gg	F1-T-A	218.0	22443	18	22421	4	0	1	0
+fc_1400_sparse_0.gg	F1-CC	OutOfTime
+fc_1400_sparse_0.gg	F1-T-B	OutOfTime
+fc_1400_sparse_0.gg	F1-T-A	OutOfTime
+fc_1400_sparse_1.gg	F1-CC	OutOfTime
+fc_1400_sparse_1.gg	F1-T-B	OutOfTime
+fc_1400_sparse_1.gg	F1-T-A	OutOfTime
+fc_1400_sparse_2.gg	F1-CC	OutOfTime
+fc_1400_sparse_2.gg	F1-T-B	OutOfTime
+fc_1400_sparse_2.gg	F1-T-A	OutOfTime
+fc_1400_sparse_3.gg	F1-CC	OutOfTime
+fc_1400_sparse_3.gg	F1-T-B	OutOfTime
+fc_1400_sparse_3.gg	F1-T-A	OutOfTime
+fc_1400_sparse_4.gg	F1-CC	OutOfTime
+fc_1400_sparse_4.gg	F1-T-B	OutOfTime
+fc_1400_sparse_4.gg	F1-T-A	OutOfTime
+fc_1500_dense_0.gg	F1-CC	OutOfTime
+fc_1500_dense_0.gg	F1-T-B	OutOfTime
+fc_1500_dense_0.gg	F1-T-A	OutOfTime
+fc_1500_dense_1.gg	F1-CC	166.0	4630	23	4607	0	0	1	0
+fc_1500_dense_1.gg	F1-T-B	166.0	14297	20	4440	15	9822	3	4
+fc_1500_dense_1.gg	F1-T-A	166.0	14252	20	4366	18	9848	3	4
+fc_1500_dense_2.gg	F1-CC	198.0	3376	19	3357	0	0	1	0
+fc_1500_dense_2.gg	F1-T-B	200.0	15925	20	3546	21	12338	4	11
+fc_1500_dense_2.gg	F1-T-A	200.0	16869	20	3428	27	13394	4	13
+fc_1500_sparse_0.gg	F1-CC	OutOfTime
+fc_1500_sparse_0.gg	F1-T-B	OutOfTime
+fc_1500_sparse_0.gg	F1-T-A	OutOfTime
+fc_1500_sparse_1.gg	F1-CC	OutOfTime
+fc_1500_sparse_1.gg	F1-T-B	OutOfTime
+fc_1500_sparse_1.gg	F1-T-A	OutOfTime
+fc_1500_sparse_2.gg	F1-CC	OutOfTime
+fc_1500_sparse_2.gg	F1-T-B	OutOfTime
+fc_1500_sparse_2.gg	F1-T-A	OutOfTime
+fc_1600_dense_0.gg	F1-CC	OutOfTime
+fc_1600_dense_0.gg	F1-T-B	OutOfTime
+fc_1600_dense_0.gg	F1-T-A	OutOfTime
+fc_1600_dense_1.gg	F1-CC	OutOfTime
+fc_1600_dense_1.gg	F1-T-B	OutOfTime
+fc_1600_dense_1.gg	F1-T-A	OutOfTime
+fc_1600_dense_2.gg	F1-CC	236.0	3786	26	3760	0	0	1	0
+fc_1600_dense_2.gg	F1-T-B	236.0	10087	20	3751	10	6306	2	3
+fc_1600_dense_2.gg	F1-T-A	236.0	10062	20	3728	12	6302	2	3
+fc_1600_sparse_0.gg	F1-CC	OutOfTime
+fc_1600_sparse_0.gg	F1-T-B	OutOfTime
+fc_1600_sparse_0.gg	F1-T-A	OutOfTime
+fc_1600_sparse_1.gg	F1-CC	OutOfTime
+fc_1600_sparse_1.gg	F1-T-B	OutOfTime
+fc_1600_sparse_1.gg	F1-T-A	OutOfTime
+fc_1600_sparse_2.gg	F1-CC	OutOfTime
+fc_1600_sparse_2.gg	F1-T-B	OutOfTime
+fc_1600_sparse_2.gg	F1-T-A	OutOfTime
+fc_1700_dense_0.gg	F1-CC	OutOfTime
+fc_1700_dense_0.gg	F1-T-B	OutOfTime
+fc_1700_dense_0.gg	F1-T-A	OutOfTime
+fc_1700_dense_1.gg	F1-CC	OutOfTime
+fc_1700_dense_1.gg	F1-T-B	OutOfTime
+fc_1700_dense_1.gg	F1-T-A	OutOfTime
+fc_1700_dense_2.gg	F1-CC	OutOfTime
+fc_1700_dense_2.gg	F1-T-B	OutOfTime
+fc_1700_dense_2.gg	F1-T-A	OutOfTime
+fc_1700_sparse_0.gg	F1-CC	OutOfTime
+fc_1700_sparse_0.gg	F1-T-B	OutOfTime
+fc_1700_sparse_0.gg	F1-T-A	OutOfTime
+fc_1700_sparse_1.gg	F1-CC	OutOfTime
+fc_1700_sparse_1.gg	F1-T-B	OutOfTime
+fc_1700_sparse_1.gg	F1-T-A	OutOfTime
+fc_1700_sparse_2.gg	F1-CC	OutOfTime
+fc_1700_sparse_2.gg	F1-T-B	OutOfTime
+fc_1700_sparse_2.gg	F1-T-A	OutOfTime
+fc_1800_dense_0.gg	F1-CC	OutOfTime
+fc_1800_dense_0.gg	F1-T-B	OutOfTime
+fc_1800_dense_0.gg	F1-T-A	OutOfTime
+fc_1800_dense_1.gg	F1-CC	282.0	237953	50	237903	0	0	1	0
+fc_1800_dense_1.gg	F1-T-B	284.0	444089	23	237866	24	206176	4	11
+fc_1800_dense_1.gg	F1-T-A	284.0	291017	23	239478	16	51500	2	12
+fc_1800_dense_2.gg	F1-CC	OutOfTime
+fc_1800_dense_2.gg	F1-T-B	OutOfTime
+fc_1800_dense_2.gg	F1-T-A	OutOfTime
+fc_1800_sparse_0.gg	F1-CC	OutOfTime
+fc_1800_sparse_0.gg	F1-T-B	OutOfTime
+fc_1800_sparse_0.gg	F1-T-A	OutOfTime
+fc_1800_sparse_1.gg	F1-CC	OutOfTime
+fc_1800_sparse_1.gg	F1-T-B	OutOfTime
+fc_1800_sparse_1.gg	F1-T-A	OutOfTime
+fc_1800_sparse_2.gg	F1-CC	OutOfTime
+fc_1800_sparse_2.gg	F1-T-B	OutOfTime
+fc_1800_sparse_2.gg	F1-T-A	OutOfTime
+fc_1900_dense_0.gg	F1-CC	256.0	302857	47	302810	0	0	1	0
+fc_1900_dense_0.gg	F1-T-B	256.0	367411	24	310225	12	57150	2	2
+fc_1900_dense_0.gg	F1-T-A	256.0	367458	25	309766	15	57652	2	2
+fc_1900_dense_1.gg	F1-CC	260.0	6500	30	6470	0	0	1	0
+fc_1900_dense_1.gg	F1-T-B	260.0	12018	24	6524	20	5450	3	6
+fc_1900_dense_1.gg	F1-T-A	OutOfTime
+fc_1900_dense_2.gg	F1-CC	328.0	66667	46	66621	0	0	1	0
+fc_1900_dense_2.gg	F1-T-B	328.0	187794	26	66283	19	121466	3	15
+fc_1900_dense_2.gg	F1-T-A	328.0	288197	24	66744	64	221365	7	28
+fc_1900_sparse_0.gg	F1-CC	OutOfTime
+fc_1900_sparse_0.gg	F1-T-B	OutOfTime
+fc_1900_sparse_0.gg	F1-T-A	OutOfTime
+fc_1900_sparse_1.gg	F1-CC	OutOfTime
+fc_1900_sparse_1.gg	F1-T-B	OutOfTime
+fc_1900_sparse_1.gg	F1-T-A	OutOfTime
+fc_1900_sparse_2.gg	F1-CC	OutOfTime
+fc_1900_sparse_2.gg	F1-T-B	OutOfTime
+fc_1900_sparse_2.gg	F1-T-A	OutOfTime
+fc_2000_dense_0.gg	F1-CC	298.0	3069	49	3020	0	0	1	0
+fc_2000_dense_0.gg	F1-T-B	298.0	3936	26	2910	13	987	2	2
+fc_2000_dense_0.gg	F1-T-A	298.0	4082	25	3017	17	1023	2	2
+fc_2000_dense_1.gg	F1-CC	OutOfTime
+fc_2000_dense_1.gg	F1-T-B	OutOfTime
+fc_2000_dense_1.gg	F1-T-A	OutOfTime
+fc_2000_dense_2.gg	F1-CC	OutOfTime
+fc_2000_dense_2.gg	F1-T-B	OutOfTime
+fc_2000_dense_2.gg	F1-T-A	OutOfTime
+fc_2000_sparse_0.gg	F1-CC	OutOfTime
+fc_2000_sparse_0.gg	F1-T-B	OutOfTime
+fc_2000_sparse_0.gg	F1-T-A	OutOfTime
+fc_2000_sparse_1.gg	F1-CC	OutOfTime
+fc_2000_sparse_1.gg	F1-T-B	OutOfTime
+fc_2000_sparse_1.gg	F1-T-A	OutOfTime
+fc_2000_sparse_2.gg	F1-CC	OutOfTime
+fc_2000_sparse_2.gg	F1-T-B	OutOfTime
+fc_2000_sparse_2.gg	F1-T-A	OutOfTime
+fc_2100_dense_0.gg	F1-CC	OutOfTime
+fc_2100_dense_0.gg	F1-T-B	OutOfTime
+fc_2100_dense_0.gg	F1-T-A	OutOfTime
+fc_2100_dense_1.gg	F1-CC	304.0	19746	30	19716	0	0	1	0
+fc_2100_dense_1.gg	F1-T-B	304.0	55022	27	19746	41	35208	5	13
+fc_2100_dense_1.gg	F1-T-A	304.0	45839	27	19722	40	26050	4	14
+fc_2100_dense_2.gg	F1-CC	OutOfTime
+fc_2100_dense_2.gg	F1-T-B	OutOfTime
+fc_2100_dense_2.gg	F1-T-A	OutOfTime
+fc_2100_sparse_0.gg	F1-CC	OutOfTime
+fc_2100_sparse_0.gg	F1-T-B	OutOfTime
+fc_2100_sparse_0.gg	F1-T-A	OutOfTime
+fc_2100_sparse_1.gg	F1-CC	OutOfTime
+fc_2100_sparse_1.gg	F1-T-B	OutOfTime
+fc_2100_sparse_1.gg	F1-T-A	OutOfTime
+fc_2100_sparse_2.gg	F1-CC	OutOfTime
+fc_2100_sparse_2.gg	F1-T-B	OutOfTime
+fc_2100_sparse_2.gg	F1-T-A	OutOfTime
+fc_2200_dense_0.gg	F1-CC	304.0	10119	31	10088	0	0	1	0
+fc_2200_dense_0.gg	F1-T-B	304.0	13642	29	10113	33	3467	4	8
+fc_2200_dense_0.gg	F1-T-A	304.0	13628	28	10088	39	3473	4	8
+fc_2200_dense_1.gg	F1-CC	376.0	96692	28	96664	0	0	1	0
+fc_2200_dense_1.gg	F1-T-B	376.0	389892	28	97013	49	292802	6	24
+fc_2200_dense_1.gg	F1-T-A	376.0	225537	28	96959	64	128486	6	21
+fc_2200_dense_2.gg	F1-CC	OutOfTime
+fc_2200_dense_2.gg	F1-T-B	OutOfTime
+fc_2200_dense_2.gg	F1-T-A	OutOfTime
+fc_2200_sparse_0.gg	F1-CC	OutOfTime
+fc_2200_sparse_0.gg	F1-T-B	OutOfTime
+fc_2200_sparse_0.gg	F1-T-A	OutOfTime
+fc_2200_sparse_1.gg	F1-CC	OutOfTime
+fc_2200_sparse_1.gg	F1-T-B	OutOfTime
+fc_2200_sparse_1.gg	F1-T-A	OutOfTime
+fc_2200_sparse_2.gg	F1-CC	OutOfTime
+fc_2200_sparse_2.gg	F1-T-B	OutOfTime
+fc_2200_sparse_2.gg	F1-T-A	OutOfTime
+fc_2300_dense_0.gg	F1-CC	OutOfTime
+fc_2300_dense_0.gg	F1-T-B	OutOfTime
+fc_2300_dense_0.gg	F1-T-A	OutOfTime
+fc_2300_dense_1.gg	F1-CC	OutOfTime
+fc_2300_dense_1.gg	F1-T-B	OutOfTime
+fc_2300_dense_1.gg	F1-T-A	OutOfTime
+fc_2300_dense_2.gg	F1-CC	OutOfTime
+fc_2300_dense_2.gg	F1-T-B	OutOfTime
+fc_2300_dense_2.gg	F1-T-A	OutOfTime
+fc_2300_sparse_0.gg	F1-CC	OutOfTime
+fc_2300_sparse_0.gg	F1-T-B	OutOfTime
+fc_2300_sparse_0.gg	F1-T-A	OutOfTime
+fc_2300_sparse_1.gg	F1-CC	OutOfTime
+fc_2300_sparse_1.gg	F1-T-B	OutOfTime
+fc_2300_sparse_1.gg	F1-T-A	OutOfTime
+fc_2300_sparse_2.gg	F1-CC	OutOfTime
+fc_2300_sparse_2.gg	F1-T-B	OutOfTime
+fc_2300_sparse_2.gg	F1-T-A	OutOfTime
+fc_2400_dense_0.gg	F1-CC	OutOfTime
+fc_2400_dense_0.gg	F1-T-B	OutOfTime
+fc_2400_dense_0.gg	F1-T-A	OutOfTime
+fc_2400_dense_1.gg	F1-CC	OutOfTime
+fc_2400_dense_1.gg	F1-T-B	OutOfTime
+fc_2400_dense_1.gg	F1-T-A	OutOfTime
+fc_2400_dense_2.gg	F1-CC	OutOfTime
+fc_2400_dense_2.gg	F1-T-B	OutOfTime
+fc_2400_dense_2.gg	F1-T-A	OutOfTime
+fc_2400_sparse_0.gg	F1-CC	OutOfTime
+fc_2400_sparse_0.gg	F1-T-B	OutOfTime
+fc_2400_sparse_0.gg	F1-T-A	OutOfTime
+fc_2400_sparse_1.gg	F1-CC	OutOfTime
+fc_2400_sparse_1.gg	F1-T-B	OutOfTime
+fc_2400_sparse_1.gg	F1-T-A	OutOfTime
+fc_2400_sparse_2.gg	F1-CC	OutOfTime
+fc_2400_sparse_2.gg	F1-T-B	OutOfTime
+fc_2400_sparse_2.gg	F1-T-A	OutOfTime
+fc_2500_dense_0.gg	F1-CC	OutOfTime
+fc_2500_dense_0.gg	F1-T-B	OutOfTime
+fc_2500_dense_0.gg	F1-T-A	OutOfTime
+fc_2500_dense_1.gg	F1-CC	OutOfTime
+fc_2500_dense_1.gg	F1-T-B	OutOfTime
+fc_2500_dense_1.gg	F1-T-A	OutOfTime
+fc_2500_dense_2.gg	F1-CC	OutOfTime
+fc_2500_dense_2.gg	F1-T-B	OutOfTime
+fc_2500_dense_2.gg	F1-T-A	OutOfTime
+fc_2500_sparse_0.gg	F1-CC	OutOfTime
+fc_2500_sparse_0.gg	F1-T-B	OutOfTime
+fc_2500_sparse_0.gg	F1-T-A	OutOfTime
+fc_2500_sparse_1.gg	F1-CC	OutOfTime
+fc_2500_sparse_1.gg	F1-T-B	OutOfTime
+fc_2500_sparse_1.gg	F1-T-A	OutOfTime
+fc_2500_sparse_2.gg	F1-CC	OutOfTime
+fc_2500_sparse_2.gg	F1-T-B	OutOfTime
+fc_2500_sparse_2.gg	F1-T-A	OutOfTime
+fc_2600_dense_0.gg	F1-CC	OutOfTime
+fc_2600_dense_0.gg	F1-T-B	OutOfTime
+fc_2600_dense_0.gg	F1-T-A	OutOfTime
+fc_2600_dense_1.gg	F1-CC	OutOfTime
+fc_2600_dense_1.gg	F1-T-B	OutOfTime
+fc_2600_dense_1.gg	F1-T-A	OutOfTime
+fc_2600_dense_2.gg	F1-CC	OutOfTime
+fc_2600_dense_2.gg	F1-T-B	OutOfTime
+fc_2600_dense_2.gg	F1-T-A	OutOfTime
+fc_2600_sparse_0.gg	F1-CC	OutOfTime
+fc_2600_sparse_0.gg	F1-T-B	OutOfTime
+fc_2600_sparse_0.gg	F1-T-A	OutOfTime
+fc_2600_sparse_1.gg	F1-CC	OutOfTime
+fc_2600_sparse_1.gg	F1-T-B	OutOfTime
+fc_2600_sparse_1.gg	F1-T-A	OutOfTime
+fc_2600_sparse_2.gg	F1-CC	OutOfTime
+fc_2600_sparse_2.gg	F1-T-B	OutOfTime
+fc_2600_sparse_2.gg	F1-T-A	OutOfTime
+fc_2700_dense_0.gg	F1-CC	OutOfTime
+fc_2700_dense_0.gg	F1-T-B	OutOfTime
+fc_2700_dense_0.gg	F1-T-A	OutOfTime
+fc_2700_dense_1.gg	F1-CC	OutOfTime
+fc_2700_dense_1.gg	F1-T-B	OutOfTime
+fc_2700_dense_1.gg	F1-T-A	OutOfTime
+fc_2700_dense_2.gg	F1-CC	OutOfTime
+fc_2700_dense_2.gg	F1-T-B	OutOfTime
+fc_2700_dense_2.gg	F1-T-A	OutOfTime
+fc_2700_sparse_0.gg	F1-CC	OutOfTime
+fc_2700_sparse_0.gg	F1-T-B	OutOfTime
+fc_2700_sparse_0.gg	F1-T-A	OutOfTime
+fc_2700_sparse_1.gg	F1-CC	OutOfTime
+fc_2700_sparse_1.gg	F1-T-B	OutOfTime
+fc_2700_sparse_1.gg	F1-T-A	OutOfTime
+fc_2700_sparse_2.gg	F1-CC	OutOfTime
+fc_2700_sparse_2.gg	F1-T-B	OutOfTime
+fc_2700_sparse_2.gg	F1-T-A	OutOfTime
+fc_2800_dense_0.gg	F1-CC	OutOfTime
+fc_2800_dense_0.gg	F1-T-B	OutOfTime
+fc_2800_dense_0.gg	F1-T-A	OutOfTime
+fc_2800_dense_1.gg	F1-CC	OutOfTime
+fc_2800_dense_1.gg	F1-T-B	OutOfTime
+fc_2800_dense_1.gg	F1-T-A	OutOfTime
+fc_2800_dense_2.gg	F1-CC	OutOfTime
+fc_2800_dense_2.gg	F1-T-B	OutOfTime
+fc_2800_dense_2.gg	F1-T-A	OutOfTime
+fc_2800_sparse_0.gg	F1-CC	OutOfTime
+fc_2800_sparse_0.gg	F1-T-B	OutOfTime
+fc_2800_sparse_0.gg	F1-T-A	OutOfTime
+fc_2800_sparse_1.gg	F1-CC	OutOfTime
+fc_2800_sparse_1.gg	F1-T-B	OutOfTime
+fc_2800_sparse_1.gg	F1-T-A	OutOfTime
+fc_2800_sparse_2.gg	F1-CC	OutOfTime
+fc_2800_sparse_2.gg	F1-T-B	OutOfTime
+fc_2800_sparse_2.gg	F1-T-A	OutOfTime
+fc_2900_dense_0.gg	F1-CC	542.0	142211	53	142158	0	0	1	0
+fc_2900_dense_0.gg	F1-T-B	542.0	444769	36	143996	43	300694	4	13
+fc_2900_dense_0.gg	F1-T-A	OutOfTime
+fc_2900_dense_1.gg	F1-CC	OutOfTime
+fc_2900_dense_1.gg	F1-T-B	OutOfTime
+fc_2900_dense_1.gg	F1-T-A	OutOfTime
+fc_2900_dense_2.gg	F1-CC	OutOfTime
+fc_2900_dense_2.gg	F1-T-B	OutOfTime
+fc_2900_dense_2.gg	F1-T-A	OutOfTime
+fc_2900_sparse_0.gg	F1-CC	OutOfTime
+fc_2900_sparse_0.gg	F1-T-B	OutOfTime
+fc_2900_sparse_0.gg	F1-T-A	OutOfTime
+fc_2900_sparse_1.gg	F1-CC	OutOfTime
+fc_2900_sparse_1.gg	F1-T-B	OutOfTime
+fc_2900_sparse_1.gg	F1-T-A	OutOfTime
+fc_2900_sparse_2.gg	F1-CC	OutOfTime
+fc_2900_sparse_2.gg	F1-T-B	OutOfTime
+fc_2900_sparse_2.gg	F1-T-A	OutOfTime
+fc_1500_dense_3.gg	F1-CC	200.0	7959	23	7936	0	0	1	0
+fc_1500_dense_3.gg	F1-T-B	200.0	50975	44	8129	21	42781	4	12
+fc_1500_dense_3.gg	F1-T-A	200.0	88606	19	8065	34	80488	5	17
+fc_1500_dense_4.gg	F1-CC	OutOfTime
+fc_1500_dense_4.gg	F1-T-B	OutOfTime
+fc_1500_dense_4.gg	F1-T-A	OutOfTime
+fc_1500_sparse_3.gg	F1-CC	OutOfTime
+fc_1500_sparse_3.gg	F1-T-B	OutOfTime
+fc_1500_sparse_3.gg	F1-T-A	OutOfTime
+fc_1500_sparse_4.gg	F1-CC	OutOfTime
+fc_1500_sparse_4.gg	F1-T-B	OutOfTime
+fc_1500_sparse_4.gg	F1-T-A	OutOfTime
+fc_1600_dense_3.gg	F1-CC	OutOfTime
+fc_1600_dense_3.gg	F1-T-B	OutOfTime
+fc_1600_dense_3.gg	F1-T-A	OutOfTime
+fc_1600_dense_4.gg	F1-CC	246.0	2389	21	2368	0	0	1	0
+fc_1600_dense_4.gg	F1-T-B	246.0	7947	20	2346	28	5553	5	12
+fc_1600_dense_4.gg	F1-T-A	246.0	6141	21	2383	33	3704	4	18
+fc_1600_sparse_3.gg	F1-CC	OutOfTime
+fc_1600_sparse_3.gg	F1-T-B	OutOfTime
+fc_1600_sparse_3.gg	F1-T-A	OutOfTime
+fc_1600_sparse_4.gg	F1-CC	OutOfTime
+fc_1600_sparse_4.gg	F1-T-B	OutOfTime
+fc_1600_sparse_4.gg	F1-T-A	OutOfTime
+fc_1700_dense_3.gg	F1-CC	OutOfTime
+fc_1700_dense_3.gg	F1-T-B	OutOfTime
+fc_1700_dense_3.gg	F1-T-A	OutOfTime
+fc_1700_dense_4.gg	F1-CC	OutOfTime
+fc_1700_dense_4.gg	F1-T-B	OutOfTime
+fc_1700_dense_4.gg	F1-T-A	OutOfTime
+fc_1700_sparse_3.gg	F1-CC	OutOfTime
+fc_1700_sparse_3.gg	F1-T-B	OutOfTime
+fc_1700_sparse_3.gg	F1-T-A	OutOfTime
+fc_1700_sparse_4.gg	F1-CC	OutOfTime
+fc_1700_sparse_4.gg	F1-T-B	OutOfTime
+fc_1700_sparse_4.gg	F1-T-A	OutOfTime
+fc_1800_dense_3.gg	F1-CC	OutOfTime
+fc_1800_dense_3.gg	F1-T-B	OutOfTime
+fc_1800_dense_3.gg	F1-T-A	OutOfTime
+fc_1800_dense_4.gg	F1-CC	OutOfTime
+fc_1800_dense_4.gg	F1-T-B	OutOfTime
+fc_1800_dense_4.gg	F1-T-A	OutOfTime
+fc_1800_sparse_3.gg	F1-CC	OutOfTime
+fc_1800_sparse_3.gg	F1-T-B	OutOfTime
+fc_1800_sparse_3.gg	F1-T-A	OutOfTime
+fc_1800_sparse_4.gg	F1-CC	OutOfTime
+fc_1800_sparse_4.gg	F1-T-B	OutOfTime
+fc_1800_sparse_4.gg	F1-T-A	OutOfTime
+fc_1900_dense_3.gg	F1-CC	OutOfTime
+fc_1900_dense_3.gg	F1-T-B	OutOfTime
+fc_1900_dense_3.gg	F1-T-A	OutOfTime
+fc_1900_dense_4.gg	F1-CC	OutOfTime
+fc_1900_dense_4.gg	F1-T-B	OutOfTime
+fc_1900_dense_4.gg	F1-T-A	OutOfTime
+fc_1900_sparse_3.gg	F1-CC	OutOfTime
+fc_1900_sparse_3.gg	F1-T-B	OutOfTime
+fc_1900_sparse_3.gg	F1-T-A	OutOfTime
+fc_1900_sparse_4.gg	F1-CC	OutOfTime
+fc_1900_sparse_4.gg	F1-T-B	OutOfTime
+fc_1900_sparse_4.gg	F1-T-A	OutOfTime
+fc_2000_dense_3.gg	F1-CC	302.0	9411	41	9370	0	0	1	0
+fc_2000_dense_3.gg	F1-T-B	OutOfTime
+fc_2000_dense_3.gg	F1-T-A	OutOfTime
+fc_2000_dense_4.gg	F1-CC	OutOfTime
+fc_2000_dense_4.gg	F1-T-B	OutOfTime
+fc_2000_dense_4.gg	F1-T-A	OutOfTime
+fc_2000_sparse_3.gg	F1-CC	OutOfTime
+fc_2000_sparse_3.gg	F1-T-B	OutOfTime
+fc_2000_sparse_3.gg	F1-T-A	OutOfTime
+fc_2000_sparse_4.gg	F1-CC	OutOfTime
+fc_2000_sparse_4.gg	F1-T-B	OutOfTime
+fc_2000_sparse_4.gg	F1-T-A	OutOfTime
+fc_2100_dense_3.gg	F1-CC	366.0	719833	27	719806	0	0	1	0
+fc_2100_dense_3.gg	F1-T-B	OutOfTime
+fc_2100_dense_3.gg	F1-T-A	OutOfTime
+fc_2100_dense_4.gg	F1-CC	346.0	35545	59	35486	0	0	1	0
+fc_2100_dense_4.gg	F1-T-B	348.0	137653	26	35668	21	101938	3	7
+fc_2100_dense_4.gg	F1-T-A	348.0	146422	26	35643	19	110734	2	7
+fc_2100_sparse_3.gg	F1-CC	OutOfTime
+fc_2100_sparse_3.gg	F1-T-B	OutOfTime
+fc_2100_sparse_3.gg	F1-T-A	OutOfTime
+fc_2100_sparse_4.gg	F1-CC	OutOfTime
+fc_2100_sparse_4.gg	F1-T-B	OutOfTime
+fc_2100_sparse_4.gg	F1-T-A	OutOfTime
+fc_2200_dense_3.gg	F1-CC	OutOfTime
+fc_2200_dense_3.gg	F1-T-B	OutOfTime
+fc_2200_dense_3.gg	F1-T-A	OutOfTime
+fc_2200_dense_4.gg	F1-CC	OutOfTime
+fc_2200_dense_4.gg	F1-T-B	OutOfTime
+fc_2200_dense_4.gg	F1-T-A	OutOfTime
+fc_2200_sparse_3.gg	F1-CC	OutOfTime
+fc_2200_sparse_3.gg	F1-T-B	OutOfTime
+fc_2200_sparse_3.gg	F1-T-A	OutOfTime
+fc_2200_sparse_4.gg	F1-CC	OutOfTime
+fc_2200_sparse_4.gg	F1-T-B	OutOfTime
+fc_2200_sparse_4.gg	F1-T-A	OutOfTime
+fc_2300_dense_3.gg	F1-CC	OutOfTime
+fc_2300_dense_3.gg	F1-T-B	OutOfTime
+fc_2300_dense_3.gg	F1-T-A	OutOfTime
+fc_2300_dense_4.gg	F1-CC	344.0	119214	30	119184	0	0	1	0
+fc_2300_dense_4.gg	F1-T-B	OutOfTime
+fc_2300_dense_4.gg	F1-T-A	OutOfTime
+fc_2300_sparse_3.gg	F1-CC	OutOfTime
+fc_2300_sparse_3.gg	F1-T-B	OutOfTime
+fc_2300_sparse_3.gg	F1-T-A	OutOfTime
+fc_2300_sparse_4.gg	F1-CC	OutOfTime
+fc_2300_sparse_4.gg	F1-T-B	OutOfTime
+fc_2300_sparse_4.gg	F1-T-A	OutOfTime
+fc_2400_dense_3.gg	F1-CC	OutOfTime
+fc_2400_dense_3.gg	F1-T-B	OutOfTime
+fc_2400_dense_3.gg	F1-T-A	OutOfTime
+fc_2400_dense_4.gg	F1-CC	OutOfTime
+fc_2400_dense_4.gg	F1-T-B	OutOfTime
+fc_2400_dense_4.gg	F1-T-A	OutOfTime
+fc_2400_sparse_3.gg	F1-CC	OutOfTime
+fc_2400_sparse_3.gg	F1-T-B	OutOfTime
+fc_2400_sparse_3.gg	F1-T-A	OutOfTime
+fc_2400_sparse_4.gg	F1-CC	OutOfTime
+fc_2400_sparse_4.gg	F1-T-B	OutOfTime
+fc_2400_sparse_4.gg	F1-T-A	OutOfTime
+fc_2500_dense_3.gg	F1-CC	OutOfTime
+fc_2500_dense_3.gg	F1-T-B	OutOfTime
+fc_2500_dense_3.gg	F1-T-A	OutOfTime
+fc_2500_dense_4.gg	F1-CC	428.0	15141	32	15109	0	0	1	0
+fc_2500_dense_4.gg	F1-T-B	428.0	40757	34	15138	40	25545	4	10
+fc_2500_dense_4.gg	F1-T-A	428.0	24700	32	15911	24	8733	2	7
+fc_2500_sparse_3.gg	F1-CC	OutOfTime
+fc_2500_sparse_3.gg	F1-T-B	OutOfTime
+fc_2500_sparse_3.gg	F1-T-A	OutOfTime
+fc_2500_sparse_4.gg	F1-CC	OutOfTime
+fc_2500_sparse_4.gg	F1-T-B	OutOfTime
+fc_2500_sparse_4.gg	F1-T-A	OutOfTime
+fc_2600_dense_3.gg	F1-CC	OutOfTime
+fc_2600_dense_3.gg	F1-T-B	OutOfTime
+fc_2600_dense_3.gg	F1-T-A	OutOfTime
+fc_2600_dense_4.gg	F1-CC	OutOfTime
+fc_2600_dense_4.gg	F1-T-B	OutOfTime
+fc_2600_dense_4.gg	F1-T-A	OutOfTime
+fc_2600_sparse_3.gg	F1-CC	OutOfTime
+fc_2600_sparse_3.gg	F1-T-B	OutOfTime
+fc_2600_sparse_3.gg	F1-T-A	OutOfTime
+fc_2600_sparse_4.gg	F1-CC	OutOfTime
+fc_2600_sparse_4.gg	F1-T-B	OutOfTime
+fc_2600_sparse_4.gg	F1-T-A	OutOfTime
+fc_2700_dense_3.gg	F1-CC	OutOfTime
+fc_2700_dense_3.gg	F1-T-B	OutOfTime
+fc_2700_dense_3.gg	F1-T-A	OutOfTime
+fc_2700_dense_4.gg	F1-CC	OutOfTime
+fc_2700_dense_4.gg	F1-T-B	OutOfTime
+fc_2700_dense_4.gg	F1-T-A	OutOfTime
+fc_2700_sparse_3.gg	F1-CC	OutOfTime
+fc_2700_sparse_3.gg	F1-T-B	OutOfTime
+fc_2700_sparse_3.gg	F1-T-A	OutOfTime
+fc_2700_sparse_4.gg	F1-CC	OutOfTime
+fc_2700_sparse_4.gg	F1-T-B	OutOfTime
+fc_2700_sparse_4.gg	F1-T-A	OutOfTime
+fc_2800_dense_3.gg	F1-CC	OutOfTime
+fc_2800_dense_3.gg	F1-T-B	OutOfTime
+fc_2800_dense_3.gg	F1-T-A	OutOfTime
+fc_2800_dense_4.gg	F1-CC	OutOfTime
+fc_2800_dense_4.gg	F1-T-B	OutOfTime
+fc_2800_dense_4.gg	F1-T-A	OutOfTime
+fc_2800_sparse_3.gg	F1-CC	OutOfTime
+fc_2800_sparse_3.gg	F1-T-B	OutOfTime
+fc_2800_sparse_3.gg	F1-T-A	OutOfTime
+fc_2800_sparse_4.gg	F1-CC	OutOfTime
+fc_2800_sparse_4.gg	F1-T-B	OutOfTime
+fc_2800_sparse_4.gg	F1-T-A	OutOfTime
+fc_2900_dense_3.gg	F1-CC	504.0	50552	37	50515	0	0	1	0
+fc_2900_dense_3.gg	F1-T-B	OutOfTime
+fc_2900_dense_3.gg	F1-T-A	OutOfTime
+fc_2900_dense_4.gg	F1-CC	OutOfTime
+fc_2900_dense_4.gg	F1-T-B	OutOfTime
+fc_2900_dense_4.gg	F1-T-A	OutOfTime
+fc_2900_sparse_3.gg	F1-CC	OutOfTime
+fc_2900_sparse_3.gg	F1-T-B	OutOfTime
+fc_2900_sparse_3.gg	F1-T-A	OutOfTime
+fc_2900_sparse_4.gg	F1-CC	OutOfTime
+fc_2900_sparse_4.gg	F1-T-B	OutOfTime
+fc_2900_sparse_4.gg	F1-T-A	OutOfTime
+fc_100_dense_2.gg	F1-CC	34.0	24	6	18	0	0	1	0
+fc_100_dense_2.gg	F1-T-B	34.0	58	3	20	0	35	3	4
+fc_100_dense_2.gg	F1-T-A	34.0	60	2	23	0	35	3	4
+fc_100_dense_4.gg	F1-CC	24.0	35	2	33	0	0	1	0
+fc_100_dense_4.gg	F1-T-B	OutOfTime
+fc_100_dense_4.gg	F1-T-A	OutOfTime
+fc_100_sparse_2.gg	F1-CC	32.0	41	2	39	0	0	1	0
+fc_100_sparse_2.gg	F1-T-B	32.0	117	2	39	0	76	4	6
+fc_100_sparse_2.gg	F1-T-A	32.0	136	2	57	0	77	4	6
+fc_100_sparse_4.gg	F1-CC	40.0	17	2	15	0	0	1	0
+fc_100_sparse_4.gg	F1-T-B	42.0	182	2	15	0	165	4	9
+fc_100_sparse_4.gg	F1-T-A	42.0	119	2	15	0	102	4	12
+fc_200_sparse_1.gg	F1-CC	74.0	102	3	99	0	0	1	0
+fc_200_sparse_1.gg	F1-T-B	74.0	192	3	101	0	88	2	2
+fc_200_sparse_1.gg	F1-T-A	74.0	226	3	101	0	122	2	2
+fc_200_sparse_4.gg	F1-CC	78.0	310	3	307	0	0	1	0
+fc_200_sparse_4.gg	F1-T-B	78.0	4567	3	365	0	4199	7	17
+fc_200_sparse_4.gg	F1-T-A	78.0	2621	3	313	3	2302	6	24
+fc_200_dense_4.gg	F1-CC	48.0	111	9	102	0	0	1	0
+fc_200_dense_4.gg	F1-T-B	48.0	50	4	46	0	0	1	0
+fc_200_dense_4.gg	F1-T-A	48.0	49	3	46	0	0	1	0
+fc_1000_dense_0.gg	F2-CC	OutOfTime
+fc_1000_dense_0.gg	F2-T	OutOfTime
+fc_1000_dense_1.gg	F2-CC	OutOfTime
+fc_1000_dense_1.gg	F2-T	OutOfTime
+fc_1000_dense_2.gg	F2-CC	136.0	378749	11887	366862	0	0	1	0
+fc_1000_dense_2.gg	F2-T	136.0	382673	11830	368034	2809	0	1	0
+fc_1000_dense_3.gg	F2-CC	OutOfTime
+fc_1000_dense_3.gg	F2-T	OutOfTime
+fc_1000_dense_3.gg	F2-CC	OutOfTime
+fc_1000_dense_3.gg	F2-T	OutOfTime
+fc_1000_dense_4.gg	F2-CC	OutOfTime
+fc_1000_dense_4.gg	F2-CC	OutOfTime
+fc_1000_dense_4.gg	F2-T	OutOfTime
+fc_1000_sparse_0.gg	F2-CC	OutOfTime
+fc_1000_sparse_0.gg	F2-T	OutOfTime
+fc_1000_sparse_0.gg	F2-CC	OutOfTime
+fc_1000_sparse_0.gg	F2-T	OutOfTime
+fc_1000_sparse_1.gg	F2-CC	OutOfTime
+fc_1000_sparse_1.gg	F2-T	OutOfTime
+fc_1000_sparse_1.gg	F2-CC	OutOfTime
+fc_1000_sparse_1.gg	F2-T	OutOfTime
+fc_1000_sparse_2.gg	F2-CC	OutOfTime
+fc_1000_sparse_2.gg	F2-T	OutOfTime
+fc_1000_sparse_2.gg	F2-CC	OutOfTime
+fc_1000_sparse_2.gg	F2-T	OutOfTime
+fc_1000_sparse_3.gg	F2-CC	OutOfTime
+fc_1000_sparse_3.gg	F2-T	OutOfTime
+fc_1000_sparse_3.gg	F2-CC	OutOfTime
+fc_1000_sparse_3.gg	F2-T	OutOfTime
+fc_1000_sparse_4.gg	F2-CC	OutOfTime
+fc_1000_sparse_4.gg	F2-T	OutOfTime
+fc_1000_sparse_4.gg	F2-CC	OutOfTime
+fc_1000_sparse_4.gg	F2-T	OutOfTime
+fc_100_dense_0.gg	F2-CC	38.0	3214	96	3118	0	0	1	0
+fc_100_dense_0.gg	F2-T	38.0	7706	91	3098	113	4404	3	4
+fc_100_dense_0.gg	F2-CC	38.0	3239	92	3147	0	0	1	0
+fc_100_dense_0.gg	F2-T	38.0	7689	91	3106	106	4386	3	4
+fc_100_dense_1.gg	F2-CC	34.0	3178	89	3089	0	0	1	0
+fc_100_dense_1.gg	F2-T	34.0	8371	93	3116	97	5065	3	4
+fc_100_dense_1.gg	F2-CC	34.0	3178	93	3085	0	0	1	0
+fc_100_dense_1.gg	F2-T	34.0	8333	89	3093	97	5054	3	4
+fc_100_dense_3.gg	F2-CC	30.0	1992	99	1893	0	0	1	0
+fc_100_dense_3.gg	F2-T	30.0	17771	92	1856	365	15458	9	22
+fc_100_dense_3.gg	F2-CC	30.0	1998	97	1901	0	0	1	0
+fc_100_dense_3.gg	F2-T	30.0	17811	91	1885	354	15481	9	22
+fc_100_sparse_0.gg	F2-CC	60.0	19058	117	18941	0	0	1	0
+fc_100_sparse_0.gg	F2-T	60.0	93937	93	18871	213	74760	6	14
+fc_100_sparse_0.gg	F2-CC	60.0	19041	95	18946	0	0	1	0
+fc_100_sparse_0.gg	F2-T	60.0	93620	93	19225	215	74087	6	14
+fc_100_sparse_1.gg	F2-CC	56.0	2139	91	2048	0	0	1	0
+fc_100_sparse_1.gg	F2-T	56.0	52590	90	2039	773	49688	19	47
+fc_100_sparse_1.gg	F2-CC	56.0	2132	92	2040	0	0	1	0
+fc_100_sparse_1.gg	F2-T	56.0	52407	90	2085	763	49469	19	47
+fc_100_sparse_3.gg	F2-CC	40.0	3858	96	3762	0	0	1	0
+fc_100_sparse_3.gg	F2-T	40.0	3844	101	3728	15	0	1	0
+fc_100_sparse_3.gg	F2-CC	40.0	3856	119	3737	0	0	1	0
+fc_100_sparse_3.gg	F2-T	40.0	3814	107	3692	15	0	1	0
+fc_200_dense_0.gg	F2-CC	46.0	11317	425	10892	0	0	1	0
+fc_200_dense_0.gg	F2-T	46.0	15387	388	10937	288	3774	2	2
+fc_200_dense_0.gg	F2-CC	46.0	11277	381	10896	0	0	1	0
+fc_200_dense_0.gg	F2-T	46.0	15290	383	10893	290	3724	2	2
+fc_200_dense_1.gg	F2-CC	36.0	3476	408	3068	0	0	1	0
+fc_200_dense_1.gg	F2-T	36.0	85521	381	3002	2147	79991	11	24
+fc_200_dense_1.gg	F2-CC	36.0	3422	384	3038	0	0	1	0
+fc_200_dense_1.gg	F2-T	36.0	85408	379	3071	2094	79864	11	24
+fc_200_dense_2.gg	F2-CC	38.0	8819	383	8436	0	0	1	0
+fc_200_dense_2.gg	F2-T	38.0	16855	383	8458	317	7697	2	2
+fc_200_dense_2.gg	F2-CC	38.0	8792	380	8412	0	0	1	0
+fc_200_dense_2.gg	F2-T	38.0	16790	380	8427	311	7672	2	2
+fc_200_dense_3.gg	F2-CC	42.0	14945	389	14556	0	0	1	0
+fc_200_dense_3.gg	F2-T	42.0	14950	385	14490	75	0	1	0
+fc_200_dense_3.gg	F2-CC	42.0	14911	385	14526	0	0	1	0
+fc_200_dense_3.gg	F2-T	42.0	14983	386	14524	73	0	1	0
+fc_200_sparse_0.gg	F2-CC	90.0	168429	385	168044	0	0	1	0
+fc_200_sparse_0.gg	F2-T	90.0	345732	386	168135	2427	174784	13	36
+fc_200_sparse_0.gg	F2-CC	90.0	168779	391	168388	0	0	1	0
+fc_200_sparse_0.gg	F2-T	90.0	345715	385	168064	2394	174872	13	36
+fc_200_sparse_2.gg	F2-CC	92.0	107258	383	106875	0	0	1	0
+fc_200_sparse_2.gg	F2-T	OutOfTime
+fc_200_sparse_2.gg	F2-CC	92.0	107740	388	107352	0	0	1	0
+fc_200_sparse_2.gg	F2-T	OutOfTime
+fc_200_sparse_3.gg	F2-CC	72.0	9889	385	9504	0	0	1	0
+fc_200_sparse_3.gg	F2-T	74.0	377658	381	9474	3257	364546	18	52
+fc_200_sparse_3.gg	F2-CC	72.0	9809	381	9428	0	0	1	0
+fc_200_sparse_3.gg	F2-T	74.0	377164	387	9432	3232	364113	18	52
+fc_300_dense_0.gg	F2-CC	78.0	66631	938	65693	0	0	1	0
+fc_300_dense_0.gg	F2-T	78.0	301399	907	65463	4106	230923	9	24
+fc_300_dense_0.gg	F2-CC	78.0	66456	905	65551	0	0	1	0
+fc_300_dense_0.gg	F2-T	78.0	302019	986	65708	4152	231173	9	24
+fc_300_dense_1.gg	F2-CC	50.0	36834	901	35933	0	0	1	0
+fc_300_dense_1.gg	F2-T	50.0	36844	891	35758	195	0	1	0
+fc_300_dense_1.gg	F2-CC	50.0	36575	906	35669	0	0	1	0
+fc_300_dense_1.gg	F2-T	50.0	36813	898	35691	224	0	1	0
+fc_300_dense_2.gg	F2-CC	52.0	37623	910	36713	0	0	1	0
+fc_300_dense_2.gg	F2-T	52.0	89586	896	36466	1887	50337	4	7
+fc_300_dense_2.gg	F2-CC	52.0	37471	905	36566	0	0	1	0
+fc_300_dense_2.gg	F2-T	52.0	90905	923	37439	1914	50629	4	7
+fc_300_dense_3.gg	F2-CC	52.0	52101	898	51203	0	0	1	0
+fc_300_dense_3.gg	F2-T	52.0	187810	900	51273	1842	133795	4	9
+fc_300_dense_3.gg	F2-CC	52.0	52178	901	51277	0	0	1	0
+fc_300_dense_3.gg	F2-T	52.0	187241	899	51144	1918	133280	4	9
+fc_300_dense_4.gg	F2-CC	48.0	21597	898	20699	0	0	1	0
+fc_300_dense_4.gg	F2-T	48.0	21823	898	20736	189	0	1	0
+fc_300_dense_4.gg	F2-CC	48.0	21719	930	20789	0	0	1	0
+fc_300_dense_4.gg	F2-T	48.0	21679	914	20572	193	0	1	0
+fc_300_sparse_0.gg	F2-CC	OutOfTime
+fc_300_sparse_0.gg	F2-T	OutOfTime
+fc_300_sparse_0.gg	F2-CC	OutOfTime
+fc_300_sparse_0.gg	F2-T	OutOfTime
+fc_300_sparse_1.gg	F2-CC	110.0	45080	913	44167	0	0	1	0
+fc_300_sparse_1.gg	F2-T	OutOfTime
+fc_300_sparse_1.gg	F2-CC	110.0	46312	908	45404	0	0	1	0
+fc_300_sparse_1.gg	F2-T	OutOfTime
+fc_300_sparse_2.gg	F2-CC	102.0	251976	908	251068	0	0	1	0
+fc_300_sparse_2.gg	F2-T	102.0	359597	901	253194	2223	103279	5	16
+fc_300_sparse_2.gg	F2-CC	102.0	254131	906	253225	0	0	1	0
+fc_300_sparse_2.gg	F2-T	102.0	361510	897	254800	2185	103628	5	16
+fc_300_sparse_3.gg	F2-CC	OutOfTime
+fc_300_sparse_3.gg	F2-T	OutOfTime
+fc_300_sparse_3.gg	F2-CC	OutOfTime
+fc_300_sparse_3.gg	F2-T	OutOfTime
+fc_300_sparse_4.gg	F2-CC	132.0	194919	897	194022	0	0	1	0
+fc_300_sparse_4.gg	F2-T	OutOfTime
+fc_300_sparse_4.gg	F2-CC	132.0	195800	896	194904	0	0	1	0
+fc_300_sparse_4.gg	F2-T	OutOfTime
+fc_400_dense_0.gg	F2-CC	64.0	35103	1673	33430	0	0	1	0
+fc_400_dense_0.gg	F2-T	OutOfTime
+fc_400_dense_0.gg	F2-CC	64.0	35005	1687	33318	0	0	1	0
+fc_400_dense_0.gg	F2-T	OutOfTime
+fc_400_dense_1.gg	F2-CC	58.0	88803	1693	87110	0	0	1	0
+fc_400_dense_1.gg	F2-T	58.0	88733	1649	86719	365	0	1	0
+fc_400_dense_1.gg	F2-CC	58.0	89462	1658	87804	0	0	1	0
+fc_400_dense_1.gg	F2-T	58.0	89213	1675	87184	354	0	1	0
+fc_400_dense_2.gg	F2-CC	62.0	113878	1679	112199	0	0	1	0
+fc_400_dense_2.gg	F2-T	62.0	137433	1670	111879	1312	22572	2	3
+fc_400_dense_2.gg	F2-CC	62.0	113603	1669	111934	0	0	1	0
+fc_400_dense_2.gg	F2-T	62.0	137990	1659	111967	1300	23064	2	3
+fc_400_dense_3.gg	F2-CC	OutOfTime
+fc_400_dense_3.gg	F2-T	OutOfTime
+fc_400_dense_3.gg	F2-CC	OutOfTime
+fc_400_dense_3.gg	F2-T	OutOfTime
+fc_400_dense_4.gg	F2-CC	54.0	84460	1670	82790	0	0	1	0
+fc_400_dense_4.gg	F2-T	54.0	116597	1667	82617	2106	30207	3	5
+fc_400_dense_4.gg	F2-CC	54.0	84676	1680	82996	0	0	1	0
+fc_400_dense_4.gg	F2-T	54.0	116713	1671	82895	2108	30039	3	5
+fc_400_sparse_0.gg	F2-CC	196.0	417816	1706	416110	0	0	1	0
+fc_400_sparse_0.gg	F2-T	OutOfTime
+fc_400_sparse_0.gg	F2-CC	196.0	418919	1679	417240	0	0	1	0
+fc_400_sparse_0.gg	F2-T	OutOfTime
+fc_400_sparse_1.gg	F2-CC	158.0	246386	1690	244696	0	0	1	0
+fc_400_sparse_1.gg	F2-T	OutOfTime
+fc_400_sparse_1.gg	F2-CC	158.0	246031	1671	244360	0	0	1	0
+fc_400_sparse_1.gg	F2-T	OutOfTime
+fc_400_sparse_2.gg	F2-CC	OutOfTime
+fc_400_sparse_2.gg	F2-T	OutOfTime
+fc_400_sparse_2.gg	F2-CC	OutOfTime
+fc_400_sparse_2.gg	F2-T	OutOfTime
+fc_400_sparse_3.gg	F2-CC	OutOfTime
+fc_400_sparse_3.gg	F2-T	OutOfTime
+fc_400_sparse_3.gg	F2-CC	OutOfTime
+fc_400_sparse_3.gg	F2-T	OutOfTime
+fc_400_sparse_4.gg	F2-CC	OutOfTime
+fc_400_sparse_4.gg	F2-T	OutOfTime
+fc_400_sparse_4.gg	F2-CC	OutOfTime
+fc_400_sparse_4.gg	F2-T	OutOfTime
+fc_500_dense_0.gg	F2-CC	84.0	201699	2660	199039	0	0	1	0
+fc_500_dense_0.gg	F2-T	OutOfTime
+fc_500_dense_0.gg	F2-CC	84.0	202294	2680	199614	0	0	1	0
+fc_500_dense_0.gg	F2-T	OutOfTime
+fc_500_dense_1.gg	F2-CC	76.0	228446	2660	225786	0	0	1	0
+fc_500_dense_1.gg	F2-T	OutOfTime
+fc_500_dense_1.gg	F2-CC	76.0	228231	2611	225620	0	0	1	0
+fc_500_dense_1.gg	F2-T	OutOfTime
+fc_500_dense_2.gg	F2-CC	OutOfTime
+fc_500_dense_2.gg	F2-T	OutOfTime
+fc_500_dense_2.gg	F2-CC	OutOfTime
+fc_500_dense_2.gg	F2-T	OutOfTime
+fc_500_dense_3.gg	F2-CC	74.0	115774	2661	113113	0	0	1	0
+fc_500_dense_3.gg	F2-T	74.0	311256	2631	113237	8054	187334	5	11
+fc_500_dense_3.gg	F2-CC	74.0	116095	2616	113479	0	0	1	0
+fc_500_dense_3.gg	F2-T	74.0	310751	2690	113245	8009	186807	5	11
+fc_500_dense_4.gg	F2-CC	84.0	100263	2603	97660	0	0	1	0
+fc_500_dense_4.gg	F2-T	OutOfTime
+fc_500_dense_4.gg	F2-CC	84.0	100262	2653	97609	0	0	1	0
+fc_500_dense_4.gg	F2-T	OutOfTime
+fc_500_sparse_0.gg	F2-CC	OutOfTime
+fc_500_sparse_0.gg	F2-T	OutOfTime
+fc_500_sparse_0.gg	F2-CC	OutOfTime
+fc_500_sparse_0.gg	F2-T	OutOfTime
+fc_500_sparse_1.gg	F2-CC	OutOfTime
+fc_500_sparse_1.gg	F2-T	OutOfTime
+fc_500_sparse_1.gg	F2-CC	OutOfTime
+fc_500_sparse_1.gg	F2-T	OutOfTime
+fc_500_sparse_2.gg	F2-CC	OutOfTime
+fc_500_sparse_2.gg	F2-T	OutOfTime
+fc_500_sparse_2.gg	F2-CC	OutOfTime
+fc_500_sparse_2.gg	F2-T	OutOfTime
+fc_500_sparse_3.gg	F2-CC	OutOfTime
+fc_500_sparse_3.gg	F2-T	OutOfTime
+fc_500_sparse_3.gg	F2-CC	OutOfTime
+fc_500_sparse_4.gg	F2-CC	OutOfTime
+fc_500_sparse_4.gg	F2-T	OutOfTime
+fc_600_dense_0.gg	F2-CC	OutOfTime
+fc_600_dense_0.gg	F2-T	OutOfTime
+fc_600_dense_0.gg	F2-CC	OutOfTime
+fc_600_dense_0.gg	F2-T	OutOfTime
+fc_600_dense_1.gg	F2-CC	OutOfTime
+fc_600_dense_1.gg	F2-T	OutOfTime
+fc_600_dense_1.gg	F2-CC	OutOfTime
+fc_600_dense_1.gg	F2-T	OutOfTime
+fc_600_dense_2.gg	F2-CC	OutOfTime
+fc_600_dense_2.gg	F2-T	OutOfTime
+fc_600_dense_2.gg	F2-CC	OutOfTime
+fc_600_dense_2.gg	F2-T	OutOfTime
+fc_600_dense_3.gg	F2-CC	86.0	107683	3984	103699	0	0	1	0
+fc_600_dense_3.gg	F2-T	86.0	410916	3944	103967	5839	297166	3	4
+fc_600_dense_3.gg	F2-CC	86.0	107308	3933	103375	0	0	1	0
+fc_600_dense_3.gg	F2-T	86.0	410635	3938	103859	5892	296946	3	4
+fc_600_dense_4.gg	F2-CC	OutOfTime
+fc_600_dense_4.gg	F2-T	OutOfTime
+fc_600_dense_4.gg	F2-CC	OutOfTime
+fc_600_dense_4.gg	F2-T	OutOfTime
+fc_600_sparse_0.gg	F2-CC	OutOfTime
+fc_600_sparse_0.gg	F2-T	OutOfTime
+fc_600_sparse_0.gg	F2-CC	OutOfTime
+fc_600_sparse_0.gg	F2-T	OutOfTime
+fc_600_sparse_1.gg	F2-CC	OutOfTime
+fc_600_sparse_1.gg	F2-T	OutOfTime
+fc_600_sparse_1.gg	F2-CC	OutOfTime
+fc_600_sparse_1.gg	F2-T	OutOfTime
+fc_600_sparse_2.gg	F2-CC	OutOfTime
+fc_600_sparse_2.gg	F2-T	OutOfTime
+fc_600_sparse_2.gg	F2-CC	OutOfTime
+fc_600_sparse_2.gg	F2-T	OutOfTime
+fc_600_sparse_3.gg	F2-CC	OutOfTime
+fc_600_sparse_3.gg	F2-T	OutOfTime
+fc_600_sparse_3.gg	F2-CC	OutOfTime
+fc_600_sparse_3.gg	F2-T	OutOfTime
+fc_600_sparse_4.gg	F2-CC	OutOfTime
+fc_600_sparse_4.gg	F2-T	OutOfTime
+fc_600_sparse_4.gg	F2-CC	OutOfTime
+fc_600_sparse_4.gg	F2-T	OutOfTime
+fc_700_dense_0.gg	F2-CC	84.0	213576	5470	208106	0	0	1	0
+fc_700_dense_0.gg	F2-T	OutOfTime
+fc_700_dense_0.gg	F2-CC	84.0	214469	5443	209026	0	0	1	0
+fc_700_dense_0.gg	F2-T	OutOfTime
+fc_700_dense_1.gg	F2-CC	OutOfTime
+fc_700_dense_1.gg	F2-T	OutOfTime
+fc_700_dense_1.gg	F2-CC	OutOfTime
+fc_700_dense_1.gg	F2-T	OutOfTime
+fc_700_dense_2.gg	F2-CC	102.0	330885	5512	325373	0	0	1	0
+fc_700_dense_2.gg	F2-T	OutOfTime
+fc_700_dense_2.gg	F2-CC	102.0	329624	5551	324073	0	0	1	0
+fc_700_dense_2.gg	F2-T	OutOfTime
+fc_700_dense_3.gg	F2-CC	98.0	651019	5521	645498	0	0	1	0
+fc_700_dense_3.gg	F2-T	OutOfTime
+fc_700_dense_3.gg	F2-CC	98.0	650098	5394	644704	0	0	1	0
+fc_700_dense_3.gg	F2-T	OutOfTime
+fc_700_dense_4.gg	F2-CC	88.0	442587	5467	437120	0	0	1	0
+fc_700_dense_4.gg	F2-T	88.0	444710	5466	437901	1343	0	1	0
+fc_700_dense_4.gg	F2-CC	88.0	442032	5484	436548	0	0	1	0
+fc_700_dense_4.gg	F2-T	88.0	444450	5441	437721	1288	0	1	0
+fc_700_sparse_0.gg	F2-CC	OutOfTime
+fc_700_sparse_0.gg	F2-T	OutOfTime
+fc_700_sparse_0.gg	F2-CC	OutOfTime
+fc_700_sparse_0.gg	F2-T	OutOfTime
+fc_700_sparse_1.gg	F2-CC	OutOfTime
+fc_700_sparse_1.gg	F2-T	OutOfTime
+fc_700_sparse_1.gg	F2-CC	OutOfTime
+fc_700_sparse_1.gg	F2-T	OutOfTime
+fc_700_sparse_2.gg	F2-CC	OutOfTime
+fc_700_sparse_2.gg	F2-T	OutOfTime
+fc_700_sparse_2.gg	F2-CC	OutOfTime
+fc_700_sparse_2.gg	F2-T	OutOfTime
+fc_700_sparse_3.gg	F2-CC	OutOfTime
+fc_700_sparse_3.gg	F2-T	OutOfTime
+fc_700_sparse_3.gg	F2-CC	OutOfTime
+fc_700_sparse_3.gg	F2-T	OutOfTime
+fc_700_sparse_4.gg	F2-CC	OutOfTime
+fc_700_sparse_4.gg	F2-T	OutOfTime
+fc_700_sparse_4.gg	F2-CC	OutOfTime
+fc_700_sparse_4.gg	F2-T	OutOfTime
+fc_800_dense_0.gg	F2-CC	OutOfTime
+fc_800_dense_0.gg	F2-T	OutOfTime
+fc_800_dense_0.gg	F2-CC	OutOfTime
+fc_800_dense_0.gg	F2-T	OutOfTime
+fc_800_dense_1.gg	F2-CC	OutOfTime
+fc_800_dense_1.gg	F2-T	OutOfTime
+fc_800_dense_1.gg	F2-CC	OutOfTime
+fc_800_dense_1.gg	F2-T	OutOfTime
+fc_800_dense_2.gg	F2-CC	OutOfTime
+fc_800_dense_2.gg	F2-T	OutOfTime
+fc_800_dense_2.gg	F2-CC	OutOfTime
+fc_800_dense_2.gg	F2-T	OutOfTime
+fc_800_dense_3.gg	F2-CC	OutOfTime
+fc_800_dense_3.gg	F2-T	OutOfTime
+fc_800_dense_3.gg	F2-CC	OutOfTime
+fc_800_dense_3.gg	F2-T	OutOfTime
+fc_800_dense_4.gg	F2-CC	110.0	465553	7338	458215	0	0	1	0
+fc_800_dense_4.gg	F2-T	OutOfTime
+fc_800_dense_4.gg	F2-CC	110.0	463884	7337	456547	0	0	1	0
+fc_800_dense_4.gg	F2-T	OutOfTime
+fc_800_sparse_0.gg	F2-CC	OutOfTime
+fc_800_sparse_0.gg	F2-T	OutOfTime
+fc_800_sparse_0.gg	F2-CC	OutOfTime
+fc_800_sparse_0.gg	F2-T	OutOfTime
+fc_800_sparse_1.gg	F2-CC	OutOfTime
+fc_800_sparse_1.gg	F2-T	OutOfTime
+fc_800_sparse_1.gg	F2-CC	OutOfTime
+fc_800_sparse_1.gg	F2-T	OutOfTime
+fc_800_sparse_2.gg	F2-CC	OutOfTime
+fc_800_sparse_2.gg	F2-T	OutOfTime
+fc_800_sparse_2.gg	F2-CC	OutOfTime
+fc_800_sparse_2.gg	F2-T	OutOfTime
+fc_800_sparse_3.gg	F2-CC	OutOfTime
+fc_800_sparse_3.gg	F2-T	OutOfTime
+fc_800_sparse_3.gg	F2-CC	OutOfTime
+fc_800_sparse_3.gg	F2-T	OutOfTime
+fc_800_sparse_4.gg	F2-CC	OutOfTime
+fc_800_sparse_4.gg	F2-T	OutOfTime
+fc_800_sparse_4.gg	F2-CC	OutOfTime
+fc_800_sparse_4.gg	F2-T	OutOfTime
+fc_900_dense_0.gg	F2-CC	OutOfTime
+fc_900_dense_0.gg	F2-T	OutOfTime
+fc_900_dense_0.gg	F2-CC	OutOfTime
+fc_900_dense_0.gg	F2-T	OutOfTime
+fc_900_dense_1.gg	F2-CC	OutOfTime
+fc_900_dense_1.gg	F2-T	OutOfTime
+fc_900_dense_1.gg	F2-CC	OutOfTime
+fc_900_dense_1.gg	F2-T	OutOfTime
+fc_900_dense_2.gg	F2-CC	OutOfTime
+fc_900_dense_2.gg	F2-T	OutOfTime
+fc_900_dense_2.gg	F2-CC	OutOfTime
+fc_900_dense_2.gg	F2-T	OutOfTime
+fc_900_dense_3.gg	F2-CC	124.0	755432	9096	746336	0	0	1	0
+fc_900_dense_3.gg	F2-T	OutOfTime
+fc_900_dense_3.gg	F2-CC	124.0	758141	9170	748971	0	0	1	0
+fc_900_dense_3.gg	F2-T	OutOfTime
+fc_900_dense_4.gg	F2-CC	98.0	342564	9226	333338	0	0	1	0
+fc_900_dense_4.gg	F2-T	OutOfTime
+fc_900_dense_4.gg	F2-CC	98.0	342248	9368	332880	0	0	1	0
+fc_900_dense_4.gg	F2-T	OutOfTime
+fc_900_sparse_0.gg	F2-CC	OutOfTime
+fc_900_sparse_0.gg	F2-T	OutOfTime
+fc_900_sparse_0.gg	F2-CC	OutOfTime
+fc_900_sparse_0.gg	F2-T	OutOfTime
+fc_900_sparse_1.gg	F2-CC	OutOfTime
+fc_900_sparse_1.gg	F2-T	OutOfTime
+fc_900_sparse_1.gg	F2-CC	OutOfTime
+fc_900_sparse_1.gg	F2-T	OutOfTime
+fc_900_sparse_2.gg	F2-CC	OutOfTime
+fc_900_sparse_2.gg	F2-T	OutOfTime
+fc_900_sparse_2.gg	F2-CC	OutOfTime
+fc_900_sparse_2.gg	F2-T	OutOfTime
+fc_900_sparse_3.gg	F2-CC	OutOfTime
+fc_900_sparse_3.gg	F2-T	OutOfTime
+fc_900_sparse_3.gg	F2-CC	OutOfTime
+fc_900_sparse_3.gg	F2-T	OutOfTime
+fc_900_sparse_4.gg	F2-CC	OutOfTime
+fc_900_sparse_4.gg	F2-T	OutOfTime
+fc_900_sparse_4.gg	F2-CC	OutOfTime
+fc_900_sparse_4.gg	F2-T	OutOfTime
+fc_1100_dense_0.gg	F2-CC	OutOfTime
+fc_1100_dense_0.gg	F2-T	OutOfTime
+fc_1100_dense_0.gg	F2-CC	OutOfTime
+fc_1100_dense_0.gg	F2-T	OutOfTime
+fc_1100_dense_1.gg	F2-CC	OutOfTime
+fc_1100_dense_1.gg	F2-T	OutOfTime
+fc_1100_dense_1.gg	F2-CC	OutOfTime
+fc_1100_dense_1.gg	F2-T	OutOfTime
+fc_1100_dense_2.gg	F2-CC	OutOfTime
+fc_1100_dense_2.gg	F2-T	OutOfTime
+fc_1100_dense_2.gg	F2-CC	OutOfTime
+fc_1100_dense_2.gg	F2-T	OutOfTime
+fc_1100_dense_3.gg	F2-CC	OutOfTime
+fc_1100_dense_3.gg	F2-T	OutOfTime
+fc_1100_dense_3.gg	F2-CC	OutOfTime
+fc_1100_dense_3.gg	F2-T	OutOfTime
+fc_1100_dense_4.gg	F2-CC	OutOfTime
+fc_1100_dense_4.gg	F2-T	OutOfTime
+fc_1100_dense_4.gg	F2-CC	OutOfTime
+fc_1100_dense_4.gg	F2-T	OutOfTime
+fc_1100_sparse_0.gg	F2-CC	OutOfTime
+fc_1100_sparse_0.gg	F2-T	OutOfTime
+fc_1100_sparse_0.gg	F2-CC	OutOfTime
+fc_1100_sparse_0.gg	F2-T	OutOfTime
+fc_1100_sparse_1.gg	F2-CC	OutOfTime
+fc_1100_sparse_1.gg	F2-T	OutOfTime
+fc_1100_sparse_1.gg	F2-CC	OutOfTime
+fc_1100_sparse_1.gg	F2-T	OutOfTime
+fc_1100_sparse_2.gg	F2-CC	OutOfTime
+fc_1100_sparse_2.gg	F2-T	OutOfTime
+fc_1100_sparse_2.gg	F2-CC	OutOfTime
+fc_1100_sparse_2.gg	F2-T	OutOfTime
+fc_1100_sparse_3.gg	F2-CC	OutOfTime
+fc_1100_sparse_3.gg	F2-T	OutOfTime
+fc_1100_sparse_3.gg	F2-CC	OutOfTime
+fc_1100_sparse_3.gg	F2-T	OutOfTime
+fc_1100_sparse_4.gg	F2-CC	OutOfTime
+fc_1100_sparse_4.gg	F2-T	OutOfTime
+fc_1100_sparse_4.gg	F2-CC	OutOfTime
+fc_1100_sparse_4.gg	F2-T	OutOfTime
+fc_1200_dense_0.gg	F2-CC	OutOfTime
+fc_1200_dense_0.gg	F2-T	OutOfTime
+fc_1200_dense_0.gg	F2-CC	OutOfTime
+fc_1200_dense_0.gg	F2-T	OutOfTime
+fc_1200_dense_1.gg	F2-CC	OutOfTime
+fc_1200_dense_1.gg	F2-T	OutOfTime
+fc_1200_dense_1.gg	F2-CC	OutOfTime
+fc_1200_dense_1.gg	F2-T	OutOfTime
+fc_1200_dense_2.gg	F2-CC	OutOfTime
+fc_1200_dense_2.gg	F2-T	OutOfTime
+fc_1200_dense_2.gg	F2-CC	OutOfTime
+fc_1200_dense_2.gg	F2-T	OutOfTime
+fc_1200_dense_3.gg	F2-CC	OutOfTime
+fc_1200_dense_3.gg	F2-T	OutOfTime
+fc_1200_dense_3.gg	F2-CC	OutOfTime
+fc_1200_dense_3.gg	F2-T	OutOfTime
+fc_1200_dense_4.gg	F2-CC	OutOfTime
+fc_1200_dense_4.gg	F2-T	OutOfTime
+fc_1200_dense_4.gg	F2-CC	OutOfTime
+fc_1200_dense_4.gg	F2-T	OutOfTime
+fc_1200_sparse_0.gg	F2-CC	OutOfTime
+fc_1200_sparse_0.gg	F2-T	OutOfTime
+fc_1200_sparse_0.gg	F2-CC	OutOfTime
+fc_1200_sparse_0.gg	F2-T	OutOfTime
+fc_1200_sparse_1.gg	F2-CC	OutOfTime
+fc_1200_sparse_1.gg	F2-T	OutOfTime
+fc_1200_sparse_1.gg	F2-CC	OutOfTime
+fc_1200_sparse_1.gg	F2-T	OutOfTime
+fc_1200_sparse_2.gg	F2-CC	OutOfTime
+fc_1200_sparse_2.gg	F2-T	OutOfTime
+fc_1200_sparse_2.gg	F2-CC	OutOfTime
+fc_1200_sparse_2.gg	F2-T	OutOfTime
+fc_1200_sparse_3.gg	F2-CC	OutOfTime
+fc_1200_sparse_3.gg	F2-T	OutOfTime
+fc_1200_sparse_3.gg	F2-CC	OutOfTime
+fc_1200_sparse_3.gg	F2-T	OutOfTime
+fc_1200_sparse_4.gg	F2-CC	OutOfTime
+fc_1200_sparse_4.gg	F2-T	OutOfTime
+fc_1200_sparse_4.gg	F2-CC	OutOfTime
+fc_1200_sparse_4.gg	F2-T	OutOfTime
+fc_1300_dense_0.gg	F2-CC	OutOfTime
+fc_1300_dense_0.gg	F2-T	OutOfTime
+fc_1300_dense_0.gg	F2-CC	OutOfTime
+fc_1300_dense_0.gg	F2-T	OutOfTime
+fc_1300_dense_1.gg	F2-CC	OutOfTime
+fc_1300_dense_1.gg	F2-T	OutOfTime
+fc_1300_dense_1.gg	F2-CC	OutOfTime
+fc_1300_dense_1.gg	F2-T	OutOfTime
+fc_1300_dense_2.gg	F2-CC	OutOfTime
+fc_1300_dense_2.gg	F2-T	OutOfTime
+fc_1300_dense_2.gg	F2-CC	OutOfTime
+fc_1300_dense_2.gg	F2-T	OutOfTime
+fc_1300_dense_3.gg	F2-CC	OutOfTime
+fc_1300_dense_3.gg	F2-T	OutOfTime
+fc_1300_dense_3.gg	F2-CC	OutOfTime
+fc_1300_dense_3.gg	F2-T	OutOfTime
+fc_1300_dense_4.gg	F2-CC	OutOfTime
+fc_1300_dense_4.gg	F2-T	OutOfTime
+fc_1300_dense_4.gg	F2-CC	OutOfTime
+fc_1300_dense_4.gg	F2-T	OutOfTime
+fc_1300_sparse_0.gg	F2-CC	OutOfTime
+fc_1300_sparse_0.gg	F2-T	OutOfTime
+fc_1300_sparse_0.gg	F2-CC	OutOfTime
+fc_1300_sparse_0.gg	F2-T	OutOfTime
+fc_1300_sparse_1.gg	F2-CC	OutOfTime
+fc_1300_sparse_1.gg	F2-T	OutOfTime
+fc_1300_sparse_1.gg	F2-CC	OutOfTime
+fc_1300_sparse_1.gg	F2-T	OutOfTime
+fc_1300_sparse_2.gg	F2-CC	OutOfTime
+fc_1300_sparse_2.gg	F2-T	OutOfTime
+fc_1300_sparse_2.gg	F2-CC	OutOfTime
+fc_1300_sparse_2.gg	F2-T	OutOfTime
+fc_1300_sparse_3.gg	F2-CC	OutOfTime
+fc_1300_sparse_3.gg	F2-T	OutOfTime
+fc_1300_sparse_3.gg	F2-CC	OutOfTime
+fc_1300_sparse_3.gg	F2-T	OutOfTime
+fc_1300_sparse_4.gg	F2-CC	OutOfTime
+fc_1300_sparse_4.gg	F2-T	OutOfTime
+fc_1300_sparse_4.gg	F2-CC	OutOfTime
+fc_1300_sparse_4.gg	F2-T	OutOfTime
+fc_1400_dense_0.gg	F2-CC	OutOfTime
+fc_1400_dense_0.gg	F2-T	OutOfTime
+fc_1400_dense_0.gg	F2-CC	OutOfTime
+fc_1400_dense_0.gg	F2-T	OutOfTime
+fc_1400_dense_1.gg	F2-CC	OutOfTime
+fc_1400_dense_1.gg	F2-T	OutOfTime
+fc_1400_dense_1.gg	F2-CC	OutOfTime
+fc_1400_dense_1.gg	F2-T	OutOfTime
+fc_1400_dense_2.gg	F2-CC	OutOfTime
+fc_1400_dense_2.gg	F2-T	OutOfTime
+fc_1400_dense_2.gg	F2-CC	OutOfTime
+fc_1400_dense_2.gg	F2-T	OutOfTime
+fc_1400_dense_3.gg	F2-CC	OutOfTime
+fc_1400_dense_3.gg	F2-T	OutOfTime
+fc_1400_dense_3.gg	F2-CC	OutOfTime
+fc_1400_dense_4.gg	F2-CC	OutOfTime
+fc_1400_dense_4.gg	F2-T	OutOfTime
+fc_1400_sparse_0.gg	F2-CC	OutOfTime
+fc_1400_sparse_0.gg	F2-T	OutOfTime
+fc_1400_sparse_0.gg	F2-CC	OutOfTime
+fc_1400_sparse_0.gg	F2-T	OutOfTime
+fc_1400_sparse_1.gg	F2-CC	OutOfTime
+fc_1400_sparse_1.gg	F2-T	OutOfTime
+fc_1400_sparse_1.gg	F2-CC	OutOfTime
+fc_1400_sparse_1.gg	F2-T	OutOfTime
+fc_1400_sparse_2.gg	F2-CC	OutOfTime
+fc_1400_sparse_2.gg	F2-T	OutOfTime
+fc_1400_sparse_2.gg	F2-CC	OutOfTime
+fc_1400_sparse_2.gg	F2-T	OutOfTime
+fc_1400_sparse_3.gg	F2-CC	OutOfTime
+fc_1400_sparse_3.gg	F2-T	OutOfTime
+fc_1400_sparse_3.gg	F2-CC	OutOfTime
+fc_1400_sparse_3.gg	F2-T	OutOfTime
+fc_1400_sparse_4.gg	F2-CC	OutOfTime
+fc_1400_sparse_4.gg	F2-T	OutOfTime
+fc_1400_sparse_4.gg	F2-CC	OutOfTime
+fc_1400_sparse_4.gg	F2-T	OutOfTime
+fc_1500_dense_0.gg	F2-CC	OutOfTime
+fc_1500_dense_0.gg	F2-T	OutOfTime
+fc_1500_dense_0.gg	F2-CC	OutOfTime
+fc_1500_dense_0.gg	F2-T	OutOfTime
+fc_1500_dense_1.gg	F2-CC	OutOfTime
+fc_1500_dense_1.gg	F2-T	OutOfTime
+fc_1500_dense_1.gg	F2-CC	OutOfTime
+fc_1500_dense_1.gg	F2-T	OutOfTime
+fc_1500_dense_2.gg	F2-CC	OutOfTime
+fc_1500_dense_2.gg	F2-T	OutOfTime
+fc_1500_dense_2.gg	F2-CC	OutOfTime
+fc_1500_dense_2.gg	F2-T	OutOfTime
+fc_1500_sparse_0.gg	F2-CC	OutOfTime
+fc_1500_sparse_0.gg	F2-T	OutOfTime
+fc_1500_sparse_0.gg	F2-CC	OutOfTime
+fc_1500_sparse_0.gg	F2-T	OutOfTime
+fc_1500_sparse_1.gg	F2-CC	OutOfTime
+fc_1500_sparse_1.gg	F2-T	OutOfTime
+fc_1500_sparse_1.gg	F2-CC	OutOfTime
+fc_1500_sparse_1.gg	F2-T	OutOfTime
+fc_1500_sparse_2.gg	F2-CC	OutOfTime
+fc_1500_sparse_2.gg	F2-T	OutOfTime
+fc_1500_sparse_2.gg	F2-CC	OutOfTime
+fc_1500_sparse_2.gg	F2-T	OutOfTime
+fc_1600_dense_0.gg	F2-CC	OutOfTime
+fc_1600_dense_0.gg	F2-T	OutOfTime
+fc_1600_dense_0.gg	F2-CC	OutOfTime
+fc_1600_dense_0.gg	F2-T	OutOfTime
+fc_1600_dense_1.gg	F2-CC	OutOfTime
+fc_1600_dense_1.gg	F2-T	OutOfTime
+fc_1600_dense_1.gg	F2-CC	OutOfTime
+fc_1600_dense_1.gg	F2-T	OutOfTime
+fc_1600_dense_2.gg	F2-CC	OutOfTime
+fc_1600_dense_2.gg	F2-T	OutOfTime
+fc_1600_dense_2.gg	F2-CC	OutOfTime
+fc_1600_dense_2.gg	F2-T	OutOfTime
+fc_1600_sparse_0.gg	F2-CC	OutOfTime
+fc_1600_sparse_0.gg	F2-T	OutOfTime
+fc_1600_sparse_0.gg	F2-CC	OutOfTime
+fc_1600_sparse_0.gg	F2-T	OutOfTime
+fc_1600_sparse_1.gg	F2-CC	OutOfTime
+fc_1600_sparse_1.gg	F2-T	OutOfTime
+fc_1600_sparse_1.gg	F2-CC	OutOfTime
+fc_1600_sparse_1.gg	F2-T	OutOfTime
+fc_1600_sparse_2.gg	F2-CC	OutOfTime
+fc_1600_sparse_2.gg	F2-T	OutOfTime
+fc_1600_sparse_2.gg	F2-CC	OutOfTime
+fc_1600_sparse_2.gg	F2-T	OutOfTime
+fc_1700_dense_0.gg	F2-CC	OutOfTime
+fc_1700_dense_0.gg	F2-T	OutOfTime
+fc_1700_dense_0.gg	F2-CC	OutOfTime
+fc_1700_dense_0.gg	F2-T	OutOfTime
+fc_1700_dense_1.gg	F2-CC	OutOfTime
+fc_1700_dense_1.gg	F2-T	OutOfTime
+fc_1700_dense_1.gg	F2-CC	OutOfTime
+fc_1700_dense_1.gg	F2-T	OutOfTime
+fc_1700_dense_2.gg	F2-CC	OutOfTime
+fc_1700_dense_2.gg	F2-T	OutOfTime
+fc_1700_dense_2.gg	F2-CC	OutOfTime
+fc_1700_dense_2.gg	F2-T	OutOfTime
+fc_1700_sparse_0.gg	F2-CC	OutOfTime
+fc_1700_sparse_0.gg	F2-T	OutOfTime
+fc_1700_sparse_0.gg	F2-CC	OutOfTime
+fc_1700_sparse_0.gg	F2-T	OutOfTime
+fc_1700_sparse_1.gg	F2-CC	OutOfTime
+fc_1700_sparse_1.gg	F2-T	OutOfTime
+fc_1700_sparse_1.gg	F2-CC	OutOfTime
+fc_1700_sparse_1.gg	F2-T	OutOfTime
+fc_1700_sparse_2.gg	F2-CC	OutOfTime
+fc_1700_sparse_2.gg	F2-T	OutOfTime
+fc_1700_sparse_2.gg	F2-CC	OutOfTime
+fc_1700_sparse_2.gg	F2-T	OutOfTime
+fc_1800_dense_0.gg	F2-CC	OutOfTime
+fc_1800_dense_0.gg	F2-T	OutOfTime
+fc_1800_dense_0.gg	F2-CC	OutOfTime
+fc_1800_dense_0.gg	F2-T	OutOfTime
+fc_1800_dense_1.gg	F2-CC	OutOfTime
+fc_1800_dense_1.gg	F2-T	OutOfTime
+fc_1800_dense_1.gg	F2-CC	OutOfTime
+fc_1800_dense_1.gg	F2-T	OutOfTime
+fc_1800_dense_2.gg	F2-CC	OutOfTime
+fc_1800_dense_2.gg	F2-T	OutOfTime
+fc_1800_dense_2.gg	F2-CC	OutOfTime
+fc_1800_dense_2.gg	F2-T	OutOfTime
+fc_1800_sparse_0.gg	F2-CC	OutOfTime
+fc_1800_sparse_0.gg	F2-T	OutOfTime
+fc_1800_sparse_0.gg	F2-CC	OutOfTime
+fc_1800_sparse_0.gg	F2-T	OutOfTime
+fc_1800_sparse_1.gg	F2-CC	OutOfTime
+fc_1800_sparse_1.gg	F2-T	OutOfTime
+fc_1800_sparse_1.gg	F2-CC	OutOfTime
+fc_1800_sparse_1.gg	F2-T	OutOfTime
+fc_1800_sparse_2.gg	F2-CC	OutOfTime
+fc_1800_sparse_2.gg	F2-T	OutOfTime
+fc_1800_sparse_2.gg	F2-CC	OutOfTime
+fc_1800_sparse_2.gg	F2-T	OutOfTime
+fc_1900_dense_0.gg	F2-CC	OutOfTime
+fc_1900_dense_0.gg	F2-T	OutOfTime
+fc_1900_dense_0.gg	F2-CC	OutOfTime
+fc_1900_dense_0.gg	F2-T	OutOfTime
+fc_1900_dense_1.gg	F2-CC	OutOfTime
+fc_1900_dense_1.gg	F2-T	OutOfTime
+fc_1900_dense_1.gg	F2-CC	OutOfTime
+fc_1900_dense_1.gg	F2-T	OutOfTime
+fc_1900_dense_2.gg	F2-CC	OutOfTime
+fc_1900_dense_2.gg	F2-T	OutOfTime
+fc_1900_dense_2.gg	F2-CC	OutOfTime
+fc_1900_dense_2.gg	F2-T	OutOfTime
+fc_1900_sparse_0.gg	F2-CC	OutOfTime
+fc_1900_sparse_0.gg	F2-T	OutOfTime
+fc_1900_sparse_0.gg	F2-CC	OutOfTime
+fc_1900_sparse_0.gg	F2-T	OutOfTime
+fc_1900_sparse_1.gg	F2-CC	OutOfTime
+fc_1900_sparse_1.gg	F2-T	OutOfTime
+fc_1900_sparse_1.gg	F2-CC	OutOfTime
+fc_1900_sparse_1.gg	F2-T	OutOfTime
+fc_1900_sparse_2.gg	F2-CC	OutOfTime
+fc_1900_sparse_2.gg	F2-T	OutOfTime
+fc_1900_sparse_2.gg	F2-CC	OutOfTime
+fc_1900_sparse_2.gg	F2-T	OutOfTime
+fc_2000_dense_0.gg	F2-CC	OutOfTime
+fc_2000_dense_0.gg	F2-T	OutOfTime
+fc_2000_dense_0.gg	F2-CC	OutOfTime
+fc_2000_dense_0.gg	F2-T	OutOfTime
+fc_2000_dense_1.gg	F2-CC	OutOfTime
+fc_2000_dense_1.gg	F2-T	OutOfTime
+fc_2000_dense_1.gg	F2-CC	OutOfTime
+fc_2000_dense_1.gg	F2-T	OutOfTime
+fc_2000_dense_2.gg	F2-CC	OutOfTime
+fc_2000_dense_2.gg	F2-T	OutOfTime
+fc_2000_dense_2.gg	F2-CC	OutOfTime
+fc_2000_dense_2.gg	F2-T	OutOfTime
+fc_2000_sparse_0.gg	F2-CC	OutOfTime
+fc_2000_sparse_0.gg	F2-T	OutOfTime
+fc_2000_sparse_0.gg	F2-CC	OutOfTime
+fc_2000_sparse_0.gg	F2-T	OutOfTime
+fc_2000_sparse_1.gg	F2-CC	OutOfTime
+fc_2000_sparse_1.gg	F2-T	OutOfTime
+fc_2000_sparse_1.gg	F2-CC	OutOfTime
+fc_2000_sparse_1.gg	F2-T	OutOfTime
+fc_2000_sparse_2.gg	F2-CC	OutOfTime
+fc_2000_sparse_2.gg	F2-T	OutOfTime
+fc_2000_sparse_2.gg	F2-CC	OutOfTime
+fc_2000_sparse_2.gg	F2-T	OutOfTime
+fc_2100_dense_0.gg	F2-CC	OutOfTime
+fc_2100_dense_0.gg	F2-T	OutOfTime
+fc_2100_dense_0.gg	F2-CC	OutOfTime
+fc_2100_dense_0.gg	F2-T	OutOfTime
+fc_2100_dense_1.gg	F2-CC	OutOfTime
+fc_2100_dense_1.gg	F2-T	OutOfTime
+fc_2100_dense_1.gg	F2-CC	OutOfTime
+fc_2100_dense_1.gg	F2-T	OutOfTime
+fc_2100_dense_2.gg	F2-CC	OutOfTime
+fc_2100_dense_2.gg	F2-T	OutOfTime
+fc_2100_dense_2.gg	F2-CC	OutOfTime
+fc_2100_dense_2.gg	F2-T	OutOfTime
+fc_2100_sparse_0.gg	F2-CC	OutOfTime
+fc_2100_sparse_0.gg	F2-T	OutOfTime
+fc_2100_sparse_0.gg	F2-CC	OutOfTime
+fc_2100_sparse_0.gg	F2-T	OutOfTime
+fc_2100_sparse_1.gg	F2-CC	OutOfTime
+fc_2100_sparse_1.gg	F2-T	OutOfTime
+fc_2100_sparse_1.gg	F2-CC	OutOfTime
+fc_2100_sparse_1.gg	F2-T	OutOfTime
+fc_2100_sparse_2.gg	F2-CC	OutOfTime
+fc_2100_sparse_2.gg	F2-T	OutOfTime
+fc_2100_sparse_2.gg	F2-CC	OutOfTime
+fc_2100_sparse_2.gg	F2-T	OutOfTime
+fc_2200_dense_0.gg	F2-CC	OutOfTime
+fc_2200_dense_0.gg	F2-T	OutOfTime
+fc_2200_dense_0.gg	F2-CC	OutOfTime
+fc_2200_dense_0.gg	F2-T	OutOfTime
+fc_2200_dense_1.gg	F2-CC	OutOfTime
+fc_2200_dense_1.gg	F2-T	OutOfTime
+fc_2200_dense_1.gg	F2-CC	OutOfTime
+fc_2200_dense_1.gg	F2-T	OutOfTime
+fc_2200_dense_2.gg	F2-CC	OutOfTime
+fc_2200_dense_2.gg	F2-T	OutOfTime
+fc_2200_dense_2.gg	F2-CC	OutOfTime
+fc_2200_dense_2.gg	F2-T	OutOfTime
+fc_2200_sparse_0.gg	F2-CC	OutOfTime
+fc_2200_sparse_0.gg	F2-T	OutOfTime
+fc_2200_sparse_0.gg	F2-CC	OutOfTime
+fc_2200_sparse_0.gg	F2-T	OutOfTime
+fc_2200_sparse_1.gg	F2-CC	OutOfTime
+fc_2200_sparse_1.gg	F2-T	OutOfTime
+fc_2200_sparse_1.gg	F2-CC	OutOfTime
+fc_2200_sparse_1.gg	F2-T	OutOfTime
+fc_2200_sparse_2.gg	F2-CC	OutOfTime
+fc_2200_sparse_2.gg	F2-T	OutOfTime
+fc_2200_sparse_2.gg	F2-CC	OutOfTime
+fc_2200_sparse_2.gg	F2-T	OutOfTime
+fc_2300_dense_0.gg	F2-CC	OutOfTime
+fc_2300_dense_0.gg	F2-T	OutOfTime
+fc_2300_dense_0.gg	F2-CC	OutOfTime
+fc_2300_dense_0.gg	F2-T	OutOfTime
+fc_2300_dense_1.gg	F2-CC	OutOfTime
+fc_2300_dense_1.gg	F2-T	OutOfTime
+fc_2300_dense_1.gg	F2-CC	OutOfTime
+fc_2300_dense_1.gg	F2-T	OutOfTime
+fc_2300_dense_2.gg	F2-CC	OutOfTime
+fc_2300_dense_2.gg	F2-T	OutOfTime
+fc_2300_dense_2.gg	F2-CC	OutOfTime
+fc_2300_dense_2.gg	F2-T	OutOfTime
+fc_2300_sparse_0.gg	F2-CC	OutOfTime
+fc_2300_sparse_0.gg	F2-T	OutOfTime
+fc_2300_sparse_0.gg	F2-CC	OutOfTime
+fc_2300_sparse_0.gg	F2-T	OutOfTime
+fc_2300_sparse_1.gg	F2-CC	OutOfTime
+fc_2300_sparse_1.gg	F2-T	OutOfTime
+fc_2300_sparse_1.gg	F2-CC	OutOfTime
+fc_2300_sparse_1.gg	F2-T	OutOfTime
+fc_2300_sparse_2.gg	F2-CC	OutOfTime
+fc_2300_sparse_2.gg	F2-T	OutOfTime
+fc_2300_sparse_2.gg	F2-CC	OutOfTime
+fc_2300_sparse_2.gg	F2-T	OutOfTime
+fc_2400_dense_0.gg	F2-CC	OutOfTime
+fc_2400_dense_0.gg	F2-T	OutOfTime
+fc_2400_dense_0.gg	F2-CC	OutOfTime
+fc_2400_dense_0.gg	F2-T	OutOfTime
+fc_2400_dense_1.gg	F2-CC	OutOfTime
+fc_2400_dense_1.gg	F2-T	OutOfTime
+fc_2400_dense_1.gg	F2-CC	OutOfTime
+fc_2400_dense_1.gg	F2-T	OutOfTime
+fc_2400_dense_2.gg	F2-CC	OutOfTime
+fc_2400_dense_2.gg	F2-T	OutOfTime
+fc_2400_dense_2.gg	F2-CC	OutOfTime
+fc_2400_dense_2.gg	F2-T	OutOfTime
+fc_2400_sparse_0.gg	F2-CC	OutOfTime
+fc_2400_sparse_0.gg	F2-T	OutOfTime
+fc_2400_sparse_0.gg	F2-CC	OutOfTime
+fc_2400_sparse_0.gg	F2-T	OutOfTime
+fc_2400_sparse_1.gg	F2-CC	OutOfTime
+fc_2400_sparse_1.gg	F2-T	OutOfTime
+fc_2400_sparse_1.gg	F2-CC	OutOfTime
+fc_2400_sparse_1.gg	F2-T	OutOfTime
+fc_2400_sparse_2.gg	F2-CC	OutOfTime
+fc_2400_sparse_2.gg	F2-T	OutOfTime
+fc_2400_sparse_2.gg	F2-CC	OutOfTime
+fc_2400_sparse_2.gg	F2-T	OutOfTime
+fc_2500_dense_0.gg	F2-CC	OutOfTime
+fc_2500_dense_0.gg	F2-T	OutOfTime
+fc_2500_dense_0.gg	F2-CC	OutOfTime
+fc_2500_dense_0.gg	F2-T	OutOfTime
+fc_2500_dense_1.gg	F2-CC	OutOfTime
+fc_2500_dense_1.gg	F2-T	OutOfTime
+fc_2500_dense_1.gg	F2-CC	OutOfTime
+fc_2500_dense_1.gg	F2-T	OutOfTime
+fc_2500_dense_2.gg	F2-CC	OutOfTime
+fc_2500_dense_2.gg	F2-T	OutOfTime
+fc_2500_dense_2.gg	F2-CC	OutOfTime
+fc_2500_dense_2.gg	F2-T	OutOfTime
+fc_2500_sparse_0.gg	F2-CC	OutOfTime
+fc_2500_sparse_0.gg	F2-T	OutOfTime
+fc_2500_sparse_0.gg	F2-CC	OutOfTime
+fc_2500_sparse_0.gg	F2-T	OutOfTime
+fc_2500_sparse_1.gg	F2-CC	OutOfTime
+fc_2500_sparse_1.gg	F2-T	OutOfTime
+fc_2500_sparse_1.gg	F2-CC	OutOfTime
+fc_2500_sparse_1.gg	F2-T	OutOfTime
+fc_2500_sparse_2.gg	F2-CC	OutOfTime
+fc_2500_sparse_2.gg	F2-T	OutOfTime
+fc_2500_sparse_2.gg	F2-CC	OutOfTime
+fc_2500_sparse_2.gg	F2-T	OutOfTime
+fc_2600_dense_0.gg	F2-CC	OutOfTime
+fc_2600_dense_0.gg	F2-T	OutOfTime
+fc_2600_dense_0.gg	F2-CC	OutOfTime
+fc_2600_dense_0.gg	F2-T	OutOfTime
+fc_2600_dense_1.gg	F2-CC	OutOfTime
+fc_2600_dense_1.gg	F2-T	OutOfTime
+fc_2600_dense_1.gg	F2-CC	OutOfTime
+fc_2600_dense_1.gg	F2-T	OutOfTime
+fc_2600_dense_2.gg	F2-CC	OutOfTime
+fc_2600_dense_2.gg	F2-T	OutOfTime
+fc_2600_dense_2.gg	F2-CC	OutOfTime
+fc_2600_dense_2.gg	F2-T	OutOfTime
+fc_2600_sparse_0.gg	F2-CC	OutOfTime
+fc_2600_sparse_0.gg	F2-T	OutOfTime
+fc_2600_sparse_0.gg	F2-CC	OutOfTime
+fc_2600_sparse_0.gg	F2-T	OutOfTime
+fc_2600_sparse_1.gg	F2-CC	OutOfTime
+fc_2600_sparse_1.gg	F2-T	OutOfTime
+fc_2600_sparse_1.gg	F2-CC	OutOfTime
+fc_2600_sparse_1.gg	F2-T	OutOfTime
+fc_2600_sparse_2.gg	F2-CC	OutOfTime
+fc_2600_sparse_2.gg	F2-T	OutOfTime
+fc_2600_sparse_2.gg	F2-CC	OutOfTime
+fc_2600_sparse_2.gg	F2-T	OutOfTime
+fc_2700_dense_0.gg	F2-CC	OutOfTime
+fc_2700_dense_0.gg	F2-T	OutOfTime
+fc_2700_dense_0.gg	F2-CC	OutOfTime
+fc_2700_dense_0.gg	F2-T	OutOfTime
+fc_2700_dense_1.gg	F2-CC	OutOfTime
+fc_2700_dense_1.gg	F2-T	OutOfTime
+fc_2700_dense_1.gg	F2-CC	OutOfTime
+fc_2700_dense_1.gg	F2-T	OutOfTime
+fc_2700_dense_2.gg	F2-CC	OutOfTime
+fc_2700_dense_2.gg	F2-T	OutOfTime
+fc_2700_dense_2.gg	F2-CC	OutOfTime
+fc_2700_dense_2.gg	F2-T	OutOfTime
+fc_2700_sparse_0.gg	F2-CC	OutOfTime
+fc_2700_sparse_0.gg	F2-T	OutOfTime
+fc_2700_sparse_0.gg	F2-CC	OutOfTime
+fc_2700_sparse_0.gg	F2-T	OutOfTime
+fc_2700_sparse_1.gg	F2-CC	OutOfTime
+fc_2700_sparse_1.gg	F2-T	OutOfTime
+fc_2700_sparse_1.gg	F2-CC	OutOfTime
+fc_2700_sparse_1.gg	F2-T	OutOfTime
+fc_2700_sparse_2.gg	F2-CC	OutOfTime
+fc_2700_sparse_2.gg	F2-T	OutOfTime
+fc_2700_sparse_2.gg	F2-CC	OutOfTime
+fc_2700_sparse_2.gg	F2-T	OutOfTime
+fc_2800_dense_0.gg	F2-CC	OutOfTime
+fc_2800_dense_0.gg	F2-T	OutOfTime
+fc_2800_dense_0.gg	F2-CC	OutOfTime
+fc_2800_dense_0.gg	F2-T	OutOfTime
+fc_2800_dense_1.gg	F2-CC	OutOfTime
+fc_2800_dense_1.gg	F2-T	OutOfTime
+fc_2800_dense_1.gg	F2-CC	OutOfTime
+fc_2800_dense_1.gg	F2-T	OutOfTime
+fc_2800_dense_2.gg	F2-CC	OutOfTime
+fc_2800_dense_2.gg	F2-T	OutOfTime
+fc_2800_dense_2.gg	F2-CC	OutOfTime
+fc_2800_dense_2.gg	F2-T	OutOfTime
+fc_2800_sparse_0.gg	F2-CC	OutOfTime
+fc_2800_sparse_0.gg	F2-T	OutOfTime
+fc_2800_sparse_0.gg	F2-CC	OutOfTime
+fc_2800_sparse_0.gg	F2-T	OutOfTime
+fc_2800_sparse_1.gg	F2-CC	OutOfTime
+fc_2800_sparse_1.gg	F2-T	OutOfTime
+fc_2800_sparse_1.gg	F2-CC	OutOfTime
+fc_2800_sparse_1.gg	F2-T	OutOfTime
+fc_2800_sparse_2.gg	F2-CC	OutOfTime
+fc_2800_sparse_2.gg	F2-T	OutOfTime
+fc_2800_sparse_2.gg	F2-CC	OutOfTime
+fc_2800_sparse_2.gg	F2-T	OutOfTime
+fc_2900_dense_0.gg	F2-CC	OutOfTime
+fc_2900_dense_0.gg	F2-T	OutOfTime
+fc_2900_dense_0.gg	F2-CC	OutOfTime
+fc_2900_dense_0.gg	F2-T	OutOfTime
+fc_2900_dense_1.gg	F2-CC	OutOfTime
+fc_2900_dense_1.gg	F2-T	OutOfTime
+fc_2900_dense_1.gg	F2-CC	OutOfTime
+fc_2900_dense_1.gg	F2-T	OutOfTime
+fc_2900_dense_2.gg	F2-CC	OutOfTime
+fc_2900_dense_2.gg	F2-T	OutOfTime
+fc_2900_dense_2.gg	F2-CC	OutOfTime
+fc_2900_dense_2.gg	F2-T	OutOfTime
+fc_2900_sparse_0.gg	F2-CC	OutOfTime
+fc_2900_sparse_0.gg	F2-T	OutOfTime
+fc_2900_sparse_0.gg	F2-CC	OutOfTime
+fc_2900_sparse_0.gg	F2-T	OutOfTime
+fc_2900_sparse_1.gg	F2-CC	OutOfTime
+fc_2900_sparse_1.gg	F2-T	OutOfTime
+fc_2900_sparse_1.gg	F2-CC	OutOfTime
+fc_2900_sparse_1.gg	F2-T	OutOfTime
+fc_2900_sparse_2.gg	F2-CC	OutOfTime
+fc_2900_sparse_2.gg	F2-T	OutOfTime
+fc_2900_sparse_2.gg	F2-CC	OutOfTime
+fc_2900_sparse_2.gg	F2-T	OutOfTime
+fc_1500_dense_3.gg	F2-CC	OutOfTime
+fc_1500_dense_3.gg	F2-T	OutOfTime
+fc_1500_dense_3.gg	F2-CC	OutOfTime
+fc_1500_dense_3.gg	F2-T	OutOfTime
+fc_1500_dense_4.gg	F2-CC	OutOfTime
+fc_1500_dense_4.gg	F2-T	OutOfTime
+fc_1500_dense_4.gg	F2-CC	OutOfTime
+fc_1500_dense_4.gg	F2-T	OutOfTime
+fc_1500_sparse_3.gg	F2-CC	OutOfTime
+fc_1500_sparse_3.gg	F2-T	OutOfTime
+fc_1500_sparse_3.gg	F2-CC	OutOfTime
+fc_1500_sparse_3.gg	F2-T	OutOfTime
+fc_1500_sparse_4.gg	F2-CC	OutOfTime
+fc_1500_sparse_4.gg	F2-T	OutOfTime
+fc_1500_sparse_4.gg	F2-CC	OutOfTime
+fc_1500_sparse_4.gg	F2-T	OutOfTime
+fc_1600_dense_3.gg	F2-CC	OutOfTime
+fc_1600_dense_3.gg	F2-T	OutOfTime
+fc_1600_dense_3.gg	F2-CC	OutOfTime
+fc_1600_dense_3.gg	F2-T	OutOfTime
+fc_1600_dense_4.gg	F2-CC	OutOfTime
+fc_1600_dense_4.gg	F2-T	OutOfTime
+fc_1600_dense_4.gg	F2-CC	OutOfTime
+fc_1600_dense_4.gg	F2-T	OutOfTime
+fc_1600_sparse_3.gg	F2-CC	OutOfTime
+fc_1600_sparse_3.gg	F2-T	OutOfTime
+fc_1600_sparse_3.gg	F2-CC	OutOfTime
+fc_1600_sparse_3.gg	F2-T	OutOfTime
+fc_1600_sparse_4.gg	F2-CC	OutOfTime
+fc_1600_sparse_4.gg	F2-T	OutOfTime
+fc_1600_sparse_4.gg	F2-CC	OutOfTime
+fc_1600_sparse_4.gg	F2-T	OutOfTime
+fc_1700_dense_3.gg	F2-CC	OutOfTime
+fc_1700_dense_3.gg	F2-T	OutOfTime
+fc_1700_dense_3.gg	F2-CC	OutOfTime
+fc_1700_dense_3.gg	F2-T	OutOfTime
+fc_1700_dense_4.gg	F2-CC	OutOfTime
+fc_1700_dense_4.gg	F2-T	OutOfTime
+fc_1700_dense_4.gg	F2-CC	OutOfTime
+fc_1700_dense_4.gg	F2-T	OutOfTime
+fc_1700_sparse_3.gg	F2-CC	OutOfTime
+fc_1700_sparse_3.gg	F2-T	OutOfTime
+fc_1700_sparse_3.gg	F2-CC	OutOfTime
+fc_1700_sparse_3.gg	F2-T	OutOfTime
+fc_1700_sparse_4.gg	F2-CC	OutOfTime
+fc_1700_sparse_4.gg	F2-T	OutOfTime
+fc_1700_sparse_4.gg	F2-CC	OutOfTime
+fc_1700_sparse_4.gg	F2-T	OutOfTime
+fc_1800_dense_3.gg	F2-CC	OutOfTime
+fc_1800_dense_3.gg	F2-T	OutOfTime
+fc_1800_dense_3.gg	F2-CC	OutOfTime
+fc_1800_dense_3.gg	F2-T	OutOfTime
+fc_1800_dense_4.gg	F2-CC	OutOfTime
+fc_1800_dense_4.gg	F2-T	OutOfTime
+fc_1800_dense_4.gg	F2-CC	OutOfTime
+fc_1800_dense_4.gg	F2-T	OutOfTime
+fc_1800_sparse_3.gg	F2-CC	OutOfTime
+fc_1800_sparse_3.gg	F2-T	OutOfTime
+fc_1800_sparse_3.gg	F2-CC	OutOfTime
+fc_1800_sparse_3.gg	F2-T	OutOfTime
+fc_1800_sparse_4.gg	F2-CC	OutOfTime
+fc_1800_sparse_4.gg	F2-T	OutOfTime
+fc_1800_sparse_4.gg	F2-CC	OutOfTime
+fc_1800_sparse_4.gg	F2-T	OutOfTime
+fc_1900_dense_3.gg	F2-CC	OutOfTime
+fc_1900_dense_3.gg	F2-T	OutOfTime
+fc_1900_dense_3.gg	F2-CC	OutOfTime
+fc_1900_dense_3.gg	F2-T	OutOfTime
+fc_1900_dense_4.gg	F2-CC	OutOfTime
+fc_1900_dense_4.gg	F2-T	OutOfTime
+fc_1900_dense_4.gg	F2-CC	OutOfTime
+fc_1900_dense_4.gg	F2-T	OutOfTime
+fc_1900_sparse_3.gg	F2-CC	OutOfTime
+fc_1900_sparse_3.gg	F2-T	OutOfTime
+fc_1900_sparse_3.gg	F2-CC	OutOfTime
+fc_1900_sparse_3.gg	F2-T	OutOfTime
+fc_1900_sparse_4.gg	F2-CC	OutOfTime
+fc_1900_sparse_4.gg	F2-T	OutOfTime
+fc_1900_sparse_4.gg	F2-CC	OutOfTime
+fc_1900_sparse_4.gg	F2-T	OutOfTime
+fc_2000_dense_3.gg	F2-CC	OutOfTime
+fc_2000_dense_3.gg	F2-T	OutOfTime
+fc_2000_dense_3.gg	F2-CC	OutOfTime
+fc_2000_dense_3.gg	F2-T	OutOfTime
+fc_2000_dense_4.gg	F2-CC	OutOfTime
+fc_2000_dense_4.gg	F2-T	OutOfTime
+fc_2000_dense_4.gg	F2-CC	OutOfTime
+fc_2000_dense_4.gg	F2-T	OutOfTime
+fc_2000_sparse_3.gg	F2-CC	OutOfTime
+fc_2000_sparse_3.gg	F2-T	OutOfTime
+fc_2000_sparse_3.gg	F2-CC	OutOfTime
+fc_2000_sparse_3.gg	F2-T	OutOfTime
+fc_2000_sparse_4.gg	F2-CC	OutOfTime
+fc_2000_sparse_4.gg	F2-T	OutOfTime
+fc_2000_sparse_4.gg	F2-CC	OutOfTime
+fc_2000_sparse_4.gg	F2-T	OutOfTime
+fc_2100_dense_3.gg	F2-CC	OutOfTime
+fc_2100_dense_3.gg	F2-T	OutOfTime
+fc_2100_dense_3.gg	F2-CC	OutOfTime
+fc_2100_dense_3.gg	F2-T	OutOfTime
+fc_2100_dense_4.gg	F2-CC	OutOfTime
+fc_2100_dense_4.gg	F2-T	OutOfTime
+fc_2100_dense_4.gg	F2-CC	OutOfTime
+fc_2100_dense_4.gg	F2-T	OutOfTime
+fc_2100_sparse_3.gg	F2-CC	OutOfTime
+fc_2100_sparse_3.gg	F2-T	OutOfTime
+fc_2100_sparse_3.gg	F2-CC	OutOfTime
+fc_2100_sparse_3.gg	F2-T	OutOfTime
+fc_2100_sparse_4.gg	F2-CC	OutOfTime
+fc_2100_sparse_4.gg	F2-T	OutOfTime
+fc_2100_sparse_4.gg	F2-CC	OutOfTime
+fc_2100_sparse_4.gg	F2-T	OutOfTime
+fc_2200_dense_3.gg	F2-CC	OutOfTime
+fc_2200_dense_3.gg	F2-T	OutOfTime
+fc_2200_dense_3.gg	F2-CC	OutOfTime
+fc_2200_dense_3.gg	F2-T	OutOfTime
+fc_2200_dense_4.gg	F2-CC	OutOfTime
+fc_2200_dense_4.gg	F2-T	OutOfTime
+fc_2200_dense_4.gg	F2-CC	OutOfTime
+fc_2200_dense_4.gg	F2-T	OutOfTime
+fc_2200_sparse_3.gg	F2-CC	OutOfTime
+fc_2200_sparse_3.gg	F2-T	OutOfTime
+fc_2200_sparse_3.gg	F2-CC	OutOfTime
+fc_2200_sparse_3.gg	F2-T	OutOfTime
+fc_2200_sparse_4.gg	F2-CC	OutOfTime
+fc_2200_sparse_4.gg	F2-T	OutOfTime
+fc_2200_sparse_4.gg	F2-CC	OutOfTime
+fc_2200_sparse_4.gg	F2-T	OutOfTime
+fc_2300_dense_3.gg	F2-CC	OutOfTime
+fc_2300_dense_3.gg	F2-T	OutOfTime
+fc_2300_dense_3.gg	F2-CC	OutOfTime
+fc_2300_dense_3.gg	F2-T	OutOfTime
+fc_2300_dense_4.gg	F2-CC	OutOfTime
+fc_2300_dense_4.gg	F2-T	OutOfTime
+fc_2300_dense_4.gg	F2-CC	OutOfTime
+fc_2300_dense_4.gg	F2-T	OutOfTime
+fc_2300_sparse_3.gg	F2-CC	OutOfTime
+fc_2300_sparse_3.gg	F2-T	OutOfTime
+fc_2300_sparse_3.gg	F2-CC	OutOfTime
+fc_2300_sparse_3.gg	F2-T	OutOfTime
+fc_2300_sparse_4.gg	F2-CC	OutOfTime
+fc_2300_sparse_4.gg	F2-T	OutOfTime
+fc_2300_sparse_4.gg	F2-CC	OutOfTime
+fc_2300_sparse_4.gg	F2-T	OutOfTime
+fc_2400_dense_3.gg	F2-CC	OutOfTime
+fc_2400_dense_3.gg	F2-T	OutOfTime
+fc_2400_dense_3.gg	F2-CC	OutOfTime
+fc_2400_dense_3.gg	F2-T	OutOfTime
+fc_2400_dense_4.gg	F2-CC	OutOfTime
+fc_2400_dense_4.gg	F2-T	OutOfTime
+fc_2400_dense_4.gg	F2-CC	OutOfTime
+fc_2400_dense_4.gg	F2-T	OutOfTime
+fc_2400_sparse_3.gg	F2-CC	OutOfTime
+fc_2400_sparse_3.gg	F2-T	OutOfTime
+fc_2400_sparse_3.gg	F2-CC	OutOfTime
+fc_2400_sparse_3.gg	F2-T	OutOfTime
+fc_2400_sparse_4.gg	F2-CC	OutOfTime
+fc_2400_sparse_4.gg	F2-T	OutOfTime
+fc_2400_sparse_4.gg	F2-CC	OutOfTime
+fc_2400_sparse_4.gg	F2-T	OutOfTime
+fc_2500_dense_3.gg	F2-CC	OutOfTime
+fc_2500_dense_3.gg	F2-T	OutOfTime
+fc_2500_dense_3.gg	F2-CC	OutOfTime
+fc_2500_dense_3.gg	F2-T	OutOfTime
+fc_2500_dense_4.gg	F2-CC	OutOfTime
+fc_2500_dense_4.gg	F2-T	OutOfTime
+fc_2500_dense_4.gg	F2-CC	OutOfTime
+fc_2500_dense_4.gg	F2-T	OutOfTime
+fc_2500_sparse_3.gg	F2-CC	OutOfTime
+fc_2500_sparse_3.gg	F2-T	OutOfTime
+fc_2500_sparse_3.gg	F2-CC	OutOfTime
+fc_2500_sparse_3.gg	F2-T	OutOfTime
+fc_2500_sparse_4.gg	F2-CC	OutOfTime
+fc_2500_sparse_4.gg	F2-T	OutOfTime
+fc_2500_sparse_4.gg	F2-CC	OutOfTime
+fc_2500_sparse_4.gg	F2-T	OutOfTime
+fc_2600_dense_3.gg	F2-CC	OutOfTime
+fc_2600_dense_3.gg	F2-T	OutOfTime
+fc_2600_dense_3.gg	F2-CC	OutOfTime
+fc_2600_dense_3.gg	F2-T	OutOfTime
+fc_2600_dense_4.gg	F2-CC	OutOfTime
+fc_2600_dense_4.gg	F2-T	OutOfTime
+fc_2600_dense_4.gg	F2-CC	OutOfTime
+fc_2600_dense_4.gg	F2-T	OutOfTime
+fc_2600_sparse_3.gg	F2-CC	OutOfTime
+fc_2600_sparse_3.gg	F2-T	OutOfTime
+fc_2600_sparse_3.gg	F2-CC	OutOfTime
+fc_2600_sparse_3.gg	F2-T	OutOfTime
+fc_2600_sparse_4.gg	F2-CC	OutOfTime
+fc_2600_sparse_4.gg	F2-T	OutOfTime
+fc_2600_sparse_4.gg	F2-CC	OutOfTime
+fc_2600_sparse_4.gg	F2-T	OutOfTime
+fc_2700_dense_3.gg	F2-CC	OutOfTime
+fc_2700_dense_3.gg	F2-T	OutOfTime
+fc_2700_dense_3.gg	F2-CC	OutOfTime
+fc_2700_dense_3.gg	F2-T	OutOfTime
+fc_2700_dense_4.gg	F2-CC	OutOfTime
+fc_2700_dense_4.gg	F2-T	OutOfTime
+fc_2700_dense_4.gg	F2-CC	OutOfTime
+fc_2700_dense_4.gg	F2-T	OutOfTime
+fc_2700_sparse_3.gg	F2-CC	OutOfTime
+fc_2700_sparse_3.gg	F2-T	OutOfTime
+fc_2700_sparse_3.gg	F2-CC	OutOfTime
+fc_2700_sparse_3.gg	F2-T	OutOfTime
+fc_2700_sparse_4.gg	F2-CC	OutOfTime
+fc_2700_sparse_4.gg	F2-T	OutOfTime
+fc_2700_sparse_4.gg	F2-CC	OutOfTime
+fc_2700_sparse_4.gg	F2-T	OutOfTime
+fc_2800_dense_3.gg	F2-CC	OutOfTime
+fc_2800_dense_3.gg	F2-T	OutOfTime
+fc_2800_dense_3.gg	F2-CC	OutOfTime
+fc_2800_dense_3.gg	F2-T	OutOfTime
+fc_2800_dense_4.gg	F2-CC	OutOfTime
+fc_2800_dense_4.gg	F2-T	OutOfTime
+fc_2800_dense_4.gg	F2-CC	OutOfTime
+fc_2800_dense_4.gg	F2-T	OutOfTime
+fc_2800_sparse_3.gg	F2-CC	OutOfTime
+fc_2800_sparse_3.gg	F2-T	OutOfTime
+fc_2800_sparse_3.gg	F2-CC	OutOfTime
+fc_2800_sparse_3.gg	F2-T	OutOfTime
+fc_2800_sparse_4.gg	F2-CC	OutOfTime
+fc_2800_sparse_4.gg	F2-T	OutOfTime
+fc_2800_sparse_4.gg	F2-CC	OutOfTime
+fc_2800_sparse_4.gg	F2-T	OutOfTime
+fc_2900_dense_3.gg	F2-CC	OutOfTime
+fc_2900_dense_3.gg	F2-T	OutOfTime
+fc_2900_dense_3.gg	F2-CC	OutOfTime
+fc_2900_dense_3.gg	F2-T	OutOfTime
+fc_2900_dense_4.gg	F2-CC	OutOfTime
+fc_2900_dense_4.gg	F2-T	OutOfTime
+fc_2900_dense_4.gg	F2-CC	OutOfTime
+fc_2900_dense_4.gg	F2-T	OutOfTime
+fc_2900_sparse_3.gg	F2-CC	OutOfTime
+fc_2900_sparse_3.gg	F2-T	OutOfTime
+fc_2900_sparse_3.gg	F2-CC	OutOfTime
+fc_2900_sparse_3.gg	F2-T	OutOfTime
+fc_2900_sparse_4.gg	F2-CC	OutOfTime
+fc_2900_sparse_4.gg	F2-T	OutOfTime
+fc_2900_sparse_4.gg	F2-CC	OutOfTime
+fc_2900_sparse_4.gg	F2-T	OutOfTime
+fc_100_dense_2.gg	F2-CC	34.0	1209	98	1111	0	0	1	0
+fc_100_dense_2.gg	F2-T	34.0	7114	94	1107	128	5785	4	6
+fc_100_dense_4.gg	F2-CC	24.0	2228	93	2135	0	0	1	0
+fc_100_dense_4.gg	F2-T	24.0	8569	87	2139	158	6185	4	7
+fc_100_dense_4.gg	F2-CC	24.0	2232	87	2145	0	0	1	0
+fc_100_dense_4.gg	F2-T	24.0	8569	88	2146	160	6175	4	7
+fc_100_sparse_2.gg	F2-CC	32.0	1300	88	1212	0	0	1	0
+fc_100_sparse_2.gg	F2-T	32.0	16024	88	1218	342	14376	7	19
+fc_100_sparse_2.gg	F2-CC	32.0	1316	89	1227	0	0	1	0
+fc_100_sparse_2.gg	F2-T	32.0	16015	89	1223	336	14367	7	19
+fc_100_sparse_4.gg	F2-CC	40.0	1134	89	1045	0	0	1	0
+fc_100_sparse_4.gg	F2-T	42.0	4698	88	1036	48	3526	2	2
+fc_100_sparse_4.gg	F2-CC	40.0	1135	89	1046	0	0	1	0
+fc_100_sparse_4.gg	F2-T	42.0	4728	89	1038	48	3553	2	2
+fc_200_sparse_1.gg	F2-CC	74.0	109685	372	109313	0	0	1	0
+fc_200_sparse_1.gg	F2-T	74.0	109796	370	109357	69	0	1	0
+fc_200_sparse_1.gg	F2-CC	74.0	109304	372	108932	0	0	1	0
+fc_200_sparse_1.gg	F2-T	74.0	109375	372	108931	72	0	1	0
+fc_200_sparse_4.gg	F2-CC	78.0	248874	373	248501	0	0	1	0
+fc_200_sparse_4.gg	F2-T	78.0	474129	374	249093	1867	222795	10	35
+fc_200_sparse_4.gg	F2-CC	78.0	251548	375	251173	0	0	1	0
+fc_200_sparse_4.gg	F2-T	78.0	474811	373	251067	1866	221505	10	35
+fc_200_dense_4.gg	F2-CC	48.0	13329	374	12955	0	0	1	0
+fc_200_dense_4.gg	F2-T	48.0	69460	374	12978	1227	54881	7	14
+fc_200_dense_4.gg	F2-CC	48.0	13274	378	12896	0	0	1	0
+fc_200_dense_4.gg	F2-T	48.0	69441	371	12891	1228	54951	7	14
+fc_1000_dense_0.gg	F3-CC	180.0	42075	14	42061	0	0	1	0
+fc_1000_dense_0.gg	F3-T-B	OutOfTime
+fc_1000_dense_0.gg	F3-T-A	OutOfTime
+fc_1000_dense_1.gg	F3-CC	146.0	4836	13	4823	0	0	1	0
+fc_1000_dense_1.gg	F3-T-B	146.0	8420	13	4695	19	3693	3	4
+fc_1000_dense_1.gg	F3-T-A	146.0	8680	18	4966	22	3674	3	4
+fc_1000_dense_2.gg	F3-CC	136.0	1292	13	1279	0	0	1	0
+fc_1000_dense_2.gg	F3-T-B	136.0	3292	13	1293	19	1967	3	5
+fc_1000_dense_2.gg	F3-T-A	136.0	3448	13	1117	21	2297	3	5
+fc_1000_dense_3.gg	F3-CC	160.0	37086	26	37060	0	0	1	0
+fc_1000_dense_3.gg	F3-T-B	OutOfTime
+fc_1000_dense_3.gg	F3-T-A	OutOfTime
+fc_1000_dense_4.gg	F3-CC	140.0	7029	16	7013	0	0	1	0
+fc_1000_dense_4.gg	F3-T-B	140.0	7208	13	7192	3	0	1	0
+fc_1000_dense_4.gg	F3-T-A	140.0	7124	13	7107	4	0	1	0
+fc_1000_sparse_0.gg	F3-CC	432.0	64967	13	64954	0	0	1	0
+fc_1000_sparse_0.gg	F3-T-B	OutOfTime
+fc_1000_sparse_0.gg	F3-T-A	OutOfTime
+fc_1000_sparse_1.gg	F3-CC	OutOfTime
+fc_1000_sparse_1.gg	F3-T-B	OutOfTime
+fc_1000_sparse_1.gg	F3-CC	OutOfTime
+fc_1000_sparse_1.gg	F3-T-B	OutOfTime
+fc_1000_sparse_1.gg	F3-T-A	OutOfTime
+fc_1000_sparse_2.gg	F3-CC	OutOfTime
+fc_1000_sparse_2.gg	F3-T-B	OutOfTime
+fc_1000_sparse_2.gg	F3-T-A	OutOfTime
+fc_1000_sparse_3.gg	F3-CC	518.0	10740	28	10712	0	0	1	0
+fc_1000_sparse_3.gg	F3-T-B	OutOfTime
+fc_1000_sparse_3.gg	F3-T-A	OutOfTime
+fc_1000_sparse_4.gg	F3-CC	OutOfTime
+fc_1000_sparse_4.gg	F3-T-B	OutOfTime
+fc_1000_sparse_4.gg	F3-T-A	OutOfTime
+fc_100_dense_0.gg	F3-CC	38.0	94	3	91	0	0	1	0
+fc_100_dense_0.gg	F3-T-B	38.0	91	3	88	0	0	1	0
+fc_100_dense_0.gg	F3-T-A	38.0	90	3	87	0	0	1	0
+fc_100_dense_1.gg	F3-CC	34.0	100	7	93	0	0	1	0
+fc_100_dense_1.gg	F3-T-B	34.0	77	3	74	0	0	1	0
+fc_100_dense_1.gg	F3-T-A	34.0	145	6	139	0	0	1	0
+fc_100_dense_3.gg	F3-CC	30.0	59	3	56	0	0	1	0
+fc_100_dense_3.gg	F3-T-B	30.0	997	3	46	0	948	20	57
+fc_100_dense_3.gg	F3-T-A	30.0	977	3	43	0	931	20	57
+fc_100_sparse_0.gg	F3-CC	60.0	80	3	77	0	0	1	0
+fc_100_sparse_0.gg	F3-T-B	60.0	81	3	78	0	0	1	0
+fc_100_sparse_0.gg	F3-T-A	60.0	81	3	78	0	0	1	0
+fc_100_sparse_1.gg	F3-CC	56.0	66	3	63	0	0	1	0
+fc_100_sparse_1.gg	F3-T-B	56.0	306	3	63	0	240	5	12
+fc_100_sparse_1.gg	F3-T-A	56.0	279	5	74	0	200	5	12
+fc_100_sparse_3.gg	F3-CC	40.0	76	3	73	0	0	1	0
+fc_100_sparse_3.gg	F3-T-B	40.0	365	3	73	0	289	6	13
+fc_100_sparse_3.gg	F3-T-A	40.0	363	3	73	0	287	6	13
+fc_200_dense_0.gg	F3-CC	46.0	224	4	220	0	0	1	0
+fc_200_dense_0.gg	F3-T-B	46.0	3442	4	177	12	3249	13	30
+fc_200_dense_0.gg	F3-T-A	46.0	3401	4	176	13	3208	13	38
+fc_200_dense_1.gg	F3-CC	36.0	63	4	59	0	0	1	0
+fc_200_dense_1.gg	F3-T-B	36.0	1841	4	59	16	1762	17	48
+fc_200_dense_1.gg	F3-T-A	36.0	1831	4	59	16	1752	17	48
+fc_200_dense_2.gg	F3-CC	38.0	131	5	126	0	0	1	0
+fc_200_dense_2.gg	F3-T-B	38.0	130	4	126	0	0	1	0
+fc_200_dense_2.gg	F3-T-A	38.0	131	4	127	0	0	1	0
+fc_200_dense_3.gg	F3-CC	42.0	111	4	107	0	0	1	0
+fc_200_dense_3.gg	F3-T-B	42.0	1346	4	105	11	1226	12	30
+fc_200_dense_3.gg	F3-T-A	42.0	1286	4	122	10	1150	11	30
+fc_200_sparse_0.gg	F3-CC	90.0	101	4	97	0	0	1	0
+fc_200_sparse_0.gg	F3-T-B	90.0	6445	4	95	23	6323	24	96
+fc_200_sparse_0.gg	F3-T-A	90.0	6354	4	97	26	6227	24	109
+fc_200_sparse_2.gg	F3-CC	92.0	146	4	142	0	0	1	0
+fc_200_sparse_2.gg	F3-T-B	OutOfTime
+fc_200_sparse_2.gg	F3-T-A	OutOfTime
+fc_200_sparse_3.gg	F3-CC	72.0	220	4	216	0	0	1	0
+fc_200_sparse_3.gg	F3-T-B	OutOfTime
+fc_200_sparse_3.gg	F3-T-A	OutOfTime
+fc_300_dense_0.gg	F3-CC	78.0	306	5	301	0	0	1	0
+fc_300_dense_0.gg	F3-T-B	78.0	5022	5	306	25	4686	13	41
+fc_300_dense_0.gg	F3-T-A	78.0	5167	5	305	26	4831	13	45
+fc_300_dense_1.gg	F3-CC	50.0	287	5	282	0	0	1	0
+fc_300_dense_1.gg	F3-T-B	50.0	208	5	202	1	0	1	0
+fc_300_dense_1.gg	F3-T-A	50.0	210	5	204	1	0	1	0
+fc_300_dense_2.gg	F3-CC	52.0	314	5	309	0	0	1	0
+fc_300_dense_2.gg	F3-T-B	52.0	4871	5	379	23	4464	12	30
+fc_300_dense_2.gg	F3-T-A	52.0	5003	5	387	23	4588	12	30
+fc_300_dense_3.gg	F3-CC	52.0	254	5	249	0	0	1	0
+fc_300_dense_3.gg	F3-T-B	52.0	1335	5	248	9	1073	5	11
+fc_300_dense_3.gg	F3-T-A	52.0	1302	5	224	9	1064	5	11
+fc_300_dense_4.gg	F3-CC	48.0	359	5	354	0	0	1	0
+fc_300_dense_4.gg	F3-T-B	48.0	352	5	346	1	0	1	0
+fc_300_dense_4.gg	F3-T-A	48.0	271	5	265	1	0	1	0
+fc_300_sparse_0.gg	F3-CC	144.0	748	5	743	0	0	1	0
+fc_300_sparse_0.gg	F3-T-B	OutOfTime
+fc_300_sparse_0.gg	F3-T-A	OutOfTime
+fc_300_sparse_1.gg	F3-CC	110.0	284	5	279	0	0	1	0
+fc_300_sparse_1.gg	F3-T-B	110.0	10784	5	272	61	10446	31	100
+fc_300_sparse_1.gg	F3-T-A	110.0	10990	5	227	66	10692	31	110
+fc_300_sparse_2.gg	F3-CC	102.0	314	8	306	0	0	1	0
+fc_300_sparse_2.gg	F3-T-B	102.0	3346	5	302	19	3020	10	28
+fc_300_sparse_2.gg	F3-T-A	102.0	4045	10	283	28	3724	12	63
+fc_300_sparse_3.gg	F3-CC	124.0	627	8	619	0	0	1	0
+fc_300_sparse_3.gg	F3-T-B	126.0	249242	12	782	97	248351	49	168
+fc_300_sparse_3.gg	F3-T-A	126.0	538285	5	668	165	537447	83	292
+fc_300_sparse_4.gg	F3-CC	132.0	717	12	705	0	0	1	0
+fc_300_sparse_4.gg	F3-T-B	134.0	31164	5	678	31	30450	16	62
+fc_300_sparse_4.gg	F3-T-A	134.0	31084	5	678	31	30370	16	81
+fc_400_dense_0.gg	F3-CC	64.0	169	6	163	0	0	1	0
+fc_400_dense_0.gg	F3-T-B	64.0	9129	6	163	65	8895	24	63
+fc_400_dense_0.gg	F3-T-A	64.0	9216	6	154	70	8986	24	67
+fc_400_dense_1.gg	F3-CC	58.0	319	6	313	0	0	1	0
+fc_400_dense_1.gg	F3-T-B	58.0	1047	6	328	10	703	4	9
+fc_400_dense_1.gg	F3-T-A	58.0	1031	6	314	10	701	4	9
+fc_400_dense_2.gg	F3-CC	62.0	332	6	326	0	0	1	0
+fc_400_dense_2.gg	F3-T-B	62.0	1187	6	331	6	844	3	6
+fc_400_dense_2.gg	F3-T-A	62.0	1361	6	376	7	972	3	6
+fc_400_dense_3.gg	F3-CC	76.0	2368	6	2362	0	0	1	0
+fc_400_dense_3.gg	F3-T-B	76.0	10281	6	2285	16	7974	6	17
+fc_400_dense_3.gg	F3-T-A	76.0	9945	6	2252	16	7671	6	17
+fc_400_dense_4.gg	F3-CC	54.0	893	14	879	0	0	1	0
+fc_400_dense_4.gg	F3-T-B	54.0	1354	7	783	4	560	2	2
+fc_400_dense_4.gg	F3-T-A	54.0	1394	6	822	4	562	2	2
+fc_400_sparse_0.gg	F3-CC	196.0	429	6	423	0	0	1	0
+fc_400_sparse_0.gg	F3-T-B	196.0	89694	6	415	82	89191	33	131
+fc_400_sparse_0.gg	F3-T-A	196.0	132727	6	477	162	132082	54	264
+fc_400_sparse_1.gg	F3-CC	158.0	446	6	440	0	0	1	0
+fc_400_sparse_1.gg	F3-T-B	158.0	85647	6	376	217	85048	87	322
+fc_400_sparse_1.gg	F3-T-A	158.0	85732	6	436	266	85024	87	357
+fc_400_sparse_2.gg	F3-CC	186.0	4339	6	4333	0	0	1	0
+fc_400_sparse_2.gg	F3-T-B	186.0	106489	6	4424	49	102010	23	114
+fc_400_sparse_2.gg	F3-T-A	186.0	105016	6	4484	69	100457	23	160
+fc_400_sparse_3.gg	F3-CC	138.0	776	7	769	0	0	1	0
+fc_400_sparse_3.gg	F3-T-B	OutOfTime
+fc_400_sparse_3.gg	F3-T-A	140.0	498540	6	766	236	497532	77	407
+fc_400_sparse_4.gg	F3-CC	150.0	920	7	913	0	0	1	0
+fc_400_sparse_4.gg	F3-T-B	150.0	23085	6	942	56	22081	22	63
+fc_400_sparse_4.gg	F3-T-A	OutOfTime
+fc_500_dense_0.gg	F3-CC	84.0	13900	7	13893	0	0	1	0
+fc_500_dense_0.gg	F3-T-B	84.0	70411	7	13663	55	56686	16	37
+fc_500_dense_0.gg	F3-T-A	84.0	69736	7	13614	59	56056	16	37
+fc_500_dense_1.gg	F3-CC	76.0	300418	7	300411	0	0	1	0
+fc_500_dense_1.gg	F3-T-B	OutOfTime
+fc_500_dense_1.gg	F3-T-A	OutOfTime
+fc_500_dense_2.gg	F3-CC	92.0	1749	7	1742	0	0	1	0
+fc_500_dense_2.gg	F3-T-B	92.0	1623	8	1614	1	0	1	0
+fc_500_dense_2.gg	F3-T-A	92.0	1643	7	1634	2	0	1	0
+fc_500_dense_3.gg	F3-CC	74.0	697	17	680	0	0	1	0
+fc_500_dense_3.gg	F3-T-B	74.0	2239	8	607	16	1608	5	11
+fc_500_dense_3.gg	F3-T-A	74.0	2233	10	762	18	1443	5	11
+fc_500_dense_4.gg	F3-CC	84.0	496	8	488	0	0	1	0
+fc_500_dense_4.gg	F3-T-B	84.0	7816	8	478	34	7296	11	32
+fc_500_dense_4.gg	F3-T-A	84.0	7726	8	482	41	7195	11	32
+fc_500_sparse_0.gg	F3-CC	246.0	3005	7	2998	0	0	1	0
+fc_500_sparse_0.gg	F3-T-B	OutOfTime
+fc_500_sparse_0.gg	F3-T-A	OutOfTime
+fc_500_sparse_1.gg	F3-CC	204.0	3693	7	3686	0	0	1	0
+fc_500_sparse_1.gg	F3-T-B	204.0	37414	7	3670	25	33712	9	31
+fc_500_sparse_1.gg	F3-T-A	204.0	30564	7	3763	28	26766	7	51
+fc_500_sparse_2.gg	F3-CC	202.0	2065	7	2058	0	0	1	0
+fc_500_sparse_2.gg	F3-T-B	OutOfTime
+fc_500_sparse_2.gg	F3-T-A	OutOfTime
+fc_500_sparse_3.gg	F3-CC	258.0	4927	17	4910	0	0	1	0
+fc_500_sparse_3.gg	F3-T-B	OutOfTime
+fc_500_sparse_3.gg	F3-T-A	OutOfTime
+fc_500_sparse_4.gg	F3-CC	214.0	7015	16	6999	0	0	1	0
+fc_500_sparse_4.gg	F3-T-B	OutOfTime
+fc_500_sparse_4.gg	F3-T-A	OutOfTime
+fc_600_dense_0.gg	F3-CC	104.0	32547	10	32537	0	0	1	0
+fc_600_dense_0.gg	F3-T-B	104.0	127984	9	32598	26	95351	7	17
+fc_600_dense_0.gg	F3-T-A	104.0	128447	9	32771	31	95636	7	17
+fc_600_dense_1.gg	F3-CC	74.0	233333	9	233324	0	0	1	0
+fc_600_dense_1.gg	F3-T-B	OutOfTime
+fc_600_dense_1.gg	F3-T-A	OutOfTime
+fc_600_dense_2.gg	F3-CC	90.0	3565	9	3556	0	0	1	0
+fc_600_dense_2.gg	F3-T-B	90.0	3542	9	3531	2	0	1	0
+fc_600_dense_2.gg	F3-T-A	90.0	3268	9	3257	2	0	1	0
+fc_600_dense_3.gg	F3-CC	86.0	887	20	867	0	0	1	0
+fc_600_dense_3.gg	F3-T-B	86.0	7719	9	1129	34	6547	8	23
+fc_600_dense_3.gg	F3-T-A	86.0	7393	9	812	37	6535	8	23
+fc_600_dense_4.gg	F3-CC	92.0	1300	19	1281	0	0	1	0
+fc_600_dense_4.gg	F3-T-B	92.0	2861	9	1362	6	1484	2	3
+fc_600_dense_4.gg	F3-T-A	92.0	3169	9	1680	7	1473	2	3
+fc_600_sparse_0.gg	F3-CC	252.0	6753	8	6745	0	0	1	0
+fc_600_sparse_0.gg	F3-T-B	252.0	653427	8	6883	232	646304	55	397
+fc_600_sparse_0.gg	F3-T-A	OutOfTime
+fc_600_sparse_1.gg	F3-CC	246.0	7351	9	7342	0	0	1	0
+fc_600_sparse_1.gg	F3-T-B	OutOfTime
+fc_600_sparse_1.gg	F3-T-A	OutOfTime
+fc_600_sparse_2.gg	F3-CC	276.0	4601	10	4591	0	0	1	0
+fc_600_sparse_2.gg	F3-T-B	OutOfTime
+fc_600_sparse_2.gg	F3-T-A	OutOfTime
+fc_600_sparse_3.gg	F3-CC	272.0	18532	12	18520	0	0	1	0
+fc_600_sparse_3.gg	F3-T-B	OutOfTime
+fc_600_sparse_3.gg	F3-T-A	OutOfTime
+fc_600_sparse_4.gg	F3-CC	282.0	1201	19	1182	0	0	1	0
+fc_600_sparse_4.gg	F3-T-B	OutOfTime
+fc_600_sparse_4.gg	F3-T-A	OutOfTime
+fc_700_dense_0.gg	F3-CC	84.0	3715	10	3705	0	0	1	0
+fc_700_dense_0.gg	F3-T-B	OutOfTime
+fc_700_dense_0.gg	F3-T-A	OutOfTime
+fc_700_dense_1.gg	F3-CC	88.0	32410	20	32390	0	0	1	0
+fc_700_dense_1.gg	F3-T-B	88.0	37527	10	32215	8	5294	2	3
+fc_700_dense_1.gg	F3-T-A	88.0	36959	10	31653	9	5287	2	3
+fc_700_dense_2.gg	F3-CC	102.0	4815	10	4805	0	0	1	0
+fc_700_dense_2.gg	F3-T-B	OutOfTime
+fc_700_dense_2.gg	F3-T-A	OutOfTime
+fc_700_dense_3.gg	F3-CC	98.0	4675	22	4653	0	0	1	0
+fc_700_dense_3.gg	F3-T-B	98.0	32657	10	4640	107	27900	20	65
+fc_700_dense_3.gg	F3-T-A	98.0	33322	10	4562	116	28634	20	65
+fc_700_dense_4.gg	F3-CC	88.0	3398	22	3376	0	0	1	0
+fc_700_dense_4.gg	F3-T-B	88.0	15645	10	2875	27	12733	6	17
+fc_700_dense_4.gg	F3-T-A	88.0	15769	10	3233	32	12494	6	19
+fc_700_sparse_0.gg	F3-CC	306.0	17131	12	17119	0	0	1	0
+fc_700_sparse_0.gg	F3-T-B	OutOfTime
+fc_700_sparse_0.gg	F3-T-A	OutOfTime
+fc_700_sparse_1.gg	F3-CC	338.0	7737	11	7726	0	0	1	0
+fc_700_sparse_1.gg	F3-T-B	OutOfTime
+fc_700_sparse_1.gg	F3-T-A	OutOfTime
+fc_700_sparse_2.gg	F3-CC	342.0	6863	9	6854	0	0	1	0
+fc_700_sparse_2.gg	F3-T-B	OutOfTime
+fc_700_sparse_2.gg	F3-T-A	OutOfTime
+fc_700_sparse_3.gg	F3-CC	298.0	7629	20	7609	0	0	1	0
+fc_700_sparse_3.gg	F3-T-B	OutOfTime
+fc_700_sparse_3.gg	F3-T-A	298.0	522385	10	7764	329	514282	51	588
+fc_700_sparse_4.gg	F3-CC	294.0	17963	10	17953	0	0	1	0
+fc_700_sparse_4.gg	F3-T-B	OutOfTime
+fc_700_sparse_4.gg	F3-T-A	OutOfTime
+fc_800_dense_0.gg	F3-CC	116.0	5879	14	5865	0	0	1	0
+fc_800_dense_0.gg	F3-T-B	116.0	5835	11	5821	3	0	1	0
+fc_800_dense_0.gg	F3-T-A	116.0	5853	11	5839	3	0	1	0
+fc_800_dense_1.gg	F3-CC	120.0	3933	11	3922	0	0	1	0
+fc_800_dense_1.gg	F3-T-B	120.0	7816	11	4576	22	3207	4	12
+fc_800_dense_1.gg	F3-T-A	120.0	7066	11	4043	23	2989	4	12
+fc_800_dense_2.gg	F3-CC	118.0	148031	11	148020	0	0	1	0
+fc_800_dense_2.gg	F3-T-B	OutOfTime
+fc_800_dense_2.gg	F3-T-A	OutOfTime
+fc_800_dense_3.gg	F3-CC	OutOfTime
+fc_800_dense_3.gg	F3-T-B	OutOfTime
+fc_800_dense_3.gg	F3-T-A	OutOfTime
+fc_800_dense_4.gg	F3-CC	110.0	19693	11	19682	0	0	1	0
+fc_800_dense_4.gg	F3-T-B	OutOfTime
+fc_800_dense_4.gg	F3-T-A	OutOfTime
+fc_800_sparse_0.gg	F3-CC	360.0	17150	11	17139	0	0	1	0
+fc_800_sparse_0.gg	F3-T-B	OutOfTime
+fc_800_sparse_0.gg	F3-T-A	OutOfTime
+fc_800_sparse_1.gg	F3-CC	348.0	24802	14	24788	0	0	1	0
+fc_800_sparse_1.gg	F3-T-B	OutOfTime
+fc_800_sparse_1.gg	F3-T-A	OutOfTime
+fc_800_sparse_2.gg	F3-CC	346.0	8318	11	8307	0	0	1	0
+fc_800_sparse_2.gg	F3-T-B	OutOfTime
+fc_800_sparse_2.gg	F3-T-A	OutOfTime
+fc_800_sparse_3.gg	F3-CC	394.0	11117	13	11104	0	0	1	0
+fc_800_sparse_3.gg	F3-T-B	OutOfTime
+fc_800_sparse_3.gg	F3-T-A	OutOfTime
+fc_800_sparse_4.gg	F3-CC	344.0	8122	24	8098	0	0	1	0
+fc_800_sparse_4.gg	F3-T-B	OutOfTime
+fc_800_sparse_4.gg	F3-T-A	OutOfTime
+fc_900_dense_0.gg	F3-CC	152.0	6454	12	6442	0	0	1	0
+fc_900_dense_0.gg	F3-T-B	152.0	13238	12	6202	28	6996	5	15
+fc_900_dense_0.gg	F3-T-A	152.0	12793	12	5753	36	6992	5	19
+fc_900_dense_1.gg	F3-CC	126.0	1898	12	1886	0	0	1	0
+fc_900_dense_1.gg	F3-T-B	126.0	4644	12	1957	10	2665	2	3
+fc_900_dense_1.gg	F3-T-A	126.0	4533	12	1879	12	2630	2	3
+fc_900_dense_2.gg	F3-CC	116.0	1392	20	1372	0	0	1	0
+fc_900_dense_2.gg	F3-T-B	OutOfTime
+fc_900_dense_2.gg	F3-T-A	OutOfTime
+fc_900_dense_3.gg	F3-CC	124.0	6640	26	6614	0	0	1	0
+fc_900_dense_3.gg	F3-T-B	124.0	9819	12	6457	32	3318	5	11
+fc_900_dense_3.gg	F3-T-A	124.0	9907	12	6562	35	3298	5	11
+fc_900_dense_4.gg	F3-CC	98.0	4884	12	4872	0	0	1	0
+fc_900_dense_4.gg	F3-T-B	98.0	4744	12	4381	17	334	3	7
+fc_900_dense_4.gg	F3-T-A	98.0	4737	12	4380	21	324	3	9
+fc_900_sparse_0.gg	F3-CC	420.0	25462	12	25450	0	0	1	0
+fc_900_sparse_0.gg	F3-T-B	OutOfTime
+fc_900_sparse_0.gg	F3-T-A	OutOfTime
+fc_900_sparse_1.gg	F3-CC	426.0	6545	13	6532	0	0	1	0
+fc_900_sparse_1.gg	F3-T-B	OutOfTime
+fc_900_sparse_1.gg	F3-T-A	OutOfTime
+fc_900_sparse_2.gg	F3-CC	368.0	13836	12	13824	0	0	1	0
+fc_900_sparse_2.gg	F3-T-B	OutOfTime
+fc_900_sparse_2.gg	F3-T-A	OutOfTime
+fc_900_sparse_3.gg	F3-CC	400.0	73787	12	73775	0	0	1	0
+fc_900_sparse_3.gg	F3-T-B	OutOfTime
+fc_900_sparse_3.gg	F3-T-A	OutOfTime
+fc_900_sparse_4.gg	F3-CC	370.0	7532	13	7519	0	0	1	0
+fc_900_sparse_4.gg	F3-T-B	OutOfTime
+fc_900_sparse_4.gg	F3-T-A	OutOfTime
+fc_1100_dense_0.gg	F3-CC	124.0	226100	20	226080	0	0	1	0
+fc_1100_dense_0.gg	F3-T-B	124.0	507173	14	227216	22	279921	3	4
+fc_1100_dense_0.gg	F3-T-A	124.0	507931	25	227623	24	280259	3	4
+fc_1100_dense_1.gg	F3-CC	172.0	13840	14	13826	0	0	1	0
+fc_1100_dense_1.gg	F3-T-B	172.0	17500	27	12993	22	4458	3	5
+fc_1100_dense_1.gg	F3-T-A	172.0	18219	15	13781	22	4401	3	5
+fc_1100_dense_2.gg	F3-CC	144.0	9991	14	9977	0	0	1	0
+fc_1100_dense_2.gg	F3-T-B	144.0	9948	15	9929	4	0	1	0
+fc_1100_dense_2.gg	F3-T-A	144.0	9816	15	9796	5	0	1	0
+fc_1100_dense_3.gg	F3-CC	178.0	6444	14	6430	0	0	1	0
+fc_1100_dense_3.gg	F3-T-B	178.0	54199	14	6460	119	47606	14	47
+fc_1100_dense_3.gg	F3-T-A	178.0	69219	14	6474	166	62565	17	68
+fc_1100_dense_4.gg	F3-CC	128.0	3488	17	3471	0	0	1	0
+fc_1100_dense_4.gg	F3-T-B	128.0	114130	14	3327	282	110507	32	102
+fc_1100_dense_4.gg	F3-T-A	128.0	276104	14	4040	631	271419	67	212
+fc_1100_sparse_0.gg	F3-CC	442.0	17591	14	17577	0	0	1	0
+fc_1100_sparse_0.gg	F3-T-B	OutOfTime
+fc_1100_sparse_0.gg	F3-T-A	OutOfTime
+fc_1100_sparse_1.gg	F3-CC	526.0	224370	14	224356	0	0	1	0
+fc_1100_sparse_1.gg	F3-T-B	OutOfTime
+fc_1100_sparse_1.gg	F3-T-A	OutOfTime
+fc_1100_sparse_2.gg	F3-CC	OutOfTime
+fc_1100_sparse_2.gg	F3-T-B	OutOfTime
+fc_1100_sparse_2.gg	F3-T-A	OutOfTime
+fc_1100_sparse_3.gg	F3-CC	520.0	11894	30	11864	0	0	1	0
+fc_1100_sparse_3.gg	F3-T-B	OutOfTime
+fc_1100_sparse_3.gg	F3-T-A	OutOfTime
+fc_1100_sparse_4.gg	F3-CC	540.0	8799	14	8785	0	0	1	0
+fc_1100_sparse_4.gg	F3-T-B	OutOfTime
+fc_1100_sparse_4.gg	F3-T-A	OutOfTime
+fc_1200_dense_0.gg	F3-CC	146.0	61207	16	61191	0	0	1	0
+fc_1200_dense_0.gg	F3-T-B	146.0	356791	16	61318	73	295384	8	26
+fc_1200_dense_0.gg	F3-T-A	146.0	358014	16	61656	83	296259	8	26
+fc_1200_dense_1.gg	F3-CC	OutOfTime
+fc_1200_dense_1.gg	F3-T-B	OutOfTime
+fc_1200_dense_1.gg	F3-T-A	OutOfTime
+fc_1200_dense_2.gg	F3-CC	186.0	134066	16	134050	0	0	1	0
+fc_1200_dense_2.gg	F3-T-B	OutOfTime
+fc_1200_dense_2.gg	F3-T-A	OutOfTime
+fc_1200_dense_3.gg	F3-CC	174.0	171998	27	171971	0	0	1	0
+fc_1200_dense_3.gg	F3-T-B	174.0	849597	35	172427	172	676963	19	56
+fc_1200_dense_3.gg	F3-T-A	174.0	849023	16	172095	183	676729	19	56
+fc_1200_dense_4.gg	F3-CC	142.0	36814	16	36798	0	0	1	0
+fc_1200_dense_4.gg	F3-T-B	142.0	246373	15	37049	225	209084	23	66
+fc_1200_dense_4.gg	F3-T-A	142.0	308413	32	37039	349	270993	32	115
+fc_1200_sparse_0.gg	F3-CC	OutOfTime
+fc_1200_sparse_0.gg	F3-T-B	OutOfTime
+fc_1200_sparse_0.gg	F3-T-A	OutOfTime
+fc_1200_sparse_1.gg	F3-CC	OutOfTime
+fc_1200_sparse_1.gg	F3-T-B	OutOfTime
+fc_1200_sparse_1.gg	F3-T-A	OutOfTime
+fc_1200_sparse_2.gg	F3-CC	OutOfTime
+fc_1200_sparse_2.gg	F3-T-B	OutOfTime
+fc_1200_sparse_2.gg	F3-T-A	OutOfTime
+fc_1200_sparse_3.gg	F3-CC	OutOfTime
+fc_1200_sparse_3.gg	F3-T-B	OutOfTime
+fc_1200_sparse_3.gg	F3-T-A	OutOfTime
+fc_1200_sparse_4.gg	F3-CC	OutOfTime
+fc_1200_sparse_4.gg	F3-T-B	OutOfTime
+fc_1200_sparse_4.gg	F3-T-A	OutOfTime
+fc_1300_dense_0.gg	F3-CC	184.0	89730	20	89710	0	0	1	0
+fc_1300_dense_0.gg	F3-T-B	OutOfTime
+fc_1300_dense_0.gg	F3-T-A	OutOfTime
+fc_1300_dense_1.gg	F3-CC	196.0	200076	22	200054	0	0	1	0
+fc_1300_dense_1.gg	F3-T-B	OutOfTime
+fc_1300_dense_1.gg	F3-T-A	OutOfTime
+fc_1300_dense_2.gg	F3-CC	210.0	59264	17	59247	0	0	1	0
+fc_1300_dense_2.gg	F3-T-B	OutOfTime
+fc_1300_dense_2.gg	F3-T-A	OutOfTime
+fc_1300_dense_3.gg	F3-CC	206.0	155317	17	155300	0	0	1	0
+fc_1300_dense_3.gg	F3-T-B	206.0	450406	16	155509	64	294817	7	27
+fc_1300_dense_3.gg	F3-T-A	OutOfTime
+fc_1300_dense_4.gg	F3-CC	172.0	260007	27	259980	0	0	1	0
+fc_1300_dense_4.gg	F3-T-B	OutOfTime
+fc_1300_dense_4.gg	F3-T-A	OutOfTime
+fc_1300_sparse_0.gg	F3-CC	OutOfTime
+fc_1300_sparse_0.gg	F3-T-B	OutOfTime
+fc_1300_sparse_0.gg	F3-T-A	OutOfTime
+fc_1300_sparse_1.gg	F3-CC	OutOfTime
+fc_1300_sparse_1.gg	F3-T-B	OutOfTime
+fc_1300_sparse_1.gg	F3-T-A	OutOfTime
+fc_1300_sparse_2.gg	F3-CC	OutOfTime
+fc_1300_sparse_2.gg	F3-T-B	OutOfTime
+fc_1300_sparse_2.gg	F3-T-A	OutOfTime
+fc_1300_sparse_3.gg	F3-CC	OutOfTime
+fc_1300_sparse_3.gg	F3-T-B	OutOfTime
+fc_1300_sparse_3.gg	F3-T-A	OutOfTime
+fc_1300_sparse_4.gg	F3-CC	OutOfTime
+fc_1300_sparse_4.gg	F3-T-B	OutOfTime
+fc_1300_sparse_4.gg	F3-T-A	OutOfTime
+fc_1400_dense_0.gg	F3-CC	202.0	70164	34	70130	0	0	1	0
+fc_1400_dense_0.gg	F3-T-B	202.0	113521	18	70913	96	42494	9	23
+fc_1400_dense_0.gg	F3-T-A	202.0	112062	18	69747	106	42191	9	25
+fc_1400_dense_1.gg	F3-CC	214.0	157702	38	157664	0	0	1	0
+fc_1400_dense_1.gg	F3-T-B	OutOfTime
+fc_1400_dense_1.gg	F3-T-A	OutOfTime
+fc_1400_dense_2.gg	F3-CC	222.0	398003	19	397984	0	0	1	0
+fc_1400_dense_2.gg	F3-T-B	OutOfTime
+fc_1400_dense_2.gg	F3-T-A	OutOfTime
+fc_1400_dense_3.gg	F3-CC	172.0	41252	18	41234	0	0	1	0
+fc_1400_dense_3.gg	F3-T-B	OutOfTime
+fc_1400_dense_3.gg	F3-T-A	OutOfTime
+fc_1400_dense_4.gg	F3-CC	218.0	117704	20	117684	0	0	1	0
+fc_1400_dense_4.gg	F3-T-B	218.0	304694	18	118559	28	186089	3	8
+fc_1400_dense_4.gg	F3-T-A	218.0	305720	18	119456	38	186208	3	12
+fc_1400_sparse_0.gg	F3-CC	OutOfTime
+fc_1400_sparse_0.gg	F3-T-B	OutOfTime
+fc_1400_sparse_0.gg	F3-T-A	OutOfTime
+fc_1400_sparse_1.gg	F3-CC	OutOfTime
+fc_1400_sparse_1.gg	F3-T-B	OutOfTime
+fc_1400_sparse_1.gg	F3-T-A	OutOfTime
+fc_1400_sparse_2.gg	F3-CC	594.0	22818	18	22800	0	0	1	0
+fc_1400_sparse_2.gg	F3-T-B	OutOfTime
+fc_1400_sparse_2.gg	F3-T-A	OutOfTime
+fc_1400_sparse_3.gg	F3-CC	OutOfTime
+fc_1400_sparse_3.gg	F3-T-B	OutOfTime
+fc_1400_sparse_3.gg	F3-T-A	OutOfTime
+fc_1400_sparse_4.gg	F3-CC	OutOfTime
+fc_1400_sparse_4.gg	F3-T-B	OutOfTime
+fc_1400_sparse_4.gg	F3-T-A	OutOfTime
+fc_1500_dense_0.gg	F3-CC	300.0	52017	24	51993	0	0	1	0
+fc_1500_dense_0.gg	F3-T-B	OutOfTime
+fc_1500_dense_0.gg	F3-T-A	OutOfTime
+fc_1500_dense_1.gg	F3-CC	166.0	220640	24	220616	0	0	1	0
+fc_1500_dense_1.gg	F3-T-B	166.0	221407	19	221383	5	0	1	0
+fc_1500_dense_1.gg	F3-T-A	166.0	221394	19	221369	6	0	1	0
+fc_1500_dense_2.gg	F3-CC	198.0	30131	25	30106	0	0	1	0
+fc_1500_dense_2.gg	F3-T-B	OutOfTime
+fc_1500_dense_2.gg	F3-T-A	OutOfTime
+fc_1500_sparse_0.gg	F3-CC	OutOfTime
+fc_1500_sparse_0.gg	F3-T-B	OutOfTime
+fc_1500_sparse_0.gg	F3-T-A	OutOfTime
+fc_1500_sparse_1.gg	F3-CC	OutOfTime
+fc_1500_sparse_1.gg	F3-T-B	OutOfTime
+fc_1500_sparse_1.gg	F3-T-A	OutOfTime
+fc_1500_sparse_2.gg	F3-CC	OutOfTime
+fc_1500_sparse_2.gg	F3-T-B	OutOfTime
+fc_1500_sparse_2.gg	F3-T-A	OutOfTime
+fc_1600_dense_0.gg	F3-CC	242.0	98797	42	98755	0	0	1	0
+fc_1600_dense_0.gg	F3-T-B	OutOfTime
+fc_1600_dense_0.gg	F3-T-A	OutOfTime
+fc_1600_dense_1.gg	F3-CC	OutOfTime
+fc_1600_dense_1.gg	F3-T-B	OutOfTime
+fc_1600_dense_1.gg	F3-T-A	OutOfTime
+fc_1600_dense_2.gg	F3-CC	236.0	110838	20	110818	0	0	1	0
+fc_1600_dense_2.gg	F3-T-B	236.0	114058	20	111241	18	2779	2	3
+fc_1600_dense_2.gg	F3-T-A	236.0	113618	20	110813	20	2765	2	3
+fc_1600_sparse_0.gg	F3-CC	OutOfTime
+fc_1600_sparse_0.gg	F3-T-B	OutOfTime
+fc_1600_sparse_0.gg	F3-T-A	OutOfTime
+fc_1600_sparse_1.gg	F3-CC	OutOfTime
+fc_1600_sparse_1.gg	F3-T-B	OutOfTime
+fc_1600_sparse_1.gg	F3-T-A	OutOfTime
+fc_1600_sparse_2.gg	F3-CC	OutOfTime
+fc_1600_sparse_2.gg	F3-T-B	OutOfTime
+fc_1600_sparse_2.gg	F3-T-A	OutOfTime
+fc_1700_dense_0.gg	F3-CC	OutOfTime
+fc_1700_dense_0.gg	F3-T-B	OutOfTime
+fc_1700_dense_0.gg	F3-T-A	OutOfTime
+fc_1700_dense_1.gg	F3-CC	OutOfTime
+fc_1700_dense_1.gg	F3-T-B	OutOfTime
+fc_1700_dense_1.gg	F3-T-A	OutOfTime
+fc_1700_dense_2.gg	F3-CC	OutOfTime
+fc_1700_dense_2.gg	F3-T-B	OutOfTime
+fc_1700_dense_2.gg	F3-T-A	OutOfTime
+fc_1700_sparse_0.gg	F3-CC	OutOfTime
+fc_1700_sparse_0.gg	F3-T-B	OutOfTime
+fc_1700_sparse_0.gg	F3-T-A	OutOfTime
+fc_1700_sparse_1.gg	F3-CC	OutOfTime
+fc_1700_sparse_1.gg	F3-T-B	OutOfTime
+fc_1700_sparse_1.gg	F3-T-A	OutOfTime
+fc_1700_sparse_2.gg	F3-CC	OutOfTime
+fc_1700_sparse_2.gg	F3-T-B	OutOfTime
+fc_1700_sparse_2.gg	F3-T-A	OutOfTime
+fc_1800_dense_0.gg	F3-CC	214.0	622932	28	622904	0	0	1	0
+fc_1800_dense_0.gg	F3-T-B	OutOfTime
+fc_1800_dense_0.gg	F3-T-A	OutOfTime
+fc_1800_dense_1.gg	F3-CC	OutOfTime
+fc_1800_dense_1.gg	F3-T-B	OutOfTime
+fc_1800_dense_1.gg	F3-T-A	OutOfTime
+fc_1800_dense_2.gg	F3-CC	OutOfTime
+fc_1800_dense_2.gg	F3-T-B	OutOfTime
+fc_1800_dense_2.gg	F3-T-A	OutOfTime
+fc_1800_sparse_0.gg	F3-CC	OutOfTime
+fc_1800_sparse_0.gg	F3-T-B	OutOfTime
+fc_1800_sparse_0.gg	F3-T-A	OutOfTime
+fc_1800_sparse_1.gg	F3-CC	OutOfTime
+fc_1800_sparse_1.gg	F3-T-B	OutOfTime
+fc_1800_sparse_1.gg	F3-T-A	OutOfTime
+fc_1800_sparse_2.gg	F3-CC	OutOfTime
+fc_1800_sparse_2.gg	F3-T-B	OutOfTime
+fc_1800_sparse_2.gg	F3-T-A	OutOfTime
+fc_1900_dense_0.gg	F3-CC	256.0	174936	42	174894	0	0	1	0
+fc_1900_dense_0.gg	F3-T-B	OutOfTime
+fc_1900_dense_0.gg	F3-T-A	OutOfTime
+fc_1900_dense_1.gg	F3-CC	260.0	43638	31	43607	0	0	1	0
+fc_1900_dense_1.gg	F3-T-B	260.0	299951	24	43954	266	255707	17	69
+fc_1900_dense_1.gg	F3-T-A	260.0	298723	24	43591	366	254742	17	102
+fc_1900_dense_2.gg	F3-CC	OutOfTime
+fc_1900_dense_2.gg	F3-T-B	OutOfTime
+fc_1900_dense_2.gg	F3-T-A	OutOfTime
+fc_1900_sparse_0.gg	F3-CC	OutOfTime
+fc_1900_sparse_0.gg	F3-T-B	OutOfTime
+fc_1900_sparse_0.gg	F3-T-A	OutOfTime
+fc_1900_sparse_1.gg	F3-CC	OutOfTime
+fc_1900_sparse_1.gg	F3-T-B	OutOfTime
+fc_1900_sparse_1.gg	F3-T-A	OutOfTime
+fc_1900_sparse_2.gg	F3-CC	OutOfTime
+fc_1900_sparse_2.gg	F3-T-B	OutOfTime
+fc_1900_sparse_2.gg	F3-T-A	OutOfTime
+fc_2000_dense_0.gg	F3-CC	298.0	76030	25	76005	0	0	1	0
+fc_2000_dense_0.gg	F3-T-B	OutOfTime
+fc_2000_dense_0.gg	F3-T-A	OutOfTime
+fc_2000_dense_1.gg	F3-CC	OutOfTime
+fc_2000_dense_1.gg	F3-T-B	OutOfTime
+fc_2000_dense_1.gg	F3-T-A	OutOfTime
+fc_2000_dense_2.gg	F3-CC	OutOfTime
+fc_2000_dense_2.gg	F3-T-B	OutOfTime
+fc_2000_dense_2.gg	F3-T-A	OutOfTime
+fc_2000_sparse_0.gg	F3-CC	OutOfTime
+fc_2000_sparse_0.gg	F3-T-B	OutOfTime
+fc_2000_sparse_0.gg	F3-T-A	OutOfTime
+fc_2000_sparse_1.gg	F3-CC	OutOfTime
+fc_2000_sparse_1.gg	F3-T-B	OutOfTime
+fc_2000_sparse_1.gg	F3-T-A	OutOfTime
+fc_2000_sparse_2.gg	F3-CC	OutOfTime
+fc_2000_sparse_2.gg	F3-T-B	OutOfTime
+fc_2000_sparse_2.gg	F3-T-A	OutOfTime
+fc_2100_dense_0.gg	F3-CC	OutOfTime
+fc_2100_dense_0.gg	F3-T-B	OutOfTime
+fc_2100_dense_0.gg	F3-T-A	OutOfTime
+fc_2100_dense_1.gg	F3-CC	304.0	213534	34	213500	0	0	1	0
+fc_2100_dense_1.gg	F3-T-B	OutOfTime
+fc_2100_dense_1.gg	F3-T-A	OutOfTime
+fc_2100_dense_2.gg	F3-CC	OutOfTime
+fc_2100_dense_2.gg	F3-T-B	OutOfTime
+fc_2100_dense_2.gg	F3-T-A	OutOfTime
+fc_2100_sparse_0.gg	F3-CC	OutOfTime
+fc_2100_sparse_0.gg	F3-T-B	OutOfTime
+fc_2100_sparse_0.gg	F3-T-A	OutOfTime
+fc_2100_sparse_1.gg	F3-CC	OutOfTime
+fc_2100_sparse_1.gg	F3-T-B	OutOfTime
+fc_2100_sparse_1.gg	F3-T-A	OutOfTime
+fc_2100_sparse_2.gg	F3-CC	OutOfTime
+fc_2100_sparse_2.gg	F3-T-B	OutOfTime
+fc_2100_sparse_2.gg	F3-T-A	OutOfTime
+fc_2200_dense_0.gg	F3-CC	304.0	780393	27	780366	0	0	1	0
+fc_2200_dense_0.gg	F3-T-B	OutOfTime
+fc_2200_dense_0.gg	F3-T-A	OutOfTime
+fc_2200_dense_1.gg	F3-CC	OutOfTime
+fc_2200_dense_1.gg	F3-T-B	OutOfTime
+fc_2200_dense_1.gg	F3-T-A	OutOfTime
+fc_2200_dense_2.gg	F3-CC	368.0	265455	48	265407	0	0	1	0
+fc_2200_dense_2.gg	F3-T-B	OutOfTime
+fc_2200_dense_2.gg	F3-T-A	OutOfTime
+fc_2200_sparse_0.gg	F3-CC	OutOfTime
+fc_2200_sparse_0.gg	F3-T-B	OutOfTime
+fc_2200_sparse_0.gg	F3-T-A	OutOfTime
+fc_2200_sparse_1.gg	F3-CC	OutOfTime
+fc_2200_sparse_1.gg	F3-T-B	OutOfTime
+fc_2200_sparse_1.gg	F3-T-A	OutOfTime
+fc_2200_sparse_2.gg	F3-CC	OutOfTime
+fc_2200_sparse_2.gg	F3-T-B	OutOfTime
+fc_2200_sparse_2.gg	F3-T-A	OutOfTime
+fc_2300_dense_0.gg	F3-CC	OutOfTime
+fc_2300_dense_0.gg	F3-T-B	OutOfTime
+fc_2300_dense_0.gg	F3-T-A	OutOfTime
+fc_2300_dense_1.gg	F3-CC	OutOfTime
+fc_2300_dense_1.gg	F3-T-B	OutOfTime
+fc_2300_dense_1.gg	F3-T-A	OutOfTime
+fc_2300_dense_2.gg	F3-CC	OutOfTime
+fc_2300_dense_2.gg	F3-T-B	OutOfTime
+fc_2300_dense_2.gg	F3-T-A	OutOfTime
+fc_2300_sparse_0.gg	F3-CC	OutOfTime
+fc_2300_sparse_0.gg	F3-T-B	OutOfTime
+fc_2300_sparse_0.gg	F3-T-A	OutOfTime
+fc_2300_sparse_1.gg	F3-CC	OutOfTime
+fc_2300_sparse_1.gg	F3-T-B	OutOfTime
+fc_2300_sparse_1.gg	F3-T-A	OutOfTime
+fc_2300_sparse_2.gg	F3-CC	OutOfTime
+fc_2300_sparse_2.gg	F3-T-B	OutOfTime
+fc_2300_sparse_2.gg	F3-T-A	OutOfTime
+fc_2400_dense_0.gg	F3-CC	OutOfTime
+fc_2400_dense_0.gg	F3-T-B	OutOfTime
+fc_2400_dense_0.gg	F3-T-A	OutOfTime
+fc_2400_dense_1.gg	F3-CC	OutOfTime
+fc_2400_dense_1.gg	F3-T-B	OutOfTime
+fc_2400_dense_1.gg	F3-T-A	OutOfTime
+fc_2400_dense_2.gg	F3-CC	OutOfTime
+fc_2400_dense_2.gg	F3-T-B	OutOfTime
+fc_2400_dense_2.gg	F3-T-A	OutOfTime
+fc_2400_sparse_0.gg	F3-CC	OutOfTime
+fc_2400_sparse_0.gg	F3-T-B	OutOfTime
+fc_2400_sparse_0.gg	F3-T-A	OutOfTime
+fc_2400_sparse_1.gg	F3-CC	OutOfTime
+fc_2400_sparse_1.gg	F3-T-B	OutOfTime
+fc_2400_sparse_1.gg	F3-T-A	OutOfTime
+fc_2400_sparse_2.gg	F3-CC	OutOfTime
+fc_2400_sparse_2.gg	F3-T-B	OutOfTime
+fc_2400_sparse_2.gg	F3-T-A	OutOfTime
+fc_2500_dense_0.gg	F3-CC	OutOfTime
+fc_2500_dense_0.gg	F3-T-B	OutOfTime
+fc_2500_dense_0.gg	F3-T-A	OutOfTime
+fc_2500_dense_1.gg	F3-CC	OutOfTime
+fc_2500_dense_1.gg	F3-T-B	OutOfTime
+fc_2500_dense_1.gg	F3-T-A	OutOfTime
+fc_2500_dense_2.gg	F3-CC	OutOfTime
+fc_2500_dense_2.gg	F3-T-B	OutOfTime
+fc_2500_dense_2.gg	F3-T-A	OutOfTime
+fc_2500_sparse_0.gg	F3-CC	OutOfTime
+fc_2500_sparse_0.gg	F3-T-B	OutOfTime
+fc_2500_sparse_0.gg	F3-T-A	OutOfTime
+fc_2500_sparse_1.gg	F3-CC	OutOfTime
+fc_2500_sparse_1.gg	F3-T-B	OutOfTime
+fc_2500_sparse_1.gg	F3-T-A	OutOfTime
+fc_2500_sparse_2.gg	F3-CC	OutOfTime
+fc_2500_sparse_2.gg	F3-T-B	OutOfTime
+fc_2500_sparse_2.gg	F3-T-A	OutOfTime
+fc_2600_dense_0.gg	F3-CC	OutOfTime
+fc_2600_dense_0.gg	F3-T-B	OutOfTime
+fc_2600_dense_0.gg	F3-T-A	OutOfTime
+fc_2600_dense_1.gg	F3-CC	OutOfTime
+fc_2600_dense_1.gg	F3-T-B	OutOfTime
+fc_2600_dense_1.gg	F3-T-A	OutOfTime
+fc_2600_dense_2.gg	F3-CC	OutOfTime
+fc_2600_dense_2.gg	F3-T-B	OutOfTime
+fc_2600_dense_2.gg	F3-T-A	OutOfTime
+fc_2600_sparse_0.gg	F3-CC	OutOfTime
+fc_2600_sparse_0.gg	F3-T-B	OutOfTime
+fc_2600_sparse_0.gg	F3-T-A	OutOfTime
+fc_2600_sparse_1.gg	F3-CC	OutOfTime
+fc_2600_sparse_1.gg	F3-T-B	OutOfTime
+fc_2600_sparse_1.gg	F3-T-A	OutOfTime
+fc_2600_sparse_2.gg	F3-CC	OutOfTime
+fc_2600_sparse_2.gg	F3-T-B	OutOfTime
+fc_2600_sparse_2.gg	F3-T-A	OutOfTime
+fc_2700_dense_0.gg	F3-CC	396.0	441500	46	441454	0	0	1	0
+fc_2700_dense_0.gg	F3-T-B	OutOfTime
+fc_2700_dense_0.gg	F3-T-A	OutOfTime
+fc_2700_dense_1.gg	F3-CC	OutOfTime
+fc_2700_dense_1.gg	F3-T-B	OutOfTime
+fc_2700_dense_1.gg	F3-T-A	OutOfTime
+fc_2700_dense_2.gg	F3-CC	OutOfTime
+fc_2700_dense_2.gg	F3-T-B	OutOfTime
+fc_2700_dense_2.gg	F3-T-A	OutOfTime
+fc_2700_sparse_0.gg	F3-CC	OutOfTime
+fc_2700_sparse_0.gg	F3-T-B	OutOfTime
+fc_2700_sparse_0.gg	F3-T-A	OutOfTime
+fc_2700_sparse_1.gg	F3-CC	OutOfTime
+fc_2700_sparse_1.gg	F3-T-B	OutOfTime
+fc_2700_sparse_1.gg	F3-T-A	OutOfTime
+fc_2700_sparse_2.gg	F3-CC	OutOfTime
+fc_2700_sparse_2.gg	F3-T-B	OutOfTime
+fc_2700_sparse_2.gg	F3-T-A	OutOfTime
+fc_2800_dense_0.gg	F3-CC	460.0	541504	57	541447	0	0	1	0
+fc_2800_dense_0.gg	F3-T-B	OutOfTime
+fc_2800_dense_0.gg	F3-T-A	OutOfTime
+fc_2800_dense_1.gg	F3-CC	OutOfTime
+fc_2800_dense_1.gg	F3-T-B	OutOfTime
+fc_2800_dense_1.gg	F3-T-A	OutOfTime
+fc_2800_dense_2.gg	F3-CC	OutOfTime
+fc_2800_dense_2.gg	F3-T-B	OutOfTime
+fc_2800_dense_2.gg	F3-T-A	OutOfTime
+fc_2800_sparse_0.gg	F3-CC	OutOfTime
+fc_2800_sparse_0.gg	F3-T-B	OutOfTime
+fc_2800_sparse_0.gg	F3-T-A	OutOfTime
+fc_2800_sparse_1.gg	F3-CC	OutOfTime
+fc_2800_sparse_1.gg	F3-T-B	OutOfTime
+fc_2800_sparse_1.gg	F3-T-A	OutOfTime
+fc_2800_sparse_2.gg	F3-CC	OutOfTime
+fc_2800_sparse_2.gg	F3-T-B	OutOfTime
+fc_2800_sparse_2.gg	F3-T-A	OutOfTime
+fc_2900_dense_0.gg	F3-CC	OutOfTime
+fc_2900_dense_0.gg	F3-T-B	OutOfTime
+fc_2900_dense_0.gg	F3-T-A	OutOfTime
+fc_2900_dense_1.gg	F3-CC	OutOfTime
+fc_2900_dense_1.gg	F3-T-B	OutOfTime
+fc_2900_dense_1.gg	F3-T-A	OutOfTime
+fc_2900_dense_2.gg	F3-CC	OutOfTime
+fc_2900_dense_2.gg	F3-T-B	OutOfTime
+fc_2900_dense_2.gg	F3-T-A	OutOfTime
+fc_2900_sparse_0.gg	F3-CC	OutOfTime
+fc_2900_sparse_0.gg	F3-T-B	OutOfTime
+fc_2900_sparse_0.gg	F3-T-A	OutOfTime
+fc_2900_sparse_1.gg	F3-CC	OutOfTime
+fc_2900_sparse_1.gg	F3-T-B	OutOfTime
+fc_2900_sparse_1.gg	F3-T-A	OutOfTime
+fc_2900_sparse_2.gg	F3-CC	OutOfTime
+fc_2900_sparse_2.gg	F3-T-B	OutOfTime
+fc_2900_sparse_2.gg	F3-T-A	OutOfTime
+fc_1500_dense_3.gg	F3-CC	200.0	373402	39	373363	0	0	1	0
+fc_1500_dense_3.gg	F3-T-B	OutOfTime
+fc_1500_dense_3.gg	F3-T-A	OutOfTime
+fc_1500_dense_4.gg	F3-CC	252.0	156633	19	156614	0	0	1	0
+fc_1500_dense_4.gg	F3-T-B	OutOfTime
+fc_1500_dense_4.gg	F3-T-A	OutOfTime
+fc_1500_sparse_3.gg	F3-CC	OutOfTime
+fc_1500_sparse_3.gg	F3-T-B	OutOfTime
+fc_1500_sparse_3.gg	F3-T-A	OutOfTime
+fc_1500_sparse_4.gg	F3-CC	OutOfTime
+fc_1500_sparse_4.gg	F3-T-B	OutOfTime
+fc_1500_sparse_4.gg	F3-T-A	OutOfTime
+fc_1600_dense_3.gg	F3-CC	236.0	224370	34	224336	0	0	1	0
+fc_1600_dense_3.gg	F3-T-B	OutOfTime
+fc_1600_dense_3.gg	F3-T-A	OutOfTime
+fc_1600_dense_4.gg	F3-CC	246.0	59550	21	59529	0	0	1	0
+fc_1600_dense_4.gg	F3-T-B	OutOfTime
+fc_1600_dense_4.gg	F3-T-A	OutOfTime
+fc_1600_sparse_3.gg	F3-CC	OutOfTime
+fc_1600_sparse_3.gg	F3-T-B	OutOfTime
+fc_1600_sparse_3.gg	F3-T-A	OutOfTime
+fc_1600_sparse_4.gg	F3-CC	OutOfTime
+fc_1600_sparse_4.gg	F3-T-B	OutOfTime
+fc_1600_sparse_4.gg	F3-T-A	OutOfTime
+fc_1700_dense_3.gg	F3-CC	192.0	583072	22	583050	0	0	1	0
+fc_1700_dense_3.gg	F3-T-B	OutOfTime
+fc_1700_dense_3.gg	F3-T-A	OutOfTime
+fc_1700_dense_4.gg	F3-CC	OutOfTime
+fc_1700_dense_4.gg	F3-T-B	OutOfTime
+fc_1700_dense_4.gg	F3-T-A	OutOfTime
+fc_1700_sparse_3.gg	F3-CC	OutOfTime
+fc_1700_sparse_3.gg	F3-T-B	OutOfTime
+fc_1700_sparse_3.gg	F3-T-A	OutOfTime
+fc_1700_sparse_4.gg	F3-CC	OutOfTime
+fc_1700_sparse_4.gg	F3-T-B	OutOfTime
+fc_1700_sparse_4.gg	F3-T-A	OutOfTime
+fc_1800_dense_3.gg	F3-CC	OutOfTime
+fc_1800_dense_3.gg	F3-T-B	OutOfTime
+fc_1800_dense_3.gg	F3-T-A	OutOfTime
+fc_1800_dense_4.gg	F3-CC	OutOfTime
+fc_1800_dense_4.gg	F3-T-B	OutOfTime
+fc_1800_dense_4.gg	F3-T-A	OutOfTime
+fc_1800_sparse_3.gg	F3-CC	OutOfTime
+fc_1800_sparse_3.gg	F3-T-B	OutOfTime
+fc_1800_sparse_3.gg	F3-T-A	OutOfTime
+fc_1800_sparse_4.gg	F3-CC	OutOfTime
+fc_1800_sparse_4.gg	F3-T-B	OutOfTime
+fc_1800_sparse_4.gg	F3-T-A	OutOfTime
+fc_1900_dense_3.gg	F3-CC	OutOfTime
+fc_1900_dense_3.gg	F3-T-B	OutOfTime
+fc_1900_dense_3.gg	F3-T-A	OutOfTime
+fc_1900_dense_4.gg	F3-CC	OutOfTime
+fc_1900_dense_4.gg	F3-T-B	OutOfTime
+fc_1900_dense_4.gg	F3-T-A	OutOfTime
+fc_1900_sparse_3.gg	F3-CC	OutOfTime
+fc_1900_sparse_3.gg	F3-T-B	OutOfTime
+fc_1900_sparse_3.gg	F3-T-A	OutOfTime
+fc_1900_sparse_4.gg	F3-CC	OutOfTime
+fc_1900_sparse_4.gg	F3-T-B	OutOfTime
+fc_1900_sparse_4.gg	F3-T-A	OutOfTime
+fc_2000_dense_3.gg	F3-CC	302.0	232473	25	232448	0	0	1	0
+fc_2000_dense_3.gg	F3-T-B	OutOfTime
+fc_2000_dense_3.gg	F3-T-A	OutOfTime
+fc_2000_dense_4.gg	F3-CC	OutOfTime
+fc_2000_dense_4.gg	F3-T-B	OutOfTime
+fc_2000_dense_4.gg	F3-T-A	OutOfTime
+fc_2000_sparse_3.gg	F3-CC	OutOfTime
+fc_2000_sparse_3.gg	F3-T-B	OutOfTime
+fc_2000_sparse_3.gg	F3-T-A	OutOfTime
+fc_2000_sparse_4.gg	F3-CC	OutOfTime
+fc_2000_sparse_4.gg	F3-T-B	OutOfTime
+fc_2000_sparse_4.gg	F3-T-A	OutOfTime
+fc_2100_dense_3.gg	F3-CC	OutOfTime
+fc_2100_dense_3.gg	F3-T-B	OutOfTime
+fc_2100_dense_3.gg	F3-T-A	OutOfTime
+fc_2100_dense_4.gg	F3-CC	346.0	186596	27	186569	0	0	1	0
+fc_2100_dense_4.gg	F3-T-B	OutOfTime
+fc_2100_dense_4.gg	F3-T-A	OutOfTime
+fc_2100_sparse_3.gg	F3-CC	OutOfTime
+fc_2100_sparse_3.gg	F3-T-B	OutOfTime
+fc_2100_sparse_3.gg	F3-T-A	OutOfTime
+fc_2100_sparse_4.gg	F3-CC	OutOfTime
+fc_2100_sparse_4.gg	F3-T-B	OutOfTime
+fc_2100_sparse_4.gg	F3-T-A	OutOfTime
+fc_2200_dense_3.gg	F3-CC	OutOfTime
+fc_2200_dense_3.gg	F3-T-B	OutOfTime
+fc_2200_dense_3.gg	F3-T-A	OutOfTime
+fc_2200_dense_4.gg	F3-CC	OutOfTime
+fc_2200_dense_4.gg	F3-T-B	OutOfTime
+fc_2200_dense_4.gg	F3-T-A	OutOfTime
+fc_2200_sparse_3.gg	F3-CC	OutOfTime
+fc_2200_sparse_3.gg	F3-T-B	OutOfTime
+fc_2200_sparse_3.gg	F3-T-A	OutOfTime
+fc_2200_sparse_4.gg	F3-CC	1024.0	638986	48	638938	0	0	1	0
+fc_2200_sparse_4.gg	F3-T-B	OutOfTime
+fc_2200_sparse_4.gg	F3-T-A	OutOfTime
+fc_2300_dense_3.gg	F3-CC	OutOfTime
+fc_2300_dense_3.gg	F3-T-B	OutOfTime
+fc_2300_dense_3.gg	F3-T-A	OutOfTime
+fc_2300_dense_4.gg	F3-CC	344.0	362526	30	362496	0	0	1	0
+fc_2300_dense_4.gg	F3-T-B	344.0	786473	29	361837	191	424416	10	38
+fc_2300_dense_4.gg	F3-T-A	344.0	794246	32	363838	247	430129	10	60
+fc_2300_sparse_3.gg	F3-CC	OutOfTime
+fc_2300_sparse_3.gg	F3-T-B	OutOfTime
+fc_2300_sparse_3.gg	F3-T-A	OutOfTime
+fc_2300_sparse_4.gg	F3-CC	OutOfTime
+fc_2300_sparse_4.gg	F3-T-B	OutOfTime
+fc_2300_sparse_4.gg	F3-T-A	OutOfTime
+fc_2400_dense_3.gg	F3-CC	OutOfTime
+fc_2400_dense_3.gg	F3-T-B	OutOfTime
+fc_2400_dense_3.gg	F3-T-A	OutOfTime
+fc_2400_dense_4.gg	F3-CC	OutOfTime
+fc_2400_dense_4.gg	F3-T-B	OutOfTime
+fc_2400_dense_4.gg	F3-T-A	OutOfTime
+fc_2400_sparse_3.gg	F3-CC	OutOfTime
+fc_2400_sparse_3.gg	F3-T-B	OutOfTime
+fc_2400_sparse_3.gg	F3-T-A	OutOfTime
+fc_2400_sparse_4.gg	F3-CC	OutOfTime
+fc_2400_sparse_4.gg	F3-T-B	OutOfTime
+fc_2400_sparse_4.gg	F3-T-A	OutOfTime
+fc_2500_dense_3.gg	F3-CC	OutOfTime
+fc_2500_dense_3.gg	F3-T-B	OutOfTime
+fc_2500_dense_3.gg	F3-T-A	OutOfTime
+fc_2500_dense_4.gg	F3-CC	OutOfTime
+fc_2500_dense_4.gg	F3-T-B	OutOfTime
+fc_2500_dense_4.gg	F3-T-A	OutOfTime
+fc_2500_sparse_3.gg	F3-CC	OutOfTime
+fc_2500_sparse_3.gg	F3-T-B	OutOfTime
+fc_2500_sparse_3.gg	F3-T-A	OutOfTime
+fc_2500_sparse_4.gg	F3-CC	OutOfTime
+fc_2500_sparse_4.gg	F3-T-B	OutOfTime
+fc_2500_sparse_4.gg	F3-T-A	OutOfTime
+fc_2600_dense_3.gg	F3-CC	OutOfTime
+fc_2600_dense_3.gg	F3-T-B	OutOfTime
+fc_2600_dense_3.gg	F3-T-A	OutOfTime
+fc_2600_dense_4.gg	F3-CC	OutOfTime
+fc_2600_dense_4.gg	F3-T-B	OutOfTime
+fc_2600_dense_4.gg	F3-T-A	OutOfTime
+fc_2600_sparse_3.gg	F3-CC	OutOfTime
+fc_2600_sparse_3.gg	F3-T-B	OutOfTime
+fc_2600_sparse_3.gg	F3-T-A	OutOfTime
+fc_2600_sparse_4.gg	F3-CC	OutOfTime
+fc_2600_sparse_4.gg	F3-T-B	OutOfTime
+fc_2600_sparse_4.gg	F3-T-A	OutOfTime
+fc_2700_dense_3.gg	F3-CC	OutOfTime
+fc_2700_dense_3.gg	F3-T-B	OutOfTime
+fc_2700_dense_3.gg	F3-T-A	OutOfTime
+fc_2700_dense_4.gg	F3-CC	OutOfTime
+fc_2700_dense_4.gg	F3-T-B	OutOfTime
+fc_2700_dense_4.gg	F3-T-A	OutOfTime
+fc_2700_sparse_3.gg	F3-CC	OutOfTime
+fc_2700_sparse_3.gg	F3-T-B	OutOfTime
+fc_2700_sparse_3.gg	F3-T-A	OutOfTime
+fc_2700_sparse_4.gg	F3-CC	OutOfTime
+fc_2700_sparse_4.gg	F3-T-B	OutOfTime
+fc_2700_sparse_4.gg	F3-T-A	OutOfTime
+fc_2800_dense_3.gg	F3-CC	OutOfTime
+fc_2800_dense_3.gg	F3-T-B	OutOfTime
+fc_2800_dense_3.gg	F3-T-A	OutOfTime
+fc_2800_dense_4.gg	F3-CC	OutOfTime
+fc_2800_dense_4.gg	F3-T-B	OutOfTime
+fc_2800_dense_4.gg	F3-T-A	OutOfTime
+fc_2800_sparse_3.gg	F3-CC	OutOfTime
+fc_2800_sparse_3.gg	F3-T-B	OutOfTime
+fc_2800_sparse_3.gg	F3-T-A	OutOfTime
+fc_2800_sparse_4.gg	F3-CC	OutOfTime
+fc_2800_sparse_4.gg	F3-T-B	OutOfTime
+fc_2800_sparse_4.gg	F3-T-A	OutOfTime
+fc_2900_dense_3.gg	F3-CC	504.0	106681	40	106641	0	0	1	0
+fc_2900_dense_3.gg	F3-T-B	OutOfTime
+fc_2900_dense_3.gg	F3-T-A	OutOfTime
+fc_2900_dense_4.gg	F3-CC	OutOfTime
+fc_2900_dense_4.gg	F3-T-B	OutOfTime
+fc_2900_dense_4.gg	F3-T-A	OutOfTime
+fc_2900_sparse_3.gg	F3-CC	OutOfTime
+fc_2900_sparse_3.gg	F3-T-B	OutOfTime
+fc_2900_sparse_3.gg	F3-T-A	OutOfTime
+fc_2900_sparse_4.gg	F3-CC	OutOfTime
+fc_2900_sparse_4.gg	F3-T-B	OutOfTime
+fc_2900_sparse_4.gg	F3-T-A	OutOfTime
+fc_100_dense_2.gg	F3-CC	34.0	43	5	38	0	0	1	0
+fc_100_dense_2.gg	F3-T-B	34.0	157	6	56	0	95	3	5
+fc_100_dense_2.gg	F3-T-A	34.0	134	2	37	0	95	3	5
+fc_100_dense_4.gg	F3-CC	24.0	32	3	29	0	0	1	0
+fc_100_dense_4.gg	F3-T-B	24.0	743	2	29	0	712	14	29
+fc_100_dense_4.gg	F3-T-A	24.0	702	2	28	0	672	14	29
+fc_100_sparse_2.gg	F3-CC	32.0	51	2	49	0	0	1	0
+fc_100_sparse_2.gg	F3-T-B	32.0	248	2	50	0	196	7	15
+fc_100_sparse_2.gg	F3-T-A	32.0	243	2	49	0	192	7	15
+fc_100_sparse_4.gg	F3-CC	40.0	28	2	26	0	0	1	0
+fc_100_sparse_4.gg	F3-T-B	OutOfTime
+fc_100_sparse_4.gg	F3-T-A	OutOfTime
+fc_200_sparse_1.gg	F3-CC	74.0	164	3	161	0	0	1	0
+fc_200_sparse_1.gg	F3-T-B	OutOfTime
+fc_200_sparse_1.gg	F3-T-A	OutOfTime
+fc_200_sparse_4.gg	F3-CC	78.0	273	4	269	0	0	1	0
+fc_200_sparse_4.gg	F3-T-B	78.0	5256	3	262	17	4974	18	53
+fc_200_sparse_4.gg	F3-T-A	78.0	7585	3	261	21	7300	21	78
+fc_200_dense_4.gg	F3-CC	48.0	108	3	105	0	0	1	0
+fc_200_dense_4.gg	F3-T-B	48.0	1930	3	105	10	1812	11	32
+fc_200_dense_4.gg	F3-T-A	48.0	1979	3	105	10	1861	11	32
