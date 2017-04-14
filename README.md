@@ -9,12 +9,12 @@ Most research on touring and covering problems focuses only on distance costs, b
 
 ## Code
 
-TODO
+See [./code](./code)
 
 ## Experimental data and instances
 
 See [./experiments](./experiments)
 
-## Errata
+## Further
 
-* During the preparation of the experimental result table it has been noticed that there was a bad entry for the second integer program for full coverage in grid graphs. It wasn't able to solve the largest entry. This does not change the results because the second formulations was anyway the weakest one.
+Please see [http://krupke.cc/m/tubs/mt/](http://krupke.cc/m/tubs/mt/) for a more detailed page. This Github page is mainly a backup.
