@@ -9,6 +9,8 @@ Most research on touring and covering problems focuses only on distance costs, b
 
 ## Code
 
+**A new and clean implementation of the integer programming solver and of the approximation algorithm is soon to be published. If you need this implementation now, please contact me.**
+
 See [./code](./code)
 
 ## Experimental data and instances
